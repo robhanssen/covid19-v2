@@ -1,0 +1,2839 @@
+date,time,location,growth
+2020-01-24,2,Africa,0
+2020-01-24,2,Australasia,0.9
+2020-01-24,2,Cruise,0
+2020-01-24,2,East Asia,98
+2020-01-24,2,Eastern Europe,0
+2020-01-24,2,Eurasia,0
+2020-01-24,2,Indian Subcontinent,0
+2020-01-24,2,Latin America,0
+2020-01-24,2,Middle East,0
+2020-01-24,2,North America,0
+2020-01-24,2,Western Europe,0
+2020-01-25,3,Africa,0
+2020-01-25,3,Australasia,2
+2020-01-25,3,Cruise,0
+2020-01-25,3,East Asia,282
+2020-01-25,3,Eastern Europe,0
+2020-01-25,3,Eurasia,0
+2020-01-25,3,Indian Subcontinent,0
+2020-01-25,3,Latin America,0
+2020-01-25,3,Middle East,0
+2020-01-25,3,North America,1
+2020-01-25,3,Western Europe,1.9
+2020-01-26,4,Africa,0
+2020-01-26,4,Australasia,3
+2020-01-26,4,Cruise,0
+2020-01-26,4,East Asia,489
+2020-01-26,4,Eastern Europe,0
+2020-01-26,4,Eurasia,0
+2020-01-26,4,Indian Subcontinent,0
+2020-01-26,4,Latin America,0
+2020-01-26,4,Middle East,0
+2020-01-26,4,North America,0
+2020-01-26,4,Western Europe,1
+2020-01-27,5,Africa,0
+2020-01-27,5,Australasia,6
+2020-01-27,5,Cruise,0
+2020-01-27,5,East Asia,674
+2020-01-27,5,Eastern Europe,0
+2020-01-27,5,Eurasia,0
+2020-01-27,5,Indian Subcontinent,0
+2020-01-27,5,Latin America,0
+2020-01-27,5,Middle East,0
+2020-01-27,5,North America,4
+2020-01-27,5,Western Europe,0
+2020-01-28,6,Africa,0
+2020-01-28,6,Australasia,2
+2020-01-28,6,Cruise,0
+2020-01-28,6,East Asia,804
+2020-01-28,6,Eastern Europe,0
+2020-01-28,6,Eurasia,0
+2020-01-28,6,Indian Subcontinent,1.9
+2020-01-28,6,Latin America,0
+2020-01-28,6,Middle East,0
+2020-01-28,6,North America,0
+2020-01-28,6,Western Europe,1
+2020-01-29,7,Africa,0
+2020-01-29,7,Australasia,2
+2020-01-29,7,Cruise,0
+2020-01-29,7,East Asia,2644
+2020-01-29,7,Eastern Europe,0
+2020-01-29,7,Eurasia,0
+2020-01-29,7,Indian Subcontinent,0
+2020-01-29,7,Latin America,0
+2020-01-29,7,Middle East,0
+2020-01-29,7,North America,1
+2020-01-29,7,Western Europe,4
+2020-01-30,8,Africa,0
+2020-01-30,8,Australasia,4
+2020-01-30,8,Cruise,0
+2020-01-30,8,East Asia,578
+2020-01-30,8,Eastern Europe,0
+2020-01-30,8,Eurasia,0
+2020-01-30,8,Indian Subcontinent,0
+2020-01-30,8,Latin America,0
+2020-01-30,8,Middle East,3.9
+2020-01-30,8,North America,1
+2020-01-30,8,Western Europe,2
+2020-01-31,9,Africa,0
+2020-01-31,9,Australasia,7
+2020-01-31,9,Cruise,0
+2020-01-31,9,East Asia,2060
+2020-01-31,9,Eastern Europe,0
+2020-01-31,9,Eurasia,0
+2020-01-31,9,Indian Subcontinent,1
+2020-01-31,9,Latin America,0
+2020-01-31,9,Middle East,0
+2020-01-31,9,North America,0
+2020-01-31,9,Western Europe,0
+2020-02-01,10,Africa,0
+2020-02-01,10,Australasia,3
+2020-02-01,10,Cruise,0
+2020-02-01,10,East Asia,1678
+2020-02-01,10,Eastern Europe,0
+2020-02-01,10,Eurasia,1.9
+2020-02-01,10,Indian Subcontinent,0
+2020-02-01,10,Latin America,0
+2020-02-01,10,Middle East,0
+2020-02-01,10,North America,4
+2020-02-01,10,Western Europe,5
+2020-02-02,11,Africa,0
+2020-02-02,11,Australasia,6
+2020-02-02,11,Cruise,0
+2020-02-02,11,East Asia,2099
+2020-02-02,11,Eastern Europe,0
+2020-02-02,11,Eurasia,0
+2020-02-02,11,Indian Subcontinent,0
+2020-02-02,11,Latin America,0
+2020-02-02,11,Middle East,0
+2020-02-02,11,North America,0
+2020-02-02,11,Western Europe,6
+2020-02-03,12,Africa,0
+2020-02-03,12,Australasia,2
+2020-02-03,12,Cruise,0
+2020-02-03,12,East Asia,4743
+2020-02-03,12,Eastern Europe,0
+2020-02-03,12,Eurasia,0
+2020-02-03,12,Indian Subcontinent,1
+2020-02-03,12,Latin America,0
+2020-02-03,12,Middle East,1
+2020-02-03,12,North America,0
+2020-02-03,12,Western Europe,2
+2020-02-04,13,Africa,0
+2020-02-04,13,Australasia,0
+2020-02-04,13,Cruise,0
+2020-02-04,13,East Asia,3088
+2020-02-04,13,Eastern Europe,0
+2020-02-04,13,Eurasia,0
+2020-02-04,13,Indian Subcontinent,1
+2020-02-04,13,Latin America,0
+2020-02-04,13,Middle East,0
+2020-02-04,13,North America,3
+2020-02-04,13,Western Europe,8
+2020-02-05,14,Africa,0
+2020-02-05,14,Australasia,9
+2020-02-05,14,Cruise,0
+2020-02-05,14,East Asia,4001
+2020-02-05,14,Eastern Europe,0
+2020-02-05,14,Eurasia,0
+2020-02-05,14,Indian Subcontinent,0
+2020-02-05,14,Latin America,0
+2020-02-05,14,Middle East,0
+2020-02-05,14,North America,0
+2020-02-05,14,Western Europe,1
+2020-02-06,15,Africa,0
+2020-02-06,15,Australasia,6
+2020-02-06,15,Cruise,0
+2020-02-06,15,East Asia,3737
+2020-02-06,15,Eastern Europe,0
+2020-02-06,15,Eurasia,0
+2020-02-06,15,Indian Subcontinent,0
+2020-02-06,15,Latin America,0
+2020-02-06,15,Middle East,0
+2020-02-06,15,North America,1
+2020-02-06,15,Western Europe,1
+2020-02-07,16,Africa,0
+2020-02-07,16,Australasia,1
+2020-02-07,16,Cruise,0
+2020-02-07,16,East Asia,3158
+2020-02-07,16,Eastern Europe,0
+2020-02-07,16,Eurasia,0
+2020-02-07,16,Indian Subcontinent,0
+2020-02-07,16,Latin America,0
+2020-02-07,16,Middle East,0
+2020-02-07,16,North America,1
+2020-02-07,16,Western Europe,0
+2020-02-08,17,Africa,0
+2020-02-08,17,Australasia,3
+2020-02-08,17,Cruise,60.9
+2020-02-08,17,East Asia,3525
+2020-02-08,17,Eastern Europe,0
+2020-02-08,17,Eurasia,0
+2020-02-08,17,Indian Subcontinent,0
+2020-02-08,17,Latin America,0
+2020-02-08,17,Middle East,0
+2020-02-08,17,North America,2
+2020-02-08,17,Western Europe,2
+2020-02-09,18,Africa,0
+2020-02-09,18,Australasia,7
+2020-02-09,18,Cruise,0
+2020-02-09,18,East Asia,2716
+2020-02-09,18,Eastern Europe,0
+2020-02-09,18,Eurasia,0
+2020-02-09,18,Indian Subcontinent,0
+2020-02-09,18,Latin America,0
+2020-02-09,18,Middle East,2
+2020-02-09,18,North America,0
+2020-02-09,18,Western Europe,9
+2020-02-10,19,Africa,0
+2020-02-10,19,Australasia,7
+2020-02-10,19,Cruise,3
+2020-02-10,19,East Asia,3017
+2020-02-10,19,Eastern Europe,0
+2020-02-10,19,Eurasia,0
+2020-02-10,19,Indian Subcontinent,0
+2020-02-10,19,Latin America,0
+2020-02-10,19,Middle East,0
+2020-02-10,19,North America,0
+2020-02-10,19,Western Europe,3
+2020-02-11,20,Africa,0
+2020-02-11,20,Australasia,7
+2020-02-11,20,Cruise,71
+2020-02-11,20,East Asia,2530
+2020-02-11,20,Eastern Europe,0
+2020-02-11,20,Eurasia,0
+2020-02-11,20,Indian Subcontinent,0
+2020-02-11,20,Latin America,0
+2020-02-11,20,Middle East,1
+2020-02-11,20,North America,0
+2020-02-11,20,Western Europe,0
+2020-02-12,21,Africa,0
+2020-02-12,21,Australasia,2
+2020-02-12,21,Cruise,0
+2020-02-12,21,East Asia,2036
+2020-02-12,21,Eastern Europe,0
+2020-02-12,21,Eurasia,0
+2020-02-12,21,Indian Subcontinent,0
+2020-02-12,21,Latin America,0
+2020-02-12,21,Middle East,0
+2020-02-12,21,North America,1
+2020-02-12,21,Western Europe,3
+2020-02-13,22,Africa,0
+2020-02-13,22,Australasia,3
+2020-02-13,22,Cruise,40
+2020-02-13,22,East Asia,374
+2020-02-13,22,Eastern Europe,0
+2020-02-13,22,Eurasia,0
+2020-02-13,22,Indian Subcontinent,0
+2020-02-13,22,Latin America,0
+2020-02-13,22,Middle East,0
+2020-02-13,22,North America,0
+2020-02-13,22,Western Europe,1
+2020-02-14,23,Africa,0
+2020-02-14,23,Australasia,9
+2020-02-14,23,Cruise,0
+2020-02-14,23,East Asia,15142
+2020-02-14,23,Eastern Europe,0
+2020-02-14,23,Eurasia,0
+2020-02-14,23,Indian Subcontinent,0
+2020-02-14,23,Latin America,0
+2020-02-14,23,Middle East,0
+2020-02-14,23,North America,1
+2020-02-14,23,Western Europe,1
+2020-02-15,24,Africa,0.9
+2020-02-15,24,Australasia,9
+2020-02-15,24,Cruise,43
+2020-02-15,24,East Asia,6473
+2020-02-15,24,Eastern Europe,0
+2020-02-15,24,Eurasia,0
+2020-02-15,24,Indian Subcontinent,0
+2020-02-15,24,Latin America,0
+2020-02-15,24,Middle East,0
+2020-02-15,24,North America,0
+2020-02-15,24,Western Europe,1
+2020-02-16,25,Africa,0
+2020-02-16,25,Australasia,8
+2020-02-16,25,Cruise,67
+2020-02-16,25,East Asia,2066
+2020-02-16,25,Eastern Europe,0
+2020-02-16,25,Eurasia,0
+2020-02-16,25,Indian Subcontinent,0
+2020-02-16,25,Latin America,0
+2020-02-16,25,Middle East,0
+2020-02-16,25,North America,0
+2020-02-16,25,Western Europe,1
+2020-02-17,26,Africa,0
+2020-02-17,26,Australasia,3
+2020-02-17,26,Cruise,70
+2020-02-17,26,East Asia,2110
+2020-02-17,26,Eastern Europe,0
+2020-02-17,26,Eurasia,0
+2020-02-17,26,Indian Subcontinent,0
+2020-02-17,26,Latin America,0
+2020-02-17,26,Middle East,1
+2020-02-17,26,North America,0
+2020-02-17,26,Western Europe,0
+2020-02-18,27,Africa,0
+2020-02-18,27,Australasia,2
+2020-02-18,27,Cruise,99
+2020-02-18,27,East Asia,1932
+2020-02-18,27,Eastern Europe,0
+2020-02-18,27,Eurasia,0
+2020-02-18,27,Indian Subcontinent,0
+2020-02-18,27,Latin America,0
+2020-02-18,27,Middle East,0
+2020-02-18,27,North America,1
+2020-02-18,27,Western Europe,1
+2020-02-19,28,Africa,0
+2020-02-19,28,Australasia,4
+2020-02-19,28,Cruise,88
+2020-02-19,28,East Asia,1790
+2020-02-19,28,Eastern Europe,0
+2020-02-19,28,Eurasia,0
+2020-02-19,28,Indian Subcontinent,0
+2020-02-19,28,Latin America,0
+2020-02-19,28,Middle East,0
+2020-02-19,28,North America,0
+2020-02-19,28,Western Europe,0
+2020-02-20,29,Africa,0
+2020-02-20,29,Australasia,3
+2020-02-20,29,Cruise,79
+2020-02-20,29,East Asia,415
+2020-02-20,29,Eastern Europe,0
+2020-02-20,29,Eurasia,0
+2020-02-20,29,Indian Subcontinent,0
+2020-02-20,29,Latin America,0
+2020-02-20,29,Middle East,2
+2020-02-20,29,North America,0
+2020-02-20,29,Western Europe,1
+2020-02-21,30,Africa,0
+2020-02-21,30,Australasia,0
+2020-02-21,30,Cruise,13
+2020-02-21,30,East Asia,542
+2020-02-21,30,Eastern Europe,0
+2020-02-21,30,Eurasia,0
+2020-02-21,30,Indian Subcontinent,0
+2020-02-21,30,Latin America,0
+2020-02-21,30,Middle East,3
+2020-02-21,30,North America,0
+2020-02-21,30,Western Europe,2
+2020-02-22,31,Africa,0
+2020-02-22,31,Australasia,1
+2020-02-22,31,Cruise,0
+2020-02-22,31,East Asia,592
+2020-02-22,31,Eastern Europe,0
+2020-02-22,31,Eurasia,0
+2020-02-22,31,Indian Subcontinent,0
+2020-02-22,31,Latin America,0
+2020-02-22,31,Middle East,15
+2020-02-22,31,North America,3
+2020-02-22,31,Western Europe,18
+2020-02-23,32,Africa,0
+2020-02-23,32,Australasia,0
+2020-02-23,32,Cruise,0
+2020-02-23,32,East Asia,1705
+2020-02-23,32,Eastern Europe,0
+2020-02-23,32,Eurasia,0
+2020-02-23,32,Indian Subcontinent,0
+2020-02-23,32,Latin America,0
+2020-02-23,32,Middle East,14
+2020-02-23,32,North America,0
+2020-02-23,32,Western Europe,42
+2020-02-24,33,Africa,0
+2020-02-24,33,Australasia,4
+2020-02-24,33,Cruise,57
+2020-02-24,33,East Asia,204
+2020-02-24,33,Eastern Europe,0
+2020-02-24,33,Eurasia,0
+2020-02-24,33,Indian Subcontinent,0
+2020-02-24,33,Latin America,1.9
+2020-02-24,33,Middle East,15
+2020-02-24,33,North America,0
+2020-02-24,33,Western Europe,98
+2020-02-25,34,Africa,0
+2020-02-25,34,Australasia,0
+2020-02-25,34,Cruise,0
+2020-02-25,34,East Asia,463
+2020-02-25,34,Eastern Europe,0
+2020-02-25,34,Eurasia,0
+2020-02-25,34,Indian Subcontinent,0
+2020-02-25,34,Latin America,0
+2020-02-25,34,Middle East,24
+2020-02-25,34,North America,1
+2020-02-25,34,Western Europe,76
+2020-02-26,35,Africa,1
+2020-02-26,35,Australasia,2
+2020-02-26,35,Cruise,0
+2020-02-26,35,East Asia,673
+2020-02-26,35,Eastern Europe,0.9
+2020-02-26,35,Eurasia,0
+2020-02-26,35,Indian Subcontinent,2
+2020-02-26,35,Latin America,0
+2020-02-26,35,Middle East,66
+2020-02-26,35,North America,1
+2020-02-26,35,Western Europe,107
+2020-02-27,36,Africa,0
+2020-02-27,36,Australasia,2
+2020-02-27,36,Cruise,14
+2020-02-27,36,East Asia,719
+2020-02-27,36,Eastern Europe,6
+2020-02-27,36,Eurasia,0
+2020-02-27,36,Indian Subcontinent,0
+2020-02-27,36,Latin America,1
+2020-02-27,36,Middle East,77
+2020-02-27,36,North America,0
+2020-02-27,36,Western Europe,158
+2020-02-28,37,Africa,0
+2020-02-28,37,Australasia,1
+2020-02-28,37,Cruise,0
+2020-02-28,37,East Asia,965
+2020-02-28,37,Eastern Europe,3
+2020-02-28,37,Eurasia,0
+2020-02-28,37,Indian Subcontinent,0
+2020-02-28,37,Latin America,0
+2020-02-28,37,Middle East,126
+2020-02-28,37,North America,3
+2020-02-28,37,Western Europe,262
+2020-02-29,38,Africa,1
+2020-02-29,38,Australasia,1
+2020-02-29,38,Cruise,0
+2020-02-29,38,East Asia,920
+2020-02-29,38,Eastern Europe,7
+2020-02-29,38,Eurasia,0
+2020-02-29,38,Indian Subcontinent,2
+2020-02-29,38,Latin America,0
+2020-02-29,38,Middle East,155
+2020-02-29,38,North America,2
+2020-02-29,38,Western Europe,297
+2020-03-01,39,Africa,0
+2020-03-01,39,Australasia,21
+2020-03-01,39,Cruise,0
+2020-03-01,39,East Asia,1256
+2020-03-01,39,Eastern Europe,1
+2020-03-01,39,Eurasia,0
+2020-03-01,39,Indian Subcontinent,0
+2020-03-01,39,Latin America,1
+2020-03-01,39,Middle East,226
+2020-03-01,39,North America,17
+2020-03-01,39,Western Europe,371
+2020-03-02,40,Africa,1
+2020-03-02,40,Australasia,10
+2020-03-02,40,Cruise,0
+2020-03-02,40,East Asia,1177
+2020-03-02,40,Eastern Europe,9
+2020-03-02,40,Eurasia,0
+2020-03-02,40,Indian Subcontinent,0
+2020-03-02,40,Latin America,14
+2020-03-02,40,Middle East,412
+2020-03-02,40,North America,12
+2020-03-02,40,Western Europe,748
+2020-03-03,41,Africa,4
+2020-03-03,41,Australasia,7
+2020-03-03,41,Cruise,0
+2020-03-03,41,East Asia,824
+2020-03-03,41,Eastern Europe,0
+2020-03-03,41,Eurasia,1
+2020-03-03,41,Indian Subcontinent,3
+2020-03-03,41,Latin America,0
+2020-03-03,41,Middle East,547
+2020-03-03,41,North America,26
+2020-03-03,41,Western Europe,566
+2020-03-04,42,Africa,3
+2020-03-04,42,Australasia,18
+2020-03-04,42,Cruise,1
+2020-03-04,42,East Asia,997
+2020-03-04,42,Eastern Europe,6
+2020-03-04,42,Eurasia,0
+2020-03-04,42,Indian Subcontinent,0
+2020-03-04,42,Latin America,3
+2020-03-04,42,Middle East,860
+2020-03-04,42,North America,22
+2020-03-04,42,Western Europe,674
+2020-03-05,43,Africa,10
+2020-03-05,43,Australasia,29
+2020-03-05,43,Cruise,0
+2020-03-05,43,East Asia,595
+2020-03-05,43,Eastern Europe,15
+2020-03-05,43,Eurasia,0
+2020-03-05,43,Indian Subcontinent,23
+2020-03-05,43,Latin America,5
+2020-03-05,43,Middle East,599
+2020-03-05,43,North America,36
+2020-03-05,43,Western Europe,1005
+2020-03-06,44,Africa,3
+2020-03-06,44,Australasia,10
+2020-03-06,44,Cruise,0
+2020-03-06,44,East Asia,656
+2020-03-06,44,Eastern Europe,34
+2020-03-06,44,Eurasia,1
+2020-03-06,44,Indian Subcontinent,3
+2020-03-06,44,Latin America,6
+2020-03-06,44,Middle East,618
+2020-03-06,44,North America,81
+2020-03-06,44,Western Europe,1352
+2020-03-07,45,Africa,19
+2020-03-07,45,Australasia,54
+2020-03-07,45,Cruise,0
+2020-03-07,45,East Asia,718
+2020-03-07,45,Eastern Europe,44
+2020-03-07,45,Eurasia,9
+2020-03-07,45,Indian Subcontinent,1
+2020-03-07,45,Latin America,14
+2020-03-07,45,Middle East,1270
+2020-03-07,45,North America,66
+2020-03-07,45,Western Europe,1805
+2020-03-08,46,Africa,0
+2020-03-08,46,Australasia,22
+2020-03-08,46,Cruise,0
+2020-03-08,46,East Asia,579
+2020-03-08,46,Eastern Europe,6
+2020-03-08,46,Eurasia,0
+2020-03-08,46,Indian Subcontinent,3
+2020-03-08,46,Latin America,6
+2020-03-08,46,Middle East,1152
+2020-03-08,46,North America,171
+2020-03-08,46,Western Europe,2123
+2020-03-09,47,Africa,40
+2020-03-09,47,Australasia,37
+2020-03-09,47,Cruise,0
+2020-03-09,47,East Asia,375
+2020-03-09,47,Eastern Europe,79
+2020-03-09,47,Eurasia,4
+2020-03-09,47,Indian Subcontinent,9
+2020-03-09,47,Latin America,32
+2020-03-09,47,Middle East,796
+2020-03-09,47,North America,127
+2020-03-09,47,Western Europe,2461
+2020-03-10,48,Africa,8
+2020-03-10,48,Australasia,47
+2020-03-10,48,Cruise,0
+2020-03-10,48,East Asia,239
+2020-03-10,48,Eastern Europe,13
+2020-03-10,48,Eurasia,0
+2020-03-10,48,Indian Subcontinent,14
+2020-03-10,48,Latin America,11
+2020-03-10,48,Middle East,615
+2020-03-10,48,North America,88
+2020-03-10,48,Western Europe,2928
+2020-03-11,49,Africa,13
+2020-03-11,49,Australasia,48
+2020-03-11,49,Cruise,0
+2020-03-11,49,East Asia,140
+2020-03-11,49,Eastern Europe,89
+2020-03-11,49,Eurasia,3
+2020-03-11,49,Indian Subcontinent,16
+2020-03-11,49,Latin America,23
+2020-03-11,49,Middle East,987
+2020-03-11,49,North America,190
+2020-03-11,49,Western Europe,3502
+2020-03-12,50,Africa,14
+2020-03-12,50,Australasia,78
+2020-03-12,50,Cruise,0
+2020-03-12,50,East Asia,361
+2020-03-12,50,Eastern Europe,159
+2020-03-12,50,Eurasia,1
+2020-03-12,50,Indian Subcontinent,9
+2020-03-12,50,Latin America,47
+2020-03-12,50,Middle East,1315
+2020-03-12,50,North America,395
+2020-03-12,50,Western Europe,5302
+2020-03-13,51,Africa,16
+2020-03-13,51,Australasia,0
+2020-03-13,51,Cruise,0
+2020-03-13,51,East Asia,197
+2020-03-13,51,Eastern Europe,88
+2020-03-13,51,Eurasia,8
+2020-03-13,51,Indian Subcontinent,19
+2020-03-13,51,Latin America,35
+2020-03-13,51,Middle East,1142
+2020-03-13,51,North America,452
+2020-03-13,51,Western Europe,3832
+2020-03-14,52,Africa,42
+2020-03-14,52,Australasia,205
+2020-03-14,52,Cruise,0
+2020-03-14,52,East Asia,186
+2020-03-14,52,Eastern Europe,430
+2020-03-14,52,Eurasia,25
+2020-03-14,52,Indian Subcontinent,18
+2020-03-14,52,Latin America,179
+2020-03-14,52,Middle East,1470
+2020-03-14,52,North America,723
+2020-03-14,52,Western Europe,11103
+2020-03-15,53,Africa,75
+2020-03-15,53,Australasia,135
+2020-03-15,53,Cruise,0
+2020-03-15,53,East Asia,264
+2020-03-15,53,Eastern Europe,326
+2020-03-15,53,Eurasia,16
+2020-03-15,53,Indian Subcontinent,50
+2020-03-15,53,Latin America,101
+2020-03-15,53,Middle East,1510
+2020-03-15,53,North America,779
+2020-03-15,53,Western Europe,7822
+2020-03-16,54,Africa,58
+2020-03-16,54,Australasia,288
+2020-03-16,54,Cruise,0
+2020-03-16,54,East Asia,203
+2020-03-16,54,Eastern Europe,351
+2020-03-16,54,Eurasia,9
+2020-03-16,54,Indian Subcontinent,104
+2020-03-16,54,Latin America,77
+2020-03-16,54,Middle East,1413
+2020-03-16,54,North America,300
+2020-03-16,54,Western Europe,8490
+2020-03-17,55,Africa,86
+2020-03-17,55,Australasia,256
+2020-03-17,55,Cruise,0
+2020-03-17,55,East Asia,169
+2020-03-17,55,Eastern Europe,277
+2020-03-17,55,Eurasia,45
+2020-03-17,55,Indian Subcontinent,120
+2020-03-17,55,Latin America,263
+2020-03-17,55,Middle East,1175
+2020-03-17,55,North America,1659
+2020-03-17,55,Western Europe,10694
+2020-03-18,56,Africa,83
+2020-03-18,56,Australasia,249
+2020-03-18,56,Cruise,0
+2020-03-18,56,East Asia,253
+2020-03-18,56,Eastern Europe,390
+2020-03-18,56,Eurasia,80
+2020-03-18,56,Indian Subcontinent,131
+2020-03-18,56,Latin America,332
+2020-03-18,56,Middle East,1371
+2020-03-18,56,North America,1906
+2020-03-18,56,Western Europe,11135
+2020-03-19,57,Africa,114
+2020-03-19,57,Australasia,358
+2020-03-19,57,Cruise,6
+2020-03-19,57,East Asia,255
+2020-03-19,57,Eastern Europe,373
+2020-03-19,57,Eurasia,94
+2020-03-19,57,Indian Subcontinent,182
+2020-03-19,57,Latin America,274
+2020-03-19,57,Middle East,1378
+2020-03-19,57,North America,2858
+2020-03-19,57,Western Europe,13638
+2020-03-20,58,Africa,176
+2020-03-20,58,Australasia,357
+2020-03-20,58,Cruise,0
+2020-03-20,58,East Asia,339
+2020-03-20,58,Eastern Europe,545
+2020-03-20,58,Eurasia,163
+2020-03-20,58,Indian Subcontinent,101
+2020-03-20,58,Latin America,547
+2020-03-20,58,Middle East,1463
+2020-03-20,58,North America,4683
+2020-03-20,58,Western Europe,18782
+2020-03-21,59,Africa,187
+2020-03-21,59,Australasia,353
+2020-03-21,59,Cruise,0
+2020-03-21,59,East Asia,332
+2020-03-21,59,Eastern Europe,629
+2020-03-21,59,Eurasia,239
+2020-03-21,59,Indian Subcontinent,310
+2020-03-21,59,Latin America,750
+2020-03-21,59,Middle East,1501
+2020-03-21,59,North America,6549
+2020-03-21,59,Western Europe,19785
+2020-03-22,60,Africa,202
+2020-03-22,60,Australasia,580
+2020-03-22,60,Cruise,0
+2020-03-22,60,East Asia,430
+2020-03-22,60,Eastern Europe,768
+2020-03-22,60,Eurasia,386
+2020-03-22,60,Indian Subcontinent,143
+2020-03-22,60,Latin America,898
+2020-03-22,60,Middle East,1326
+2020-03-22,60,North America,6378
+2020-03-22,60,Western Europe,20859
+2020-03-23,61,Africa,265
+2020-03-23,61,Australasia,745
+2020-03-23,61,Cruise,0
+2020-03-23,61,East Asia,633
+2020-03-23,61,Eastern Europe,798
+2020-03-23,61,Eurasia,634
+2020-03-23,61,Indian Subcontinent,203
+2020-03-23,61,Latin America,1388
+2020-03-23,61,Middle East,1549
+2020-03-23,61,North America,9059
+2020-03-23,61,Western Europe,18959
+2020-03-24,62,Africa,376
+2020-03-24,62,Australasia,473
+2020-03-24,62,Cruise,0
+2020-03-24,62,East Asia,344
+2020-03-24,62,Eastern Europe,776
+2020-03-24,62,Eurasia,371
+2020-03-24,62,Indian Subcontinent,224
+2020-03-24,62,Latin America,934
+2020-03-24,62,Middle East,1879
+2020-03-24,62,North America,11889
+2020-03-24,62,Western Europe,26101
+2020-03-25,63,Africa,431
+2020-03-25,63,Australasia,691
+2020-03-25,63,Cruise,0
+2020-03-25,63,East Asia,469
+2020-03-25,63,Eastern Europe,1003
+2020-03-25,63,Eurasia,440
+2020-03-25,63,Indian Subcontinent,145
+2020-03-25,63,Latin America,944
+2020-03-25,63,Middle East,2436
+2020-03-25,63,North America,11317
+2020-03-25,63,Western Europe,23596
+2020-03-26,64,Africa,521
+2020-03-26,64,Australasia,727
+2020-03-26,64,Cruise,0
+2020-03-26,64,East Asia,486
+2020-03-26,64,Eastern Europe,1123
+2020-03-26,64,Eurasia,745
+2020-03-26,64,Indian Subcontinent,265
+2020-03-26,64,Latin America,1064
+2020-03-26,64,Middle East,3711
+2020-03-26,64,North America,12565
+2020-03-26,64,Western Europe,29777
+2020-03-27,65,Africa,550
+2020-03-27,65,Australasia,922
+2020-03-27,65,Cruise,0
+2020-03-27,65,East Asia,539
+2020-03-27,65,Eastern Europe,1137
+2020-03-27,65,Eurasia,1423
+2020-03-27,65,Indian Subcontinent,254
+2020-03-27,65,Latin America,1408
+2020-03-27,65,Middle East,3099
+2020-03-27,65,North America,18795
+2020-03-27,65,Western Europe,34600
+2020-03-28,66,Africa,555
+2020-03-28,66,Australasia,758
+2020-03-28,66,Cruise,0
+2020-03-28,66,East Asia,534
+2020-03-28,66,Eastern Europe,1568
+2020-03-28,66,Eurasia,2331
+2020-03-28,66,Indian Subcontinent,297
+2020-03-28,66,Latin America,1464
+2020-03-28,66,Middle East,3719
+2020-03-28,66,North America,19403
+2020-03-28,66,Western Europe,34353
+2020-03-29,67,Africa,337
+2020-03-29,67,Australasia,923
+2020-03-29,67,Cruise,2
+2020-03-29,67,East Asia,856
+2020-03-29,67,Eastern Europe,1551
+2020-03-29,67,Eurasia,2026
+2020-03-29,67,Indian Subcontinent,212
+2020-03-29,67,Latin America,1708
+2020-03-29,67,Middle East,4075
+2020-03-29,67,North America,20632
+2020-03-29,67,Western Europe,35070
+2020-03-30,68,Africa,548
+2020-03-30,68,Australasia,744
+2020-03-30,68,Cruise,0
+2020-03-30,68,East Asia,923
+2020-03-30,68,Eastern Europe,1543
+2020-03-30,68,Eurasia,2207
+2020-03-30,68,Indian Subcontinent,167
+2020-03-30,68,Latin America,1372
+2020-03-30,68,Middle East,3983
+2020-03-30,68,North America,19778
+2020-03-30,68,Western Europe,28132
+2020-03-31,69,Africa,398
+2020-03-31,69,Australasia,785
+2020-03-31,69,Cruise,0
+2020-03-31,69,East Asia,535
+2020-03-31,69,Eastern Europe,1300
+2020-03-31,69,Eurasia,1945
+2020-03-31,69,Indian Subcontinent,462
+2020-03-31,69,Latin America,1219
+2020-03-31,69,Middle East,4207
+2020-03-31,69,North America,23232
+2020-03-31,69,Western Europe,31158
+2020-04-01,70,Africa,581
+2020-04-01,70,Australasia,560
+2020-04-01,70,Cruise,0
+2020-04-01,70,East Asia,1150
+2020-04-01,70,Eastern Europe,1564
+2020-04-01,70,Eurasia,3282
+2020-04-01,70,Indian Subcontinent,355
+2020-04-01,70,Latin America,2648
+2020-04-01,70,Middle East,4290
+2020-04-01,70,North America,27613
+2020-04-01,70,Western Europe,34781
+2020-04-02,71,Africa,587
+2020-04-02,71,Australasia,744
+2020-04-02,71,Cruise,7
+2020-04-02,71,East Asia,825
+2020-04-02,71,Eastern Europe,1620
+2020-04-02,71,Eurasia,2638
+2020-04-02,71,Indian Subcontinent,911
+2020-04-02,71,Latin America,2657
+2020-04-02,71,Middle East,4356
+2020-04-02,71,North America,27015
+2020-04-02,71,Western Europe,35166
+2020-04-03,72,Africa,629
+2020-04-03,72,Australasia,739
+2020-04-03,72,Cruise,0
+2020-04-03,72,East Asia,896
+2020-04-03,72,Eastern Europe,2167
+2020-04-03,72,Eurasia,3311
+2020-04-03,72,Indian Subcontinent,823
+2020-04-03,72,Latin America,2665
+2020-04-03,72,Middle East,4532
+2020-04-03,72,North America,32248
+2020-04-03,72,Western Europe,33324
+2020-04-04,73,Africa,853
+2020-04-04,73,Australasia,792
+2020-04-04,73,Cruise,0
+2020-04-04,73,East Asia,1002
+2020-04-04,73,Eastern Europe,2353
+2020-04-04,73,Eurasia,3452
+2020-04-04,73,Indian Subcontinent,173
+2020-04-04,73,Latin America,2375
+2020-04-04,73,Middle East,4161
+2020-04-04,73,North America,33331
+2020-04-04,73,Western Europe,34764
+2020-04-05,74,Africa,631
+2020-04-05,74,Australasia,680
+2020-04-05,74,Cruise,0
+2020-04-05,74,East Asia,675
+2020-04-05,74,Eastern Europe,2203
+2020-04-05,74,Eurasia,3715
+2020-04-05,74,Indian Subcontinent,871
+2020-04-05,74,Latin America,2740
+2020-04-05,74,Middle East,3960
+2020-04-05,74,North America,33744
+2020-04-05,74,Western Europe,31138
+2020-04-06,75,Africa,700
+2020-04-06,75,Australasia,716
+2020-04-06,75,Cruise,0
+2020-04-06,75,East Asia,754
+2020-04-06,75,Eastern Europe,1955
+2020-04-06,75,Eurasia,3925
+2020-04-06,75,Indian Subcontinent,1144
+2020-04-06,75,Latin America,2372
+2020-04-06,75,Middle East,4268
+2020-04-06,75,North America,31215
+2020-04-06,75,Western Europe,24927
+2020-04-07,76,Africa,688
+2020-04-07,76,Australasia,602
+2020-04-07,76,Cruise,0
+2020-04-07,76,East Asia,824
+2020-04-07,76,Eastern Europe,1594
+2020-04-07,76,Eurasia,4364
+2020-04-07,76,Indian Subcontinent,1499
+2020-04-07,76,Latin America,2385
+2020-04-07,76,Middle East,3846
+2020-04-07,76,North America,31288
+2020-04-07,76,Western Europe,26143
+2020-04-08,77,Africa,601
+2020-04-08,77,Australasia,707
+2020-04-08,77,Cruise,0
+2020-04-08,77,East Asia,624
+2020-04-08,77,Eastern Europe,2223
+2020-04-08,77,Eurasia,5156
+2020-04-08,77,Indian Subcontinent,812
+2020-04-08,77,Latin America,3212
+2020-04-08,77,Middle East,3566
+2020-04-08,77,North America,33054
+2020-04-08,77,Western Europe,27786
+2020-04-09,78,Africa,781
+2020-04-09,78,Australasia,703
+2020-04-09,78,Cruise,0
+2020-04-09,78,East Asia,902
+2020-04-09,78,Eastern Europe,2300
+2020-04-09,78,Eurasia,5389
+2020-04-09,78,Indian Subcontinent,892
+2020-04-09,78,Latin America,5502
+2020-04-09,78,Middle East,3185
+2020-04-09,78,North America,33681
+2020-04-09,78,Western Europe,30696
+2020-04-10,79,Africa,777
+2020-04-10,79,Australasia,893
+2020-04-10,79,Cruise,0
+2020-04-10,79,East Asia,972
+2020-04-10,79,Eastern Europe,2588
+2020-04-10,79,Eurasia,5616
+2020-04-10,79,Indian Subcontinent,1132
+2020-04-10,79,Latin America,4782
+2020-04-10,79,Middle East,3444
+2020-04-10,79,North America,36421
+2020-04-10,79,Western Europe,29855
+2020-04-11,80,Africa,646
+2020-04-11,80,Australasia,707
+2020-04-11,80,Cruise,0
+2020-04-11,80,East Asia,894
+2020-04-11,80,Eastern Europe,2668
+2020-04-11,80,Eurasia,6624
+2020-04-11,80,Indian Subcontinent,1287
+2020-04-11,80,Latin America,6028
+2020-04-11,80,Middle East,3627
+2020-04-11,80,North America,35344
+2020-04-11,80,Western Europe,29715
+2020-04-12,81,Africa,674
+2020-04-12,81,Australasia,862
+2020-04-12,81,Cruise,0
+2020-04-12,81,East Asia,1086
+2020-04-12,81,Eastern Europe,2513
+2020-04-12,81,Eurasia,7042
+2020-04-12,81,Indian Subcontinent,1147
+2020-04-12,81,Latin America,3549
+2020-04-12,81,Middle East,3680
+2020-04-12,81,North America,30989
+2020-04-12,81,Western Europe,24673
+2020-04-13,82,Africa,862
+2020-04-13,82,Australasia,819
+2020-04-13,82,Cruise,0
+2020-04-13,82,East Asia,937
+2020-04-13,82,Eastern Europe,2252
+2020-04-13,82,Eurasia,7197
+2020-04-13,82,Indian Subcontinent,1182
+2020-04-13,82,Latin America,3447
+2020-04-13,82,Middle East,3550
+2020-04-13,82,North America,28384
+2020-04-13,82,Western Europe,46723
+2020-04-14,83,Africa,714
+2020-04-14,83,Australasia,962
+2020-04-14,83,Cruise,0
+2020-04-14,83,East Asia,727
+2020-04-14,83,Eastern Europe,2206
+2020-04-14,83,Eurasia,6966
+2020-04-14,83,Indian Subcontinent,1799
+2020-04-14,83,Latin America,4550
+2020-04-14,83,Middle East,3766
+2020-04-14,83,North America,27525
+2020-04-14,83,Western Europe,20930
+2020-04-15,84,Africa,890
+2020-04-15,84,Australasia,933
+2020-04-15,84,Cruise,0
+2020-04-15,84,East Asia,965
+2020-04-15,84,Eastern Europe,2308
+2020-04-15,84,Eurasia,7155
+2020-04-15,84,Indian Subcontinent,1806
+2020-04-15,84,Latin America,3334
+2020-04-15,84,Middle East,3573
+2020-04-15,84,North America,30331
+2020-04-15,84,Western Europe,20051
+2020-04-16,85,Africa,885
+2020-04-16,85,Australasia,934
+2020-04-16,85,Cruise,0
+2020-04-16,85,East Asia,898
+2020-04-16,85,Eastern Europe,2601
+2020-04-16,85,Eurasia,7888
+2020-04-16,85,Indian Subcontinent,1606
+2020-04-16,85,Latin America,5771
+2020-04-16,85,Middle East,3695
+2020-04-16,85,North America,31630
+2020-04-16,85,Western Europe,25965
+2020-04-17,86,Africa,1133
+2020-04-17,86,Australasia,1308
+2020-04-17,86,Cruise,0
+2020-04-17,86,East Asia,870
+2020-04-17,86,Eastern Europe,3164
+2020-04-17,86,Eurasia,8420
+2020-04-17,86,Indian Subcontinent,1566
+2020-04-17,86,Latin America,4785
+2020-04-17,86,Middle East,3653
+2020-04-17,86,North America,34572
+2020-04-17,86,Western Europe,37449
+2020-04-18,87,Africa,1340
+2020-04-18,87,Australasia,1237
+2020-04-18,87,Cruise,0
+2020-04-18,87,East Asia,1199
+2020-04-18,87,Eastern Europe,3013
+2020-04-18,87,Eurasia,8646
+2020-04-18,87,Indian Subcontinent,1810
+2020-04-18,87,Latin America,6046
+2020-04-18,87,Middle East,3987
+2020-04-18,87,North America,35389
+2020-04-18,87,Western Europe,25146
+2020-04-19,88,Africa,1261
+2020-04-19,88,Australasia,1432
+2020-04-19,88,Cruise,0
+2020-04-19,88,East Asia,881
+2020-04-19,88,Eastern Europe,2659
+2020-04-19,88,Eurasia,8739
+2020-04-19,88,Indian Subcontinent,2406
+2020-04-19,88,Latin America,6263
+2020-04-19,88,Middle East,3525
+2020-04-19,88,North America,30015
+2020-04-19,88,Western Europe,16213
+2020-04-20,89,Africa,1142
+2020-04-20,89,Australasia,1142
+2020-04-20,89,Cruise,0
+2020-04-20,89,East Asia,619
+2020-04-20,89,Eastern Europe,2692
+2020-04-20,89,Eurasia,10221
+2020-04-20,89,Indian Subcontinent,2305
+2020-04-20,89,Latin America,4857
+2020-04-20,89,Middle East,4105
+2020-04-20,89,North America,27722
+2020-04-20,89,Western Europe,25167
+2020-04-21,90,Africa,1130
+2020-04-21,90,Australasia,1733
+2020-04-21,90,Cruise,0
+2020-04-21,90,East Asia,599
+2020-04-21,90,Eastern Europe,2063
+2020-04-21,90,Eurasia,9194
+2020-04-21,90,Indian Subcontinent,2604
+2020-04-21,90,Latin America,4857
+2020-04-21,90,Middle East,4112
+2020-04-21,90,North America,30958
+2020-04-21,90,Western Europe,17253
+2020-04-22,91,Africa,985
+2020-04-22,91,Australasia,1655
+2020-04-22,91,Cruise,0
+2020-04-22,91,East Asia,604
+2020-04-22,91,Eastern Europe,2441
+2020-04-22,91,Eurasia,10469
+2020-04-22,91,Indian Subcontinent,2494
+2020-04-22,91,Latin America,5140
+2020-04-22,91,Middle East,4136
+2020-04-22,91,North America,28511
+2020-04-22,91,Western Europe,19444
+2020-04-23,92,Africa,1320
+2020-04-23,92,Australasia,1440
+2020-04-23,92,Cruise,0
+2020-04-23,92,East Asia,552
+2020-04-23,92,Eastern Europe,2673
+2020-04-23,92,Eurasia,8519
+2020-04-23,92,Indian Subcontinent,2781
+2020-04-23,92,Latin America,5904
+2020-04-23,92,Middle East,4559
+2020-04-23,92,North America,32601
+2020-04-23,92,Western Europe,17670
+2020-04-24,93,Africa,1348
+2020-04-24,93,Australasia,1603
+2020-04-24,93,Cruise,0
+2020-04-24,93,East Asia,752
+2020-04-24,93,Eastern Europe,2968
+2020-04-24,93,Eurasia,8105
+2020-04-24,93,Indian Subcontinent,2960
+2020-04-24,93,Latin America,8188
+2020-04-24,93,Middle East,4316
+2020-04-24,93,North America,36156
+2020-04-24,93,Western Europe,21847
+2020-04-25,94,Africa,1482
+2020-04-25,94,Australasia,1687
+2020-04-25,94,Cruise,0
+2020-04-25,94,East Asia,694
+2020-04-25,94,Eastern Europe,2944
+2020-04-25,94,Eurasia,9244
+2020-04-25,94,Indian Subcontinent,2796
+2020-04-25,94,Latin America,17998
+2020-04-25,94,Middle East,4708
+2020-04-25,94,North America,36425
+2020-04-25,94,Western Europe,6209
+2020-04-26,95,Africa,1145
+2020-04-26,95,Australasia,1225
+2020-04-26,95,Cruise,0
+2020-04-26,95,East Asia,455
+2020-04-26,95,Eastern Europe,2766
+2020-04-26,95,Eurasia,9004
+2020-04-26,95,Indian Subcontinent,2709
+2020-04-26,95,Latin America,11405
+2020-04-26,95,Middle East,4685
+2020-04-26,95,North America,34223
+2020-04-26,95,Western Europe,16064
+2020-04-27,96,Africa,1533
+2020-04-27,96,Australasia,1301
+2020-04-27,96,Cruise,0
+2020-04-27,96,East Asia,536
+2020-04-27,96,Eastern Europe,2827
+2020-04-27,96,Eurasia,8858
+2020-04-27,96,Indian Subcontinent,2675
+2020-04-27,96,Latin America,7466
+2020-04-27,96,Middle East,4550
+2020-04-27,96,North America,29596
+2020-04-27,96,Western Europe,12848
+2020-04-28,97,Africa,1147
+2020-04-28,97,Australasia,1262
+2020-04-28,97,Cruise,0
+2020-04-28,97,East Asia,398
+2020-04-28,97,Eastern Europe,2468
+2020-04-28,97,Eurasia,8495
+2020-04-28,97,Indian Subcontinent,2820
+2020-04-28,97,Latin America,7472
+2020-04-28,97,Middle East,4478
+2020-04-28,97,North America,25609
+2020-04-28,97,Western Europe,15556
+2020-04-29,98,Africa,1489
+2020-04-29,98,Australasia,1157
+2020-04-29,98,Cruise,0
+2020-04-29,98,East Asia,505
+2020-04-29,98,Eastern Europe,2512
+2020-04-29,98,Eurasia,9043
+2020-04-29,98,Indian Subcontinent,3370
+2020-04-29,98,Latin America,10628
+2020-04-29,98,Middle East,4403
+2020-04-29,98,North America,27431
+2020-04-29,98,Western Europe,14954
+2020-04-30,99,Africa,1770
+2020-04-30,99,Australasia,1325
+2020-04-30,99,Cruise,0
+2020-04-30,99,East Asia,490
+2020-04-30,99,Eastern Europe,3005
+2020-04-30,99,Eurasia,8972
+2020-04-30,99,Indian Subcontinent,3701
+2020-04-30,99,Latin America,11374
+2020-04-30,99,Middle East,4561
+2020-04-30,99,North America,30607
+2020-04-30,99,Western Europe,11684
+2020-05-01,100,Africa,1862
+2020-05-01,100,Australasia,1283
+2020-05-01,100,Cruise,0
+2020-05-01,100,East Asia,512
+2020-05-01,100,Eastern Europe,2732
+2020-05-01,100,Eurasia,10047
+2020-05-01,100,Indian Subcontinent,3678
+2020-05-01,100,Latin America,13137
+2020-05-01,100,Middle East,4812
+2020-05-01,100,North America,32522
+2020-05-01,100,Western Europe,12819
+2020-05-02,101,Africa,1652
+2020-05-02,101,Australasia,1569
+2020-05-02,101,Cruise,0
+2020-05-02,101,East Asia,575
+2020-05-02,101,Eastern Europe,2339
+2020-05-02,101,Eurasia,10373
+2020-05-02,101,Indian Subcontinent,3981
+2020-05-02,101,Latin America,12294
+2020-05-02,101,Middle East,4718
+2020-05-02,101,North America,37621
+2020-05-02,101,Western Europe,12095
+2020-05-03,102,Africa,2145
+2020-05-03,102,Australasia,944
+2020-05-03,102,Cruise,0
+2020-05-03,102,East Asia,482
+2020-05-03,102,Eastern Europe,2596
+2020-05-03,102,Eurasia,11972
+2020-05-03,102,Indian Subcontinent,3992
+2020-05-03,102,Latin America,12395
+2020-05-03,102,Middle East,4350
+2020-05-03,102,North America,30934
+2020-05-03,102,Western Europe,10410
+2020-05-04,103,Africa,1535
+2020-05-04,103,Australasia,1159
+2020-05-04,103,Cruise,0
+2020-05-04,103,East Asia,532
+2020-05-04,103,Eastern Europe,2479
+2020-05-04,103,Eurasia,12475
+2020-05-04,103,Indian Subcontinent,4345
+2020-05-04,103,Latin America,12608
+2020-05-04,103,Middle East,4810
+2020-05-04,103,North America,28463
+2020-05-04,103,Western Europe,8153
+2020-05-05,104,Africa,2371
+2020-05-05,104,Australasia,1341
+2020-05-05,104,Cruise,0
+2020-05-05,104,East Asia,456
+2020-05-05,104,Eastern Europe,2340
+2020-05-05,104,Eurasia,12501
+2020-05-05,104,Indian Subcontinent,5767
+2020-05-05,104,Latin America,12735
+2020-05-05,104,Middle East,5058
+2020-05-05,104,North America,26289
+2020-05-05,104,Western Europe,8242
+2020-05-06,105,Africa,1786
+2020-05-06,105,Australasia,1309
+2020-05-06,105,Cruise,0
+2020-05-06,105,East Asia,337
+2020-05-06,105,Eastern Europe,2483
+2020-05-06,105,Eurasia,12184
+2020-05-06,105,Indian Subcontinent,5793
+2020-05-06,105,Latin America,13872
+2020-05-06,105,Middle East,5814
+2020-05-06,105,North America,26941
+2020-05-06,105,Western Europe,10013
+2020-05-07,106,Africa,2309
+2020-05-07,106,Australasia,1496
+2020-05-07,106,Cruise,0
+2020-05-07,106,East Asia,446
+2020-05-07,106,Eastern Europe,2520
+2020-05-07,106,Eurasia,13169
+2020-05-07,106,Indian Subcontinent,4979
+2020-05-07,106,Latin America,17303
+2020-05-07,106,Middle East,6097
+2020-05-07,106,North America,28235
+2020-05-07,106,Western Europe,13404
+2020-05-08,107,Africa,2317
+2020-05-08,107,Australasia,1331
+2020-05-08,107,Cruise,0
+2020-05-08,107,East Asia,477
+2020-05-08,107,Eastern Europe,2600
+2020-05-08,107,Eurasia,13535
+2020-05-08,107,Indian Subcontinent,5903
+2020-05-08,107,Latin America,14537
+2020-05-08,107,Middle East,5836
+2020-05-08,107,North America,31279
+2020-05-08,107,Western Europe,11260
+2020-05-09,108,Africa,3672
+2020-05-09,108,Australasia,1387
+2020-05-09,108,Cruise,0
+2020-05-09,108,East Asia,236
+2020-05-09,108,Eastern Europe,2547
+2020-05-09,108,Eurasia,12902
+2020-05-09,108,Indian Subcontinent,6366
+2020-05-09,108,Latin America,16237
+2020-05-09,108,Middle East,6748
+2020-05-09,108,North America,30261
+2020-05-09,108,Western Europe,10924
+2020-05-10,109,Africa,2639
+2020-05-10,109,Australasia,1489
+2020-05-10,109,Cruise,0
+2020-05-10,109,East Asia,322
+2020-05-10,109,Eastern Europe,2522
+2020-05-10,109,Eurasia,12643
+2020-05-10,109,Indian Subcontinent,5363
+2020-05-10,109,Latin America,17886
+2020-05-10,109,Middle East,6509
+2020-05-10,109,North America,28150
+2020-05-10,109,Western Europe,7411
+2020-05-11,110,Africa,2538
+2020-05-11,110,Australasia,1576
+2020-05-11,110,Cruise,0
+2020-05-11,110,East Asia,313
+2020-05-11,110,Eastern Europe,2346
+2020-05-11,110,Eurasia,12809
+2020-05-11,110,Indian Subcontinent,7005
+2020-05-11,110,Latin America,13091
+2020-05-11,110,Middle East,7458
+2020-05-11,110,North America,21591
+2020-05-11,110,Western Europe,6488
+2020-05-12,111,Africa,2991
+2020-05-12,111,Australasia,908
+2020-05-12,111,Cruise,0
+2020-05-12,111,East Asia,389
+2020-05-12,111,Eastern Europe,2316
+2020-05-12,111,Eurasia,13018
+2020-05-12,111,Indian Subcontinent,6902
+2020-05-12,111,Latin America,11425
+2020-05-12,111,Middle East,7054
+2020-05-12,111,North America,21925
+2020-05-12,111,Western Europe,9989
+2020-05-13,112,Africa,2923
+2020-05-13,112,Australasia,1577
+2020-05-13,112,Cruise,0
+2020-05-13,112,East Asia,471
+2020-05-13,112,Eastern Europe,2557
+2020-05-13,112,Eurasia,12797
+2020-05-13,112,Indian Subcontinent,5475
+2020-05-13,112,Latin America,16100
+2020-05-13,112,Middle East,7813
+2020-05-13,112,North America,25910
+2020-05-13,112,Western Europe,8672
+2020-05-14,113,Africa,2751
+2020-05-14,113,Australasia,1636
+2020-05-14,113,Cruise,0
+2020-05-14,113,East Asia,390
+2020-05-14,113,Eastern Europe,2412
+2020-05-14,113,Eurasia,11977
+2020-05-14,113,Indian Subcontinent,5442
+2020-05-14,113,Latin America,20931
+2020-05-14,113,Middle East,7978
+2020-05-14,113,North America,23977
+2020-05-14,113,Western Europe,7353
+2020-05-15,114,Africa,2709
+2020-05-15,114,Australasia,1655
+2020-05-15,114,Cruise,0
+2020-05-15,114,East Asia,473
+2020-05-15,114,Eastern Europe,2557
+2020-05-15,114,Eurasia,11940
+2020-05-15,114,Indian Subcontinent,8004
+2020-05-15,114,Latin America,21914
+2020-05-15,114,Middle East,8774
+2020-05-15,114,North America,30930
+2020-05-15,114,Western Europe,7810
+2020-05-16,115,Africa,2917
+2020-05-16,115,Australasia,1395
+2020-05-16,115,Cruise,0
+2020-05-16,115,East Asia,323
+2020-05-16,115,Eastern Europe,2561
+2020-05-16,115,Eurasia,12705
+2020-05-16,115,Indian Subcontinent,5000
+2020-05-16,115,Latin America,26657
+2020-05-16,115,Middle East,8660
+2020-05-16,115,North America,28913
+2020-05-16,115,Western Europe,7297
+2020-05-17,116,Africa,3086
+2020-05-17,116,Australasia,1309
+2020-05-17,116,Cruise,0
+2020-05-17,116,East Asia,352
+2020-05-17,116,Eastern Europe,2511
+2020-05-17,116,Eurasia,11233
+2020-05-17,116,Indian Subcontinent,7171
+2020-05-17,116,Latin America,26330
+2020-05-17,116,Middle East,9323
+2020-05-17,116,North America,27372
+2020-05-17,116,Western Europe,5535
+2020-05-18,117,Africa,2967
+2020-05-18,117,Australasia,1240
+2020-05-18,117,Cruise,0
+2020-05-18,117,East Asia,267
+2020-05-18,117,Eastern Europe,2306
+2020-05-18,117,Eurasia,11622
+2020-05-18,117,Indian Subcontinent,8320
+2020-05-18,117,Latin America,15917
+2020-05-18,117,Middle East,9092
+2020-05-18,117,North America,21315
+2020-05-18,117,Western Europe,4378
+2020-05-19,118,Africa,3352
+2020-05-19,118,Australasia,1179
+2020-05-19,118,Cruise,0
+2020-05-19,118,East Asia,351
+2020-05-19,118,Eastern Europe,2172
+2020-05-19,118,Eurasia,10999
+2020-05-19,118,Indian Subcontinent,8091
+2020-05-19,118,Latin America,21922
+2020-05-19,118,Middle East,9439
+2020-05-19,118,North America,25505
+2020-05-19,118,Western Europe,5721
+2020-05-20,119,Africa,2962
+2020-05-20,119,Australasia,1198
+2020-05-20,119,Cruise,0
+2020-05-20,119,East Asia,313
+2020-05-20,119,Eastern Europe,2157
+2020-05-20,119,Eurasia,10583
+2020-05-20,119,Indian Subcontinent,9367
+2020-05-20,119,Latin America,27986
+2020-05-20,119,Middle East,9932
+2020-05-20,119,North America,24839
+2020-05-20,119,Western Europe,7896
+2020-05-21,120,Africa,3515
+2020-05-21,120,Australasia,1462
+2020-05-21,120,Cruise,0
+2020-05-21,120,East Asia,351
+2020-05-21,120,Eastern Europe,2495
+2020-05-21,120,Eurasia,10269
+2020-05-21,120,Indian Subcontinent,9393
+2020-05-21,120,Latin America,31394
+2020-05-21,120,Middle East,10012
+2020-05-21,120,North America,26835
+2020-05-21,120,Western Europe,7085
+2020-05-22,121,Africa,4453
+2020-05-22,121,Australasia,1753
+2020-05-22,121,Cruise,0
+2020-05-22,121,East Asia,307
+2020-05-22,121,Eastern Europe,2489
+2020-05-22,121,Eurasia,10353
+2020-05-22,121,Indian Subcontinent,10602
+2020-05-22,121,Latin America,30364
+2020-05-22,121,Middle East,10294
+2020-05-22,121,North America,29805
+2020-05-22,121,Western Europe,6185
+2020-05-23,122,Africa,4008
+2020-05-23,122,Australasia,1450
+2020-05-23,122,Cruise,0
+2020-05-23,122,East Asia,288
+2020-05-23,122,Eastern Europe,2472
+2020-05-23,122,Eurasia,10833
+2020-05-23,122,Indian Subcontinent,10062
+2020-05-23,122,Latin America,31685
+2020-05-23,122,Middle East,10550
+2020-05-23,122,North America,27603
+2020-05-23,122,Western Europe,7141
+2020-05-24,123,Africa,3760
+2020-05-24,123,Australasia,1802
+2020-05-24,123,Cruise,0
+2020-05-24,123,East Asia,308
+2020-05-24,123,Eastern Europe,2295
+2020-05-24,123,Eurasia,10909
+2020-05-24,123,Indian Subcontinent,10690
+2020-05-24,123,Latin America,34245
+2020-05-24,123,Middle East,10251
+2020-05-24,123,North America,25730
+2020-05-24,123,Western Europe,4697
+2020-05-25,124,Africa,3957
+2020-05-25,124,Australasia,1291
+2020-05-25,124,Cruise,0
+2020-05-25,124,East Asia,345
+2020-05-25,124,Eastern Europe,2336
+2020-05-25,124,Eurasia,10630
+2020-05-25,124,Indian Subcontinent,10454
+2020-05-25,124,Latin America,28121
+2020-05-25,124,Middle East,9880
+2020-05-25,124,North America,23833
+2020-05-25,124,Western Europe,3719
+2020-05-26,125,Africa,3885
+2020-05-26,125,Australasia,1178
+2020-05-26,125,Cruise,0
+2020-05-26,125,East Asia,416
+2020-05-26,125,Eastern Europe,1940
+2020-05-26,125,Eurasia,10597
+2020-05-26,125,Indian Subcontinent,9788
+2020-05-26,125,Latin America,24380
+2020-05-26,125,Middle East,8940
+2020-05-26,125,North America,21815
+2020-05-26,125,Western Europe,3456
+2020-05-27,126,Africa,3418
+2020-05-27,126,Australasia,1041
+2020-05-27,126,Cruise,0
+2020-05-27,126,East Asia,515
+2020-05-27,126,Eastern Europe,2187
+2020-05-27,126,Eurasia,10165
+2020-05-27,126,Indian Subcontinent,8595
+2020-05-27,126,Latin America,29995
+2020-05-27,126,Middle East,8775
+2020-05-27,126,North America,23950
+2020-05-27,126,Western Europe,4671
+2020-05-28,127,Africa,5238
+2020-05-28,127,Australasia,1281
+2020-05-28,127,Cruise,0
+2020-05-28,127,East Asia,619
+2020-05-28,127,Eastern Europe,2243
+2020-05-28,127,Eurasia,9997
+2020-05-28,127,Indian Subcontinent,11060
+2020-05-28,127,Latin America,35752
+2020-05-28,127,Middle East,9333
+2020-05-28,127,North America,22952
+2020-05-28,127,Western Europe,4585
+2020-05-29,128,Africa,4420
+2020-05-29,128,Australasia,1419
+2020-05-29,128,Cruise,0
+2020-05-29,128,East Asia,850
+2020-05-29,128,Eastern Europe,2363
+2020-05-29,128,Eurasia,10113
+2020-05-29,128,Indian Subcontinent,12191
+2020-05-29,128,Latin America,41274
+2020-05-29,128,Middle East,9943
+2020-05-29,128,North America,27312
+2020-05-29,128,Western Europe,9697
+2020-05-30,129,Africa,5478
+2020-05-30,129,Australasia,1916
+2020-05-30,129,Cruise,0
+2020-05-30,129,East Asia,1378
+2020-05-30,129,Eastern Europe,2298
+2020-05-30,129,Eurasia,10284
+2020-05-30,129,Indian Subcontinent,13086
+2020-05-30,129,Latin America,41206
+2020-05-30,129,Middle East,11179
+2020-05-30,129,North America,28511
+2020-05-30,129,Western Europe,5706
+2020-05-31,130,Africa,6127
+2020-05-31,130,Australasia,1232
+2020-05-31,130,Cruise,0
+2020-05-31,130,East Asia,857
+2020-05-31,130,Eastern Europe,2271
+2020-05-31,130,Eurasia,10644
+2020-05-31,130,Indian Subcontinent,13238
+2020-05-31,130,Latin America,59001
+2020-05-31,130,Middle East,10704
+2020-05-31,130,North America,27500
+2020-05-31,130,Western Europe,5443
+2020-06-01,131,Africa,5165
+2020-06-01,131,Australasia,1386
+2020-06-01,131,Cruise,0
+2020-06-01,131,East Asia,1135
+2020-06-01,131,Eastern Europe,2086
+2020-06-01,131,Eurasia,10809
+2020-06-01,131,Indian Subcontinent,14304
+2020-06-01,131,Latin America,34528
+2020-06-01,131,Middle East,10848
+2020-06-01,131,North America,23122
+2020-06-01,131,Western Europe,3273
+2020-06-02,132,Africa,5472
+2020-06-02,132,Australasia,1209
+2020-06-02,132,Cruise,0
+2020-06-02,132,East Asia,881
+2020-06-02,132,Eastern Europe,2584
+2020-06-02,132,Eurasia,9993
+2020-06-02,132,Indian Subcontinent,14094
+2020-06-02,132,Latin America,26344
+2020-06-02,132,Middle East,10511
+2020-06-02,132,North America,20944
+2020-06-02,132,Western Europe,3562
+2020-06-03,133,Africa,4793
+2020-06-03,133,Australasia,1235
+2020-06-03,133,Cruise,0
+2020-06-03,133,East Asia,758
+2020-06-03,133,Eastern Europe,2021
+2020-06-03,133,Eurasia,10080
+2020-06-03,133,Indian Subcontinent,15867
+2020-06-03,133,Latin America,46113
+2020-06-03,133,Middle East,11574
+2020-06-03,133,North America,25936
+2020-06-03,133,Western Europe,3064
+2020-06-04,134,Africa,5078
+2020-06-04,134,Australasia,1413
+2020-06-04,134,Cruise,0
+2020-06-04,134,East Asia,1021
+2020-06-04,134,Eastern Europe,2394
+2020-06-04,134,Eurasia,10092
+2020-06-04,134,Indian Subcontinent,17196
+2020-06-04,134,Latin America,39745
+2020-06-04,134,Middle East,12256
+2020-06-04,134,North America,24570
+2020-06-04,134,Western Europe,4409
+2020-06-05,135,Africa,7060
+2020-06-05,135,Australasia,1466
+2020-06-05,135,Cruise,0
+2020-06-05,135,East Asia,1080
+2020-06-05,135,Eastern Europe,2660
+2020-06-05,135,Eurasia,10033
+2020-06-05,135,Indian Subcontinent,16348
+2020-06-05,135,Latin America,44896
+2020-06-05,135,Middle East,12260
+2020-06-05,135,North America,26789
+2020-06-05,135,Western Europe,4691
+2020-06-06,136,Africa,6990
+2020-06-06,136,Australasia,1097
+2020-06-06,136,Cruise,0
+2020-06-06,136,East Asia,633
+2020-06-06,136,Eastern Europe,2685
+2020-06-06,136,Eurasia,10079
+2020-06-06,136,Indian Subcontinent,17037
+2020-06-06,136,Latin America,44220
+2020-06-06,136,Middle East,12880
+2020-06-06,136,North America,30191
+2020-06-06,136,Western Europe,5089
+2020-06-07,137,Africa,6576
+2020-06-07,137,Australasia,1456
+2020-06-07,137,Cruise,0
+2020-06-07,137,East Asia,1150
+2020-06-07,137,Eastern Europe,2896
+2020-06-07,137,Eurasia,10131
+2020-06-07,137,Indian Subcontinent,18059
+2020-06-07,137,Latin America,51790
+2020-06-07,137,Middle East,12681
+2020-06-07,137,North America,25957
+2020-06-07,137,Western Europe,4196
+2020-06-08,138,Africa,6108
+2020-06-08,138,Australasia,1082
+2020-06-08,138,Cruise,0
+2020-06-08,138,East Asia,871
+2020-06-08,138,Eastern Europe,2707
+2020-06-08,138,Eurasia,10414
+2020-06-08,138,Indian Subcontinent,18359
+2020-06-08,138,Latin America,34556
+2020-06-08,138,Middle East,12807
+2020-06-08,138,North America,21974
+2020-06-08,138,Western Europe,3092
+2020-06-09,139,Africa,6613
+2020-06-09,139,Australasia,1375
+2020-06-09,139,Cruise,0
+2020-06-09,139,East Asia,965
+2020-06-09,139,Eastern Europe,2715
+2020-06-09,139,Eurasia,10338
+2020-06-09,139,Indian Subcontinent,15847
+2020-06-09,139,Latin America,28368
+2020-06-09,139,Middle East,11779
+2020-06-09,139,North America,21128
+2020-06-09,139,Western Europe,3403
+2020-06-10,140,Africa,6426
+2020-06-10,140,Australasia,1343
+2020-06-10,140,Cruise,0
+2020-06-10,140,East Asia,948
+2020-06-10,140,Eastern Europe,2391
+2020-06-10,140,Eurasia,9979
+2020-06-10,140,Indian Subcontinent,18778
+2020-06-10,140,Latin America,46111
+2020-06-10,140,Middle East,11527
+2020-06-10,140,North America,23030
+2020-06-10,140,Western Europe,4225
+2020-06-11,141,Africa,6379
+2020-06-11,141,Australasia,1724
+2020-06-11,141,Cruise,0
+2020-06-11,141,East Asia,1113
+2020-06-11,141,Eastern Europe,2628
+2020-06-11,141,Eurasia,9774
+2020-06-11,141,Indian Subcontinent,19516
+2020-06-11,141,Latin America,50055
+2020-06-11,141,Middle East,12762
+2020-06-11,141,North America,26186
+2020-06-11,141,Western Europe,4436
+2020-06-12,142,Africa,7245
+2020-06-12,142,Australasia,1564
+2020-06-12,142,Cruise,0
+2020-06-12,142,East Asia,803
+2020-06-12,142,Eastern Europe,3013
+2020-06-12,142,Eurasia,10579
+2020-06-12,142,Indian Subcontinent,20534
+2020-06-12,142,Latin America,48274
+2020-06-12,142,Middle East,13291
+2020-06-12,142,North America,28426
+2020-06-12,142,Western Europe,4453
+2020-06-13,143,Africa,7929
+2020-06-13,143,Australasia,1764
+2020-06-13,143,Cruise,0
+2020-06-13,143,East Asia,1188
+2020-06-13,143,Eastern Europe,2984
+2020-06-13,143,Eurasia,10352
+2020-06-13,143,Indian Subcontinent,14934
+2020-06-13,143,Latin America,40270
+2020-06-13,143,Middle East,13588
+2020-06-13,143,North America,30523
+2020-06-13,143,Western Europe,5066
+2020-06-14,144,Africa,7980
+2020-06-14,144,Australasia,1498
+2020-06-14,144,Cruise,0
+2020-06-14,144,East Asia,1023
+2020-06-14,144,Eastern Europe,3108
+2020-06-14,144,Eurasia,10729
+2020-06-14,144,Indian Subcontinent,21276
+2020-06-14,144,Latin America,43464
+2020-06-14,144,Middle East,13213
+2020-06-14,144,North America,29202
+2020-06-14,144,Western Europe,3963
+2020-06-15,145,Africa,8766
+2020-06-15,145,Australasia,1357
+2020-06-15,145,Cruise,0
+2020-06-15,145,East Asia,1125
+2020-06-15,145,Eastern Europe,2813
+2020-06-15,145,Eurasia,10885
+2020-06-15,145,Indian Subcontinent,26721
+2020-06-15,145,Latin America,40333
+2020-06-15,145,Middle East,13704
+2020-06-15,145,North America,23880
+2020-06-15,145,Western Europe,3173
+2020-06-16,146,Africa,9537
+2020-06-16,146,Australasia,1388
+2020-06-16,146,Cruise,0
+2020-06-16,146,East Asia,1091
+2020-06-16,146,Eastern Europe,2657
+2020-06-16,146,Eurasia,10937
+2020-06-16,146,Indian Subcontinent,18226
+2020-06-16,146,Latin America,35167
+2020-06-16,146,Middle East,13903
+2020-06-16,146,North America,23710
+2020-06-16,146,Western Europe,3201
+2020-06-17,147,Africa,7231
+2020-06-17,147,Australasia,1745
+2020-06-17,147,Cruise,0
+2020-06-17,147,East Asia,873
+2020-06-17,147,Eastern Europe,3033
+2020-06-17,147,Eurasia,10441
+2020-06-17,147,Indian Subcontinent,20706
+2020-06-17,147,Latin America,51406
+2020-06-17,147,Middle East,13456
+2020-06-17,147,North America,28718
+2020-06-17,147,Western Europe,4291
+2020-06-18,148,Africa,8650
+2020-06-18,148,Australasia,1365
+2020-06-18,148,Cruise,0
+2020-06-18,148,East Asia,1189
+2020-06-18,148,Eastern Europe,3527
+2020-06-18,148,Eurasia,9933
+2020-06-18,148,Indian Subcontinent,22256
+2020-06-18,148,Latin America,45570
+2020-06-18,148,Middle East,14179
+2020-06-18,148,North America,31238
+2020-06-18,148,Western Europe,4650
+2020-06-19,149,Africa,7773
+2020-06-19,149,Australasia,1810
+2020-06-19,149,Cruise,0
+2020-06-19,149,East Asia,1392
+2020-06-19,149,Eastern Europe,3242
+2020-06-19,149,Eurasia,9219
+2020-06-19,149,Indian Subcontinent,22394
+2020-06-19,149,Latin America,40231
+2020-06-19,149,Middle East,14225
+2020-06-19,149,North America,34233
+2020-06-19,149,Western Europe,5877
+2020-06-20,150,Africa,9995
+2020-06-20,150,Australasia,1318
+2020-06-20,150,Cruise,0
+2020-06-20,150,East Asia,1236
+2020-06-20,150,Eastern Europe,3427
+2020-06-20,150,Eurasia,10457
+2020-06-20,150,Indian Subcontinent,24366
+2020-06-20,150,Latin America,74308
+2020-06-20,150,Middle East,13570
+2020-06-20,150,North America,36777
+2020-06-20,150,Western Europe,4445
+2020-06-21,151,Africa,11076
+2020-06-21,151,Australasia,1610
+2020-06-21,151,Cruise,0
+2020-06-21,151,East Asia,1449
+2020-06-21,151,Eastern Europe,3137
+2020-06-21,151,Eurasia,10024
+2020-06-21,151,Indian Subcontinent,23632
+2020-06-21,151,Latin America,51979
+2020-06-21,151,Middle East,13367
+2020-06-21,151,North America,37419
+2020-06-21,151,Western Europe,3633
+2020-06-22,152,Africa,9223
+2020-06-22,152,Australasia,1199
+2020-06-22,152,Cruise,0
+2020-06-22,152,East Asia,1172
+2020-06-22,152,Eastern Europe,2662
+2020-06-22,152,Eurasia,10011
+2020-06-22,152,Indian Subcontinent,22836
+2020-06-22,152,Latin America,34328
+2020-06-22,152,Middle East,12284
+2020-06-22,152,North America,31765
+2020-06-22,152,Western Europe,2865
+2020-06-23,153,Africa,8947
+2020-06-23,153,Australasia,1237
+2020-06-23,153,Cruise,0
+2020-06-23,153,East Asia,1308
+2020-06-23,153,Eastern Europe,2651
+2020-06-23,153,Eurasia,9499
+2020-06-23,153,Indian Subcontinent,22362
+2020-06-23,153,Latin America,39226
+2020-06-23,153,Middle East,13759
+2020-06-23,153,North America,35399
+2020-06-23,153,Western Europe,3545
+2020-06-24,154,Africa,9025
+2020-06-24,154,Australasia,1276
+2020-06-24,154,Cruise,0
+2020-06-24,154,East Asia,1827
+2020-06-24,154,Eastern Europe,2893
+2020-06-24,154,Eurasia,9840
+2020-06-24,154,Indian Subcontinent,23331
+2020-06-24,154,Latin America,56551
+2020-06-24,154,Middle East,13634
+2020-06-24,154,North America,42402
+2020-06-24,154,Western Europe,4590
+2020-06-25,155,Africa,11099
+2020-06-25,155,Australasia,1508
+2020-06-25,155,Cruise,0
+2020-06-25,155,East Asia,1237
+2020-06-25,155,Eastern Europe,3206
+2020-06-25,155,Eurasia,9796
+2020-06-25,155,Indian Subcontinent,24439
+2020-06-25,155,Latin America,60642
+2020-06-25,155,Middle East,14250
+2020-06-25,155,North America,40222
+2020-06-25,155,Western Europe,4577
+2020-06-26,156,Africa,11672
+2020-06-26,156,Australasia,1686
+2020-06-26,156,Cruise,0
+2020-06-26,156,East Asia,1371
+2020-06-26,156,Eastern Europe,3587
+2020-06-26,156,Eurasia,9526
+2020-06-26,156,Indian Subcontinent,24033
+2020-06-26,156,Latin America,60559
+2020-06-26,156,Middle East,15076
+2020-06-26,156,North America,47016
+2020-06-26,156,Western Europe,3834
+2020-06-27,157,Africa,11595
+2020-06-27,157,Australasia,1624
+2020-06-27,157,Cruise,0
+2020-06-27,157,East Asia,1784
+2020-06-27,157,Eastern Europe,3513
+2020-06-27,157,Eurasia,9301
+2020-06-27,157,Indian Subcontinent,25571
+2020-06-27,157,Latin America,66502
+2020-06-27,157,Middle East,14968
+2020-06-27,157,North America,50921
+2020-06-27,157,Western Europe,5651
+2020-06-28,158,Africa,11954
+2020-06-28,158,Australasia,1828
+2020-06-28,158,Cruise,0
+2020-06-28,158,East Asia,1463
+2020-06-28,158,Eastern Europe,3343
+2020-06-28,158,Eurasia,8589
+2020-06-28,158,Indian Subcontinent,27515
+2020-06-28,158,Latin America,59535
+2020-06-28,158,Middle East,14072
+2020-06-28,158,North America,47008
+2020-06-28,158,Western Europe,3269
+2020-06-29,159,Africa,10454
+2020-06-29,159,Australasia,1579
+2020-06-29,159,Cruise,0
+2020-06-29,159,East Asia,1285
+2020-06-29,159,Eastern Europe,3040
+2020-06-29,159,Eurasia,9968
+2020-06-29,159,Indian Subcontinent,26882
+2020-06-29,159,Latin America,49158
+2020-06-29,159,Middle East,14202
+2020-06-29,159,North America,43716
+2020-06-29,159,Western Europe,1608
+2020-06-30,160,Africa,10946
+2020-06-30,160,Australasia,1419
+2020-06-30,160,Cruise,0
+2020-06-30,160,East Asia,1643
+2020-06-30,160,Eastern Europe,2955
+2020-06-30,160,Eurasia,9153
+2020-06-30,160,Indian Subcontinent,25370
+2020-06-30,160,Latin America,41252
+2020-06-30,160,Middle East,13649
+2020-06-30,160,North America,45127
+2020-06-30,160,Western Europe,4715
+2020-07-01,161,Africa,11466
+2020-07-01,161,Australasia,1691
+2020-07-01,161,Cruise,0
+2020-07-01,161,East Asia,1588
+2020-07-01,161,Eastern Europe,3106
+2020-07-01,161,Eurasia,8956
+2020-07-01,161,Indian Subcontinent,26499
+2020-07-01,161,Latin America,51174
+2020-07-01,161,Middle East,14800
+2020-07-01,161,North America,51862
+2020-07-01,161,Western Europe,3115
+2020-07-02,162,Africa,13351
+2020-07-02,162,Australasia,1718
+2020-07-02,162,Cruise,0
+2020-07-02,162,East Asia,1789
+2020-07-02,162,Eastern Europe,3040
+2020-07-02,162,Eurasia,27637
+2020-07-02,162,Indian Subcontinent,27285
+2020-07-02,162,Latin America,66613
+2020-07-02,162,Middle East,15088
+2020-07-02,162,North America,57192
+2020-07-02,162,Western Europe,3531
+2020-07-03,163,Africa,12985
+2020-07-03,163,Australasia,3014
+2020-07-03,163,Cruise,0
+2020-07-03,163,East Asia,1068
+2020-07-03,163,Eastern Europe,3650
+2020-07-03,163,Eurasia,10303
+2020-07-03,163,Indian Subcontinent,29022
+2020-07-03,163,Latin America,67872
+2020-07-03,163,Middle East,14757
+2020-07-03,163,North America,62206
+2020-07-03,163,Western Europe,3259
+2020-07-04,164,Africa,14916
+2020-07-04,164,Australasia,1861
+2020-07-04,164,Cruise,0
+2020-07-04,164,East Asia,2474
+2020-07-04,164,Eastern Europe,3509
+2020-07-04,164,Eurasia,11456
+2020-07-04,164,Indian Subcontinent,25896
+2020-07-04,164,Latin America,63050
+2020-07-04,164,Middle East,16175
+2020-07-04,164,North America,59607
+2020-07-04,164,Western Europe,3778
+2020-07-05,165,Africa,15491
+2020-07-05,165,Australasia,1902
+2020-07-05,165,Cruise,0
+2020-07-05,165,East Asia,2088
+2020-07-05,165,Eastern Europe,3346
+2020-07-05,165,Eurasia,9858
+2020-07-05,165,Indian Subcontinent,31537
+2020-07-05,165,Latin America,58706
+2020-07-05,165,Middle East,15607
+2020-07-05,165,North America,52877
+2020-07-05,165,Western Europe,2499
+2020-07-06,166,Africa,13462
+2020-07-06,166,Australasia,1963
+2020-07-06,166,Cruise,0
+2020-07-06,166,East Asia,2991
+2020-07-06,166,Eastern Europe,2874
+2020-07-06,166,Eurasia,9919
+2020-07-06,166,Indian Subcontinent,33525
+2020-07-06,166,Latin America,46547
+2020-07-06,166,Middle East,14648
+2020-07-06,166,North America,54869
+2020-07-06,166,Western Europe,2192
+2020-07-07,167,Africa,13747
+2020-07-07,167,Australasia,1621
+2020-07-07,167,Cruise,0
+2020-07-07,167,East Asia,2525
+2020-07-07,167,Eastern Europe,2897
+2020-07-07,167,Eurasia,9919
+2020-07-07,167,Indian Subcontinent,28147
+2020-07-07,167,Latin America,37854
+2020-07-07,167,Middle East,14460
+2020-07-07,167,North America,49973
+2020-07-07,167,Western Europe,4506
+2020-07-08,168,Africa,17356
+2020-07-08,168,Australasia,1599
+2020-07-08,168,Cruise,0
+2020-07-08,168,East Asia,2046
+2020-07-08,168,Eastern Europe,3011
+2020-07-08,168,Eurasia,9459
+2020-07-08,168,Indian Subcontinent,28764
+2020-07-08,168,Latin America,64575
+2020-07-08,168,Middle East,14911
+2020-07-08,168,North America,66622
+2020-07-08,168,Western Europe,2631
+2020-07-09,169,Africa,14551
+2020-07-09,169,Australasia,2264
+2020-07-09,169,Cruise,0
+2020-07-09,169,East Asia,3029
+2020-07-09,169,Eastern Europe,3830
+2020-07-09,169,Eurasia,8446
+2020-07-09,169,Indian Subcontinent,31753
+2020-07-09,169,Latin America,63829
+2020-07-09,169,Middle East,15253
+2020-07-09,169,North America,66479
+2020-07-09,169,Western Europe,2963
+2020-07-10,170,Africa,18935
+2020-07-10,170,Australasia,3333
+2020-07-10,170,Cruise,0
+2020-07-10,170,East Asia,1951
+2020-07-10,170,Eastern Europe,3760
+2020-07-10,170,Eurasia,12232
+2020-07-10,170,Indian Subcontinent,32685
+2020-07-10,170,Latin America,65633
+2020-07-10,170,Middle East,14493
+2020-07-10,170,North America,70873
+2020-07-10,170,Western Europe,4216
+2020-07-11,171,Africa,17459
+2020-07-11,171,Australasia,2199
+2020-07-11,171,Cruise,0
+2020-07-11,171,East Asia,1741
+2020-07-11,171,Eastern Europe,3946
+2020-07-11,171,Eurasia,10396
+2020-07-11,171,Indian Subcontinent,33126
+2020-07-11,171,Latin America,68902
+2020-07-11,171,Middle East,15664
+2020-07-11,171,North America,74938
+2020-07-11,171,Western Europe,3946
+2020-07-12,172,Africa,18736
+2020-07-12,172,Australasia,2215
+2020-07-12,172,Cruise,0
+2020-07-12,172,East Asia,1908
+2020-07-12,172,Eastern Europe,4160
+2020-07-12,172,Eurasia,10435
+2020-07-12,172,Indian Subcontinent,33892
+2020-07-12,172,Latin America,61960
+2020-07-12,172,Middle East,13933
+2020-07-12,172,North America,66411
+2020-07-12,172,Western Europe,2752
+2020-07-13,173,Africa,16505
+2020-07-13,173,Australasia,2220
+2020-07-13,173,Cruise,0
+2020-07-13,173,East Asia,2643
+2020-07-13,173,Eastern Europe,3055
+2020-07-13,173,Eurasia,8836
+2020-07-13,173,Indian Subcontinent,34258
+2020-07-13,173,Latin America,45681
+2020-07-13,173,Middle East,13749
+2020-07-13,173,North America,63559
+2020-07-13,173,Western Europe,2117
+2020-07-14,174,Africa,16055
+2020-07-14,174,Australasia,1914
+2020-07-14,174,Cruise,0
+2020-07-14,174,East Asia,1225
+2020-07-14,174,Eastern Europe,2793
+2020-07-14,174,Eurasia,11986
+2020-07-14,174,Indian Subcontinent,33619
+2020-07-14,174,Latin America,39742
+2020-07-14,174,Middle East,14742
+2020-07-14,174,North America,64791
+2020-07-14,174,Western Europe,5438
+2020-07-15,175,Africa,14356
+2020-07-15,175,Australasia,2278
+2020-07-15,175,Cruise,0
+2020-07-15,175,East Asia,1140
+2020-07-15,175,Eastern Europe,3216
+2020-07-15,175,Eurasia,9532
+2020-07-15,175,Indian Subcontinent,34781
+2020-07-15,175,Latin America,64328
+2020-07-15,175,Middle East,14015
+2020-07-15,175,North America,74374
+2020-07-15,175,Western Europe,3299
+2020-07-16,176,Africa,17953
+2020-07-16,176,Australasia,2205
+2020-07-16,176,Cruise,0
+2020-07-16,176,East Asia,2250
+2020-07-16,176,Eastern Europe,4019
+2020-07-16,176,Eurasia,10417
+2020-07-16,176,Indian Subcontinent,38361
+2020-07-16,176,Latin America,63343
+2020-07-16,176,Middle East,14363
+2020-07-16,176,North America,74115
+2020-07-16,176,Western Europe,4196
+2020-07-17,177,Africa,20107
+2020-07-17,177,Australasia,2460
+2020-07-17,177,Cruise,0
+2020-07-17,177,East Asia,3069
+2020-07-17,177,Eastern Europe,3958
+2020-07-17,177,Eurasia,9802
+2020-07-17,177,Indian Subcontinent,37746
+2020-07-17,177,Latin America,71936
+2020-07-17,177,Middle East,14474
+2020-07-17,177,North America,84219
+2020-07-17,177,Western Europe,4897
+2020-07-18,178,Africa,19391
+2020-07-18,178,Australasia,2130
+2020-07-18,178,Cruise,0
+2020-07-18,178,East Asia,2574
+2020-07-18,178,Eastern Europe,4599
+2020-07-18,178,Eurasia,10312
+2020-07-18,178,Indian Subcontinent,42299
+2020-07-18,178,Latin America,62724
+2020-07-18,178,Middle East,13313
+2020-07-18,178,North America,79682
+2020-07-18,178,Western Europe,5230
+2020-07-19,179,Africa,18998
+2020-07-19,179,Australasia,2428
+2020-07-19,179,Cruise,0
+2020-07-19,179,East Asia,3259
+2020-07-19,179,Eastern Europe,4323
+2020-07-19,179,Eurasia,19264
+2020-07-19,179,Indian Subcontinent,42992
+2020-07-19,179,Latin America,58718
+2020-07-19,179,Middle East,13552
+2020-07-19,179,North America,70679
+2020-07-19,179,Western Europe,2672
+2020-07-20,180,Africa,18492
+2020-07-20,180,Australasia,2269
+2020-07-20,180,Cruise,0
+2020-07-20,180,East Asia,2926
+2020-07-20,180,Eastern Europe,3571
+2020-07-20,180,Eurasia,13302
+2020-07-20,180,Indian Subcontinent,44499
+2020-07-20,180,Latin America,48297
+2020-07-20,180,Middle East,11856
+2020-07-20,180,North America,66859
+2020-07-20,180,Western Europe,2094
+2020-07-21,181,Africa,15135
+2020-07-21,181,Australasia,2279
+2020-07-21,181,Cruise,0
+2020-07-21,181,East Asia,2054
+2020-07-21,181,Eastern Europe,3139
+2020-07-21,181,Eurasia,8902
+2020-07-21,181,Indian Subcontinent,41079
+2020-07-21,181,Latin America,43765
+2020-07-21,181,Middle East,13287
+2020-07-21,181,North America,67884
+2020-07-21,181,Western Europe,9143
+2020-07-22,182,Africa,13686
+2020-07-22,182,Australasia,2655
+2020-07-22,182,Cruise,0
+2020-07-22,182,East Asia,2946
+2020-07-22,182,Eastern Europe,4572
+2020-07-22,182,Eurasia,10327
+2020-07-22,182,Indian Subcontinent,42158
+2020-07-22,182,Latin America,67514
+2020-07-22,182,Middle East,13969
+2020-07-22,182,North America,71825
+2020-07-22,182,Western Europe,3976
+2020-07-23,183,Africa,19540
+2020-07-23,183,Australasia,2773
+2020-07-23,183,Cruise,0
+2020-07-23,183,East Asia,2552
+2020-07-23,183,Eastern Europe,4896
+2020-07-23,183,Eurasia,8027
+2020-07-23,183,Indian Subcontinent,50252
+2020-07-23,183,Latin America,95404
+2020-07-23,183,Middle East,14438
+2020-07-23,183,North America,77641
+2020-07-23,183,Western Europe,5310
+2020-07-24,184,Africa,18155
+2020-07-24,184,Australasia,2640
+2020-07-24,184,Cruise,0
+2020-07-24,184,East Asia,3449
+2020-07-24,184,Eastern Europe,4881
+2020-07-24,184,Eurasia,12995
+2020-07-24,184,Indian Subcontinent,53383
+2020-07-24,184,Latin America,89200
+2020-07-24,184,Middle East,13594
+2020-07-24,184,North America,78119
+2020-07-24,184,Western Europe,6679
+2020-07-25,185,Africa,21829
+2020-07-25,185,Australasia,2531
+2020-07-25,185,Cruise,0
+2020-07-25,185,East Asia,3232
+2020-07-25,185,Eastern Europe,5143
+2020-07-25,185,Eurasia,8874
+2020-07-25,185,Indian Subcontinent,52966
+2020-07-25,185,Latin America,84505
+2020-07-25,185,Middle East,13361
+2020-07-25,185,North America,81397
+2020-07-25,185,Western Europe,6747
+2020-07-26,186,Africa,18043
+2020-07-26,186,Australasia,3001
+2020-07-26,186,Cruise,0
+2020-07-26,186,East Asia,3120
+2020-07-26,186,Eastern Europe,4566
+2020-07-26,186,Eurasia,9763
+2020-07-26,186,Indian Subcontinent,52394
+2020-07-26,186,Latin America,75384
+2020-07-26,186,Middle East,12630
+2020-07-26,186,North America,73560
+2020-07-26,186,Western Europe,3237
+2020-07-27,187,Africa,18014
+2020-07-27,187,Australasia,2672
+2020-07-27,187,Cruise,0
+2020-07-27,187,East Asia,3259
+2020-07-27,187,Eastern Europe,4681
+2020-07-27,187,Eurasia,9380
+2020-07-27,187,Indian Subcontinent,52284
+2020-07-27,187,Latin America,47631
+2020-07-27,187,Middle East,12009
+2020-07-27,187,North America,60601
+2020-07-27,187,Western Europe,2640
+2020-07-28,188,Africa,13221
+2020-07-28,188,Australasia,2484
+2020-07-28,188,Cruise,0
+2020-07-28,188,East Asia,2592
+2020-07-28,188,Eastern Europe,4755
+2020-07-28,188,Eurasia,9256
+2020-07-28,188,Indian Subcontinent,48429
+2020-07-28,188,Latin America,59361
+2020-07-28,188,Middle East,12634
+2020-07-28,188,North America,62235
+2020-07-28,188,Western Europe,11326
+2020-07-29,189,Africa,13236
+2020-07-29,189,Australasia,2636
+2020-07-29,189,Cruise,0
+2020-07-29,189,East Asia,3195
+2020-07-29,189,Eastern Europe,4929
+2020-07-29,189,Eurasia,8966
+2020-07-29,189,Indian Subcontinent,55498
+2020-07-29,189,Latin America,71647
+2020-07-29,189,Middle East,13768
+2020-07-29,189,North America,73401
+2020-07-29,189,Western Europe,5169
+2020-07-30,190,Africa,17272
+2020-07-30,190,Australasia,3563
+2020-07-30,190,Cruise,0
+2020-07-30,190,East Asia,3544
+2020-07-30,190,Eastern Europe,5422
+2020-07-30,190,Eurasia,9541
+2020-07-30,190,Indian Subcontinent,54390
+2020-07-30,190,Latin America,99001
+2020-07-30,190,Middle East,13369
+2020-07-30,190,North America,77540
+2020-07-30,190,Western Europe,6046
+2020-07-31,191,Africa,17103
+2020-07-31,191,Australasia,3033
+2020-07-31,191,Cruise,0
+2020-07-31,191,East Asia,6294
+2020-07-31,191,Eastern Europe,5630
+2020-07-31,191,Eurasia,9228
+2020-07-31,191,Indian Subcontinent,56606
+2020-07-31,191,Latin America,85392
+2020-07-31,191,Middle East,12537
+2020-07-31,191,North America,75829
+2020-07-31,191,Western Europe,8728
+2020-08-01,192,Africa,17153
+2020-08-01,192,Australasia,4726
+2020-08-01,192,Cruise,0
+2020-08-01,192,East Asia,5546
+2020-08-01,192,Eastern Europe,5373
+2020-08-01,192,Eurasia,9102
+2020-08-01,192,Indian Subcontinent,64923
+2020-08-01,192,Latin America,85595
+2020-08-01,192,Middle East,11334
+2020-08-01,192,North America,76215
+2020-08-01,192,Western Europe,10130
+2020-08-02,193,Africa,16868
+2020-08-02,193,Australasia,2669
+2020-08-02,193,Cruise,0
+2020-08-02,193,East Asia,7009
+2020-08-02,193,Eastern Europe,4904
+2020-08-02,193,Eurasia,7735
+2020-08-02,193,Indian Subcontinent,56943
+2020-08-02,193,Latin America,73000
+2020-08-02,193,Middle East,9846
+2020-08-02,193,North America,67701
+2020-08-02,193,Western Europe,3758
+2020-08-03,194,Africa,12500
+2020-08-03,194,Australasia,2514
+2020-08-03,194,Cruise,0
+2020-08-03,194,East Asia,6729
+2020-08-03,194,Eastern Europe,5329
+2020-08-03,194,Eurasia,9686
+2020-08-03,194,Indian Subcontinent,55260
+2020-08-03,194,Latin America,72517
+2020-08-03,194,Middle East,9301
+2020-08-03,194,North America,52427
+2020-08-03,194,Western Europe,2630
+2020-08-04,195,Africa,10580
+2020-08-04,195,Australasia,2496
+2020-08-04,195,Cruise,0
+2020-08-04,195,East Asia,4728
+2020-08-04,195,Eastern Europe,4088
+2020-08-04,195,Eurasia,8700
+2020-08-04,195,Indian Subcontinent,54175
+2020-08-04,195,Latin America,44497
+2020-08-04,195,Middle East,10292
+2020-08-04,195,North America,49802
+2020-08-04,195,Western Europe,12164
+2020-08-05,196,Africa,9626
+2020-08-05,196,Australasia,3217
+2020-08-05,196,Cruise,0
+2020-08-05,196,East Asia,7935
+2020-08-05,196,Eastern Europe,5360
+2020-08-05,196,Eurasia,8704
+2020-08-05,196,Indian Subcontinent,54439
+2020-08-05,196,Latin America,81805
+2020-08-05,196,Middle East,10819
+2020-08-05,196,North America,64294
+2020-08-05,196,Western Europe,12467
+2020-08-06,197,Africa,14971
+2020-08-06,197,Australasia,3513
+2020-08-06,197,Cruise,0
+2020-08-06,197,East Asia,5324
+2020-08-06,197,Eastern Europe,5488
+2020-08-06,197,Eurasia,8781
+2020-08-06,197,Indian Subcontinent,59629
+2020-08-06,197,Latin America,93646
+2020-08-06,197,Middle East,12792
+2020-08-06,197,North America,60165
+2020-08-06,197,Western Europe,7763
+2020-08-07,198,Africa,13757
+2020-08-07,198,Australasia,2765
+2020-08-07,198,Cruise,0
+2020-08-07,198,East Asia,5512
+2020-08-07,198,Eastern Europe,6071
+2020-08-07,198,Eurasia,8483
+2020-08-07,198,Indian Subcontinent,66250
+2020-08-07,198,Latin America,91508
+2020-08-07,198,Middle East,12168
+2020-08-07,198,North America,66584
+2020-08-07,198,Western Europe,11997
+2020-08-08,199,Africa,13249
+2020-08-08,199,Australasia,3394
+2020-08-08,199,Cruise,0
+2020-08-08,199,East Asia,5572
+2020-08-08,199,Eastern Europe,6133
+2020-08-08,199,Eurasia,8569
+2020-08-08,199,Indian Subcontinent,65175
+2020-08-08,199,Latin America,87333
+2020-08-08,199,Middle East,12182
+2020-08-08,199,North America,65565
+2020-08-08,199,Western Europe,13898
+2020-08-09,200,Africa,13934
+2020-08-09,200,Australasia,3049
+2020-08-09,200,Cruise,0
+2020-08-09,200,East Asia,6243
+2020-08-09,200,Eastern Europe,5595
+2020-08-09,200,Eurasia,8233
+2020-08-09,200,Indian Subcontinent,67859
+2020-08-09,200,Latin America,76915
+2020-08-09,200,Middle East,10892
+2020-08-09,200,North America,62430
+2020-08-09,200,Western Europe,4096
+2020-08-10,201,Africa,12082
+2020-08-10,201,Australasia,2618
+2020-08-10,201,Cruise,0
+2020-08-10,201,East Asia,5029
+2020-08-10,201,Eastern Europe,4371
+2020-08-10,201,Eurasia,8422
+2020-08-10,201,Indian Subcontinent,65192
+2020-08-10,201,Latin America,61250
+2020-08-10,201,Middle East,9674
+2020-08-10,201,North America,50718
+2020-08-10,201,Western Europe,4082
+2020-08-11,202,Africa,8577
+2020-08-11,202,Australasia,2319
+2020-08-11,202,Cruise,0
+2020-08-11,202,East Asia,8051
+2020-08-11,202,Eastern Europe,5077
+2020-08-11,202,Eurasia,7939
+2020-08-11,202,Indian Subcontinent,57074
+2020-08-11,202,Latin America,53643
+2020-08-11,202,Middle East,11763
+2020-08-11,202,North America,56004
+2020-08-11,202,Western Europe,17265
+2020-08-12,203,Africa,7459
+2020-08-12,203,Australasia,2367
+2020-08-12,203,Cruise,0
+2020-08-12,203,East Asia,4354
+2020-08-12,203,Eastern Europe,5092
+2020-08-12,203,Eurasia,7623
+2020-08-12,203,Indian Subcontinent,64517
+2020-08-12,203,Latin America,88821
+2020-08-12,203,Middle East,12601
+2020-08-12,203,North America,53925
+2020-08-12,203,Western Europe,8163
+2020-08-13,204,Africa,8768
+2020-08-13,204,Australasia,2559
+2020-08-13,204,Cruise,0
+2020-08-13,204,East Asia,5851
+2020-08-13,204,Eastern Europe,6046
+2020-08-13,204,Eurasia,8035
+2020-08-13,204,Indian Subcontinent,70730
+2020-08-13,204,Latin America,86097
+2020-08-13,204,Middle East,12352
+2020-08-13,204,North America,63176
+2020-08-13,204,Western Europe,14254
+2020-08-14,205,Africa,9906
+2020-08-14,205,Australasia,2807
+2020-08-14,205,Cruise,0
+2020-08-14,205,East Asia,5733
+2020-08-14,205,Eastern Europe,6445
+2020-08-14,205,Eurasia,7753
+2020-08-14,205,Indian Subcontinent,67933
+2020-08-14,205,Latin America,99309
+2020-08-14,205,Middle East,13205
+2020-08-14,205,North America,59825
+2020-08-14,205,Western Europe,13463
+2020-08-15,206,Africa,12198
+2020-08-15,206,Australasia,2850
+2020-08-15,206,Cruise,0
+2020-08-15,206,East Asia,8353
+2020-08-15,206,Eastern Europe,7128
+2020-08-15,206,Eurasia,7522
+2020-08-15,206,Indian Subcontinent,68139
+2020-08-15,206,Latin America,97658
+2020-08-15,206,Middle East,12416
+2020-08-15,206,North America,70644
+2020-08-15,206,Western Europe,17750
+2020-08-16,207,Africa,11238
+2020-08-16,207,Australasia,2936
+2020-08-16,207,Cruise,0
+2020-08-16,207,East Asia,6325
+2020-08-16,207,Eastern Europe,6215
+2020-08-16,207,Eurasia,7714
+2020-08-16,207,Indian Subcontinent,67425
+2020-08-16,207,Latin America,70979
+2020-08-16,207,Middle East,12355
+2020-08-16,207,North America,53990
+2020-08-16,207,Western Europe,8687
+2020-08-17,208,Africa,9385
+2020-08-17,208,Australasia,2769
+2020-08-17,208,Cruise,0
+2020-08-17,208,East Asia,5314
+2020-08-17,208,Eastern Europe,5034
+2020-08-17,208,Eurasia,7488
+2020-08-17,208,Indian Subcontinent,60909
+2020-08-17,208,Latin America,59588
+2020-08-17,208,Middle East,11424
+2020-08-17,208,North America,46040
+2020-08-17,208,Western Europe,3964
+2020-08-18,209,Africa,8348
+2020-08-18,209,Australasia,2423
+2020-08-18,209,Cruise,0
+2020-08-18,209,East Asia,4780
+2020-08-18,209,Eastern Europe,4436
+2020-08-18,209,Eurasia,6881
+2020-08-18,209,Indian Subcontinent,57621
+2020-08-18,209,Latin America,49477
+2020-08-18,209,Middle East,11979
+2020-08-18,209,North America,39724
+2020-08-18,209,Western Europe,24253
+2020-08-19,210,Africa,8066
+2020-08-19,210,Australasia,2281
+2020-08-19,210,Cruise,0
+2020-08-19,210,East Asia,7041
+2020-08-19,210,Eastern Europe,5732
+2020-08-19,210,Eurasia,7089
+2020-08-19,210,Indian Subcontinent,68392
+2020-08-19,210,Latin America,81991
+2020-08-19,210,Middle East,13692
+2020-08-19,210,North America,51726
+2020-08-19,210,Western Europe,10489
+2020-08-20,211,Africa,10372
+2020-08-20,211,Australasia,2558
+2020-08-20,211,Cruise,0
+2020-08-20,211,East Asia,6660
+2020-08-20,211,Eastern Europe,6838
+2020-08-20,211,Eurasia,7311
+2020-08-20,211,Indian Subcontinent,73055
+2020-08-20,211,Latin America,88490
+2020-08-20,211,Middle East,13192
+2020-08-20,211,North America,53446
+2020-08-20,211,Western Europe,12505
+2020-08-21,212,Africa,10230
+2020-08-21,212,Australasia,2796
+2020-08-21,212,Cruise,0
+2020-08-21,212,East Asia,6517
+2020-08-21,212,Eastern Europe,6895
+2020-08-21,212,Eurasia,7089
+2020-08-21,212,Indian Subcontinent,72313
+2020-08-21,212,Latin America,83550
+2020-08-21,212,Middle East,13053
+2020-08-21,212,North America,51073
+2020-08-21,212,Western Europe,13659
+2020-08-22,213,Africa,9747
+2020-08-22,213,Australasia,2808
+2020-08-22,213,Cruise,0
+2020-08-22,213,East Asia,6616
+2020-08-22,213,Eastern Europe,8050
+2020-08-22,213,Eurasia,7044
+2020-08-22,213,Indian Subcontinent,72966
+2020-08-22,213,Latin America,65883
+2020-08-22,213,Middle East,12162
+2020-08-22,213,North America,54841
+2020-08-22,213,Western Europe,30200
+2020-08-23,214,Africa,10021
+2020-08-23,214,Australasia,2457
+2020-08-23,214,Cruise,0
+2020-08-23,214,East Asia,6926
+2020-08-23,214,Eastern Europe,7099
+2020-08-23,214,Eurasia,7079
+2020-08-23,214,Indian Subcontinent,72102
+2020-08-23,214,Latin America,87326
+2020-08-23,214,Middle East,11754
+2020-08-23,214,North America,51133
+2020-08-23,214,Western Europe,9426
+2020-08-24,215,Africa,9105
+2020-08-24,215,Australasia,2441
+2020-08-24,215,Cruise,0
+2020-08-24,215,East Asia,4226
+2020-08-24,215,Eastern Europe,5893
+2020-08-24,215,Eurasia,6771
+2020-08-24,215,Indian Subcontinent,64483
+2020-08-24,215,Latin America,54492
+2020-08-24,215,Middle East,10074
+2020-08-24,215,North America,38634
+2020-08-24,215,Western Europe,9678
+2020-08-25,216,Africa,6831
+2020-08-25,216,Australasia,2322
+2020-08-25,216,Cruise,0
+2020-08-25,216,East Asia,6211
+2020-08-25,216,Eastern Europe,5264
+2020-08-25,216,Eurasia,6855
+2020-08-25,216,Indian Subcontinent,63490
+2020-08-25,216,Latin America,53557
+2020-08-25,216,Middle East,12758
+2020-08-25,216,North America,42172
+2020-08-25,216,Western Europe,26851
+2020-08-26,217,Africa,7286
+2020-08-26,217,Australasia,2851
+2020-08-26,217,Cruise,0
+2020-08-26,217,East Asia,4877
+2020-08-26,217,Eastern Europe,6235
+2020-08-26,217,Eurasia,6759
+2020-08-26,217,Indian Subcontinent,60265
+2020-08-26,217,Latin America,81555
+2020-08-26,217,Middle East,12647
+2020-08-26,217,North America,43454
+2020-08-26,217,Western Europe,16157
+2020-08-27,218,Africa,8134
+2020-08-27,218,Australasia,2772
+2020-08-27,218,Cruise,0
+2020-08-27,218,East Asia,7454
+2020-08-27,218,Eastern Europe,6810
+2020-08-27,218,Eurasia,6593
+2020-08-27,218,Indian Subcontinent,88777
+2020-08-27,218,Latin America,84725
+2020-08-27,218,Middle East,12949
+2020-08-27,218,North America,50835
+2020-08-27,218,Western Europe,19794
+2020-08-28,219,Africa,8096
+2020-08-28,219,Australasia,3095
+2020-08-28,219,Cruise,0
+2020-08-28,219,East Asia,5625
+2020-08-28,219,Eastern Europe,7085
+2020-08-28,219,Eurasia,6951
+2020-08-28,219,Indian Subcontinent,80176
+2020-08-28,219,Latin America,79921
+2020-08-28,219,Middle East,12940
+2020-08-28,219,North America,52353
+2020-08-28,219,Western Europe,22861
+2020-08-29,220,Africa,7632
+2020-08-29,220,Australasia,3439
+2020-08-29,220,Cruise,0
+2020-08-29,220,East Asia,6095
+2020-08-29,220,Eastern Europe,7690
+2020-08-29,220,Eurasia,6858
+2020-08-29,220,Indian Subcontinent,79142
+2020-08-29,220,Latin America,83006
+2020-08-29,220,Middle East,12622
+2020-08-29,220,North America,52526
+2020-08-29,220,Western Europe,22534
+2020-08-30,221,Africa,8147
+2020-08-30,221,Australasia,3604
+2020-08-30,221,Cruise,0
+2020-08-30,221,East Asia,5654
+2020-08-30,221,Eastern Europe,7341
+2020-08-30,221,Eurasia,7025
+2020-08-30,221,Indian Subcontinent,81324
+2020-08-30,221,Latin America,77900
+2020-08-30,221,Middle East,11619
+2020-08-30,221,North America,52291
+2020-08-30,221,Western Europe,5970
+2020-08-31,222,Africa,7871
+2020-08-31,222,Australasia,3229
+2020-08-31,222,Cruise,0
+2020-08-31,222,East Asia,6400
+2020-08-31,222,Eastern Europe,5880
+2020-08-31,222,Eurasia,6955
+2020-08-31,222,Indian Subcontinent,80716
+2020-08-31,222,Latin America,48360
+2020-08-31,222,Middle East,10643
+2020-08-31,222,North America,39732
+2020-08-31,222,Western Europe,16484
+2020-09-01,223,Africa,6224
+2020-09-01,223,Australasia,3052
+2020-09-01,223,Cruise,0
+2020-09-01,223,East Asia,5028
+2020-09-01,223,Eastern Europe,5182
+2020-09-01,223,Eurasia,7210
+2020-09-01,223,Indian Subcontinent,72453
+2020-09-01,223,Latin America,78608
+2020-09-01,223,Middle East,12520
+2020-09-01,223,North America,39261
+2020-09-01,223,Western Europe,32876
+2020-09-02,224,Africa,6401
+2020-09-02,224,Australasia,3233
+2020-09-02,224,Cruise,0
+2020-09-02,224,East Asia,5439
+2020-09-02,224,Eastern Europe,6130
+2020-09-02,224,Eurasia,6644
+2020-09-02,224,Indian Subcontinent,80691
+2020-09-02,224,Latin America,75190
+2020-09-02,224,Middle East,12174
+2020-09-02,224,North America,49509
+2020-09-02,224,Western Europe,18740
+2020-09-03,225,Africa,8182
+2020-09-03,225,Australasia,3365
+2020-09-03,225,Cruise,0
+2020-09-03,225,East Asia,4112
+2020-09-03,225,Eastern Europe,7837
+2020-09-03,225,Eurasia,7000
+2020-09-03,225,Indian Subcontinent,87415
+2020-09-03,225,Latin America,82109
+2020-09-03,225,Middle East,13795
+2020-09-03,225,North America,46043
+2020-09-03,225,Western Europe,22843
+2020-09-04,226,Africa,7008
+2020-09-04,226,Australasia,4018
+2020-09-04,226,Cruise,0
+2020-09-04,226,East Asia,4089
+2020-09-04,226,Eastern Europe,8034
+2020-09-04,226,Eurasia,7075
+2020-09-04,226,Indian Subcontinent,86144
+2020-09-04,226,Latin America,74367
+2020-09-04,226,Middle East,15738
+2020-09-04,226,North America,50441
+2020-09-04,226,Western Europe,23944
+2020-09-05,227,Africa,7789
+2020-09-05,227,Australasia,3599
+2020-09-05,227,Cruise,0
+2020-09-05,227,East Asia,5811
+2020-09-05,227,Eastern Europe,8520
+2020-09-05,227,Eurasia,7188
+2020-09-05,227,Indian Subcontinent,88938
+2020-09-05,227,Latin America,91357
+2020-09-05,227,Middle East,14552
+2020-09-05,227,North America,56917
+2020-09-05,227,Western Europe,28049
+2020-09-06,228,Africa,6738
+2020-09-06,228,Australasia,3380
+2020-09-06,228,Cruise,0
+2020-09-06,228,East Asia,4339
+2020-09-06,228,Eastern Europe,8237
+2020-09-06,228,Eurasia,7315
+2020-09-06,228,Indian Subcontinent,92740
+2020-09-06,228,Latin America,67891
+2020-09-06,228,Middle East,14261
+2020-09-06,228,North America,50740
+2020-09-06,228,Western Europe,7534
+2020-09-07,229,Africa,7019
+2020-09-07,229,Australasia,3793
+2020-09-07,229,Cruise,0
+2020-09-07,229,East Asia,4380
+2020-09-07,229,Eastern Europe,6396
+2020-09-07,229,Eurasia,7174
+2020-09-07,229,Indian Subcontinent,93374
+2020-09-07,229,Latin America,42989
+2020-09-07,229,Middle East,12902
+2020-09-07,229,North America,36124
+2020-09-07,229,Western Europe,7883
+2020-09-08,230,Africa,5759
+2020-09-08,230,Australasia,3136
+2020-09-08,230,Cruise,0
+2020-09-08,230,East Asia,2799
+2020-09-08,230,Eastern Europe,5862
+2020-09-08,230,Eurasia,7266
+2020-09-08,230,Indian Subcontinent,78441
+2020-09-08,230,Latin America,31365
+2020-09-08,230,Middle East,15521
+2020-09-08,230,North America,27947
+2020-09-08,230,Western Europe,55618
+2020-09-09,231,Africa,6861
+2020-09-09,231,Australasia,3403
+2020-09-09,231,Cruise,0
+2020-09-09,231,East Asia,4846
+2020-09-09,231,Eastern Europe,7804
+2020-09-09,231,Eurasia,7307
+2020-09-09,231,Indian Subcontinent,92334
+2020-09-09,231,Latin America,36527
+2020-09-09,231,Middle East,16535
+2020-09-09,231,North America,33549
+2020-09-09,231,Western Europe,24165
+2020-09-10,232,Africa,7374
+2020-09-10,232,Australasia,3606
+2020-09-10,232,Cruise,0
+2020-09-10,232,East Asia,4957
+2020-09-10,232,Eastern Europe,8511
+2020-09-10,232,Eurasia,7745
+2020-09-10,232,Indian Subcontinent,98142
+2020-09-10,232,Latin America,78768
+2020-09-10,232,Middle East,16403
+2020-09-10,232,North America,38391
+2020-09-10,232,Western Europe,28390
+2020-09-11,233,Africa,7479
+2020-09-11,233,Australasia,4170
+2020-09-11,233,Cruise,0
+2020-09-11,233,East Asia,5918
+2020-09-11,233,Eastern Europe,9064
+2020-09-11,233,Eurasia,7553
+2020-09-11,233,Indian Subcontinent,98933
+2020-09-11,233,Latin America,76253
+2020-09-11,233,Middle East,17103
+2020-09-11,233,North America,42224
+2020-09-11,233,Western Europe,30529
+2020-09-12,234,Africa,7665
+2020-09-12,234,Australasia,4180
+2020-09-12,234,Cruise,0
+2020-09-12,234,East Asia,6273
+2020-09-12,234,Eastern Europe,10029
+2020-09-12,234,Eurasia,7962
+2020-09-12,234,Indian Subcontinent,100234
+2020-09-12,234,Latin America,80052
+2020-09-12,234,Middle East,15494
+2020-09-12,234,North America,54177
+2020-09-12,234,Western Europe,33792
+2020-09-13,235,Africa,6912
+2020-09-13,235,Australasia,4055
+2020-09-13,235,Cruise,0
+2020-09-13,235,East Asia,6907
+2020-09-13,235,Eastern Europe,10301
+2020-09-13,235,Eurasia,7654
+2020-09-13,235,Indian Subcontinent,96582
+2020-09-13,235,Latin America,69691
+2020-09-13,235,Middle East,16039
+2020-09-13,235,North America,47285
+2020-09-13,235,Western Europe,11849
+2020-09-14,236,Africa,6336
+2020-09-14,236,Australasia,3922
+2020-09-14,236,Cruise,0
+2020-09-14,236,East Asia,4976
+2020-09-14,236,Eastern Europe,7579
+2020-09-14,236,Eurasia,7594
+2020-09-14,236,Indian Subcontinent,94344
+2020-09-14,236,Latin America,46369
+2020-09-14,236,Middle East,15090
+2020-09-14,236,North America,39508
+2020-09-14,236,Western Europe,10335
+2020-09-15,237,Africa,5746
+2020-09-15,237,Australasia,3361
+2020-09-15,237,Cruise,0
+2020-09-15,237,East Asia,6239
+2020-09-15,237,Eastern Europe,7239
+2020-09-15,237,Eurasia,7830
+2020-09-15,237,Indian Subcontinent,86235
+2020-09-15,237,Latin America,46300
+2020-09-15,237,Middle East,18117
+2020-09-15,237,North America,38739
+2020-09-15,237,Western Europe,59887
+2020-09-16,238,Africa,5873
+2020-09-16,238,Australasia,3739
+2020-09-16,238,Cruise,0
+2020-09-16,238,East Asia,5655
+2020-09-16,238,Eastern Europe,9710
+2020-09-16,238,Eurasia,7946
+2020-09-16,238,Indian Subcontinent,92972
+2020-09-16,238,Latin America,67646
+2020-09-16,238,Middle East,16555
+2020-09-16,238,North America,44764
+2020-09-16,238,Western Europe,28933
+2020-09-17,239,Africa,6475
+2020-09-17,239,Australasia,4240
+2020-09-17,239,Cruise,0
+2020-09-17,239,East Asia,5789
+2020-09-17,239,Eastern Europe,11068
+2020-09-17,239,Eurasia,8156
+2020-09-17,239,Indian Subcontinent,100312
+2020-09-17,239,Latin America,70694
+2020-09-17,239,Middle East,20012
+2020-09-17,239,North America,43947
+2020-09-17,239,Western Europe,34156
+2020-09-18,240,Africa,7713
+2020-09-18,240,Australasia,3791
+2020-09-18,240,Cruise,0
+2020-09-18,240,East Asia,5272
+2020-09-18,240,Eastern Europe,13181
+2020-09-18,240,Eurasia,8129
+2020-09-18,240,Indian Subcontinent,99183
+2020-09-18,240,Latin America,72156
+2020-09-18,240,Middle East,18800
+2020-09-18,240,North America,48939
+2020-09-18,240,Western Europe,36570
+2020-09-19,241,Africa,7419
+2020-09-19,241,Australasia,4202
+2020-09-19,241,Cruise,0
+2020-09-19,241,East Asia,5965
+2020-09-19,241,Eastern Europe,11819
+2020-09-19,241,Eurasia,8401
+2020-09-19,241,Indian Subcontinent,95850
+2020-09-19,241,Latin America,74874
+2020-09-19,241,Middle East,16774
+2020-09-19,241,North America,54731
+2020-09-19,241,Western Europe,43380
+2020-09-20,242,Africa,7876
+2020-09-20,242,Australasia,4356
+2020-09-20,242,Cruise,0
+2020-09-20,242,East Asia,5864
+2020-09-20,242,Eastern Europe,11649
+2020-09-20,242,Eurasia,8435
+2020-09-20,242,Indian Subcontinent,95456
+2020-09-20,242,Latin America,67036
+2020-09-20,242,Middle East,16850
+2020-09-20,242,North America,49771
+2020-09-20,242,Western Europe,13792
+2020-09-21,243,Africa,7685
+2020-09-21,243,Australasia,4188
+2020-09-21,243,Cruise,0
+2020-09-21,243,East Asia,5196
+2020-09-21,243,Eastern Europe,10051
+2020-09-21,243,Eurasia,8298
+2020-09-21,243,Indian Subcontinent,89686
+2020-09-21,243,Latin America,44436
+2020-09-21,243,Middle East,18095
+2020-09-21,243,North America,40899
+2020-09-21,243,Western Europe,12202
+2020-09-22,244,Africa,5259
+2020-09-22,244,Australasia,4358
+2020-09-22,244,Cruise,0
+2020-09-22,244,East Asia,5002
+2020-09-22,244,Eastern Europe,8745
+2020-09-22,244,Eurasia,8508
+2020-09-22,244,Indian Subcontinent,78048
+2020-09-22,244,Latin America,41364
+2020-09-22,244,Middle East,15947
+2020-09-22,244,North America,57214
+2020-09-22,244,Western Europe,74857
+2020-09-23,245,Africa,6130
+2020-09-23,245,Australasia,4351
+2020-09-23,245,Cruise,0
+2020-09-23,245,East Asia,3397
+2020-09-23,245,Eastern Europe,10596
+2020-09-23,245,Eurasia,8607
+2020-09-23,245,Indian Subcontinent,85938
+2020-09-23,245,Latin America,60381
+2020-09-23,245,Middle East,17484
+2020-09-23,245,North America,44920
+2020-09-23,245,Western Europe,37381
+2020-09-24,246,Africa,8029
+2020-09-24,246,Australasia,4749
+2020-09-24,246,Cruise,0
+2020-09-24,246,East Asia,4348
+2020-09-24,246,Eastern Europe,13242
+2020-09-24,246,Eurasia,8897
+2020-09-24,246,Indian Subcontinent,89852
+2020-09-24,246,Latin America,37283
+2020-09-24,246,Middle East,26644
+2020-09-24,246,North America,44303
+2020-09-24,246,Western Europe,29665
+2020-09-25,247,Africa,7645
+2020-09-25,247,Australasia,4801
+2020-09-25,247,Cruise,0
+2020-09-25,247,East Asia,4276
+2020-09-25,247,Eastern Europe,13614
+2020-09-25,247,Eurasia,9002
+2020-09-25,247,Indian Subcontinent,89091
+2020-09-25,247,Latin America,102203
+2020-09-25,247,Middle East,22196
+2020-09-25,247,North America,50688
+2020-09-25,247,Western Europe,57440
+2020-09-26,248,Africa,7262
+2020-09-26,248,Australasia,5083
+2020-09-26,248,Cruise,0
+2020-09-26,248,East Asia,4565
+2020-09-26,248,Eastern Europe,14409
+2020-09-26,248,Eurasia,9621
+2020-09-26,248,Indian Subcontinent,87920
+2020-09-26,248,Latin America,75057
+2020-09-26,248,Middle East,20061
+2020-09-26,248,North America,57616
+2020-09-26,248,Western Europe,48735
+2020-09-27,249,Africa,5836
+2020-09-27,249,Australasia,4697
+2020-09-27,249,Cruise,0
+2020-09-27,249,East Asia,3870
+2020-09-27,249,Eastern Europe,13886
+2020-09-27,249,Eurasia,9624
+2020-09-27,249,Indian Subcontinent,91288
+2020-09-27,249,Latin America,56845
+2020-09-27,249,Middle East,23296
+2020-09-27,249,North America,51498
+2020-09-27,249,Western Europe,16592
+2020-09-28,250,Africa,7761
+2020-09-28,250,Australasia,4164
+2020-09-28,250,Cruise,0
+2020-09-28,250,East Asia,5110
+2020-09-28,250,Eastern Europe,11017
+2020-09-28,250,Eurasia,9986
+2020-09-28,250,Indian Subcontinent,84765
+2020-09-28,250,Latin America,42119
+2020-09-28,250,Middle East,17685
+2020-09-28,250,North America,41966
+2020-09-28,250,Western Europe,15637
+2020-09-29,251,Africa,4799
+2020-09-29,251,Australasia,3729
+2020-09-29,251,Cruise,0
+2020-09-29,251,East Asia,4820
+2020-09-29,251,Eastern Europe,9734
+2020-09-29,251,Eurasia,10095
+2020-09-29,251,Indian Subcontinent,73572
+2020-09-29,251,Latin America,43457
+2020-09-29,251,Middle East,15974
+2020-09-29,251,North America,38503
+2020-09-29,251,Western Europe,72357
+2020-09-30,252,Africa,6676
+2020-09-30,252,Australasia,4232
+2020-09-30,252,Cruise,0
+2020-09-30,252,East Asia,4225
+2020-09-30,252,Eastern Europe,12795
+2020-09-30,252,Eurasia,10417
+2020-09-30,252,Indian Subcontinent,83513
+2020-09-30,252,Latin America,62893
+2020-09-30,252,Middle East,19108
+2020-09-30,252,North America,48318
+2020-09-30,252,Western Europe,31807
+2020-10-01,253,Africa,7898
+2020-10-01,253,Australasia,4541
+2020-10-01,253,Cruise,0
+2020-10-01,253,East Asia,4620
+2020-10-01,253,Eastern Europe,16000
+2020-10-01,253,Eurasia,10386
+2020-10-01,253,Indian Subcontinent,89755
+2020-10-01,253,Latin America,66084
+2020-10-01,253,Middle East,24181
+2020-10-01,253,North America,48574
+2020-10-01,253,Western Europe,54938
+2020-10-02,254,Africa,6563
+2020-10-02,254,Australasia,4549
+2020-10-02,254,Cruise,0
+2020-10-02,254,East Asia,5042
+2020-10-02,254,Eastern Europe,17158
+2020-10-02,254,Eurasia,10994
+2020-10-02,254,Indian Subcontinent,84635
+2020-10-02,254,Latin America,68589
+2020-10-02,254,Middle East,23437
+2020-10-02,254,North America,51671
+2020-10-02,254,Western Europe,44696
+2020-10-03,255,Africa,8222
+2020-10-03,255,Australasia,4792
+2020-10-03,255,Cruise,0
+2020-10-03,255,East Asia,5949
+2020-10-03,255,Eastern Europe,20156
+2020-10-03,255,Eurasia,11318
+2020-10-03,255,Indian Subcontinent,82574
+2020-10-03,255,Latin America,33452
+2020-10-03,255,Middle East,19991
+2020-10-03,255,North America,61405
+2020-10-03,255,Western Europe,47568
+2020-10-04,256,Africa,8453
+2020-10-04,256,Australasia,4417
+2020-10-04,256,Cruise,0
+2020-10-04,256,East Asia,5435
+2020-10-04,256,Eastern Europe,17210
+2020-10-04,256,Eurasia,12263
+2020-10-04,256,Indian Subcontinent,78632
+2020-10-04,256,Latin America,89800
+2020-10-04,256,Middle East,19222
+2020-10-04,256,North America,56213
+2020-10-04,256,Western Europe,28304
+2020-10-05,257,Africa,7343
+2020-10-05,257,Australasia,4395
+2020-10-05,257,Cruise,0
+2020-10-05,257,East Asia,5940
+2020-10-05,257,Eastern Europe,14633
+2020-10-05,257,Eurasia,12522
+2020-10-05,257,Indian Subcontinent,76865
+2020-10-05,257,Latin America,30053
+2020-10-05,257,Middle East,18192
+2020-10-05,257,North America,41357
+2020-10-05,257,Western Europe,36521
+2020-10-06,258,Africa,4017
+2020-10-06,258,Australasia,4195
+2020-10-06,258,Cruise,0
+2020-10-06,258,East Asia,5098
+2020-10-06,258,Eastern Europe,15258
+2020-10-06,258,Eurasia,13000
+2020-10-06,258,Indian Subcontinent,64920
+2020-10-06,258,Latin America,44471
+2020-10-06,258,Middle East,20804
+2020-10-06,258,North America,70555
+2020-10-06,258,Western Europe,83093
+2020-10-07,259,Africa,5481
+2020-10-07,259,Australasia,4894
+2020-10-07,259,Cruise,0
+2020-10-07,259,East Asia,4284
+2020-10-07,259,Eastern Europe,18559
+2020-10-07,259,Eurasia,13659
+2020-10-07,259,Indian Subcontinent,76169
+2020-10-07,259,Latin America,74320
+2020-10-07,259,Middle East,21668
+2020-10-07,259,North America,49139
+2020-10-07,259,Western Europe,59714
