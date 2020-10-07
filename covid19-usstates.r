@@ -12,6 +12,7 @@ library(zoo)
 
 # constant infinite
 source("fitfunctions.r")
+source("config.inc")
 locations = read_csv("sources/USstateslist.csv")
 
 infinite = 10000
@@ -40,7 +41,7 @@ covid$location[is.na(covid$location)] = "Other"
 spread <- covid %>% group_by(date,time, location) %>% summarise(count=sum(infections))
 
 max_x = ceiling(max(spread$time)/10)*10
-capt = paste("Source: JHU\nlast updated:", lastupdated)
+capt = paste0(source, "\nlast updated:", format(lastupdated, format="%b %d, %Y"))
 
 spread %>% mutate(date=as.Date("2020-01-22")-1+time) -> spread
 

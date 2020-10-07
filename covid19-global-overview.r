@@ -9,6 +9,7 @@
 
 library(tidyverse)
 library(zoo)
+source("config.inc")
 
 deaths <- read_csv("data/covid-global-deathsgrowth.csv") %>% group_by(date) %>% summarize(deaths = sum(growth))
 cases <- read_csv("data/covid-global-spreadgrowth.csv") %>% group_by(date) %>% summarize(cases = sum(growth))
@@ -16,7 +17,7 @@ cases <- read_csv("data/covid-global-spreadgrowth.csv") %>% group_by(date) %>% s
 casesdeaths <- deaths %>% inner_join(cases)
 
 lastupdated = max(casesdeaths$date) 
-capt = paste("Source: JHU\nlast updated:", lastupdated)
+capt = paste0(source, "\nlast updated:", format(lastupdated, format="%b %d, %Y"))
 
 correction = 12
 avdays = 7
@@ -25,7 +26,7 @@ totalcases = sum(casesdeaths$cases)
 totaldeaths  = sum(casesdeaths$deaths)
 
 casesdeaths %>% ggplot + aes(date, cases) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(cases,avdays, na.pad=TRUE)), color="blue") + 
-                        scale_y_continuous(sec.axis = sec_axis(~ ./correction, breaks=seq(0,100000,10000))) + #scale_y_log10(limit=c(10,100000))+ 
+                        scale_y_continuous(sec.axis = sec_axis(~ ./correction, breaks=seq(0,100000,5000))) + #scale_y_log10(limit=c(10,100000))+ 
                         scale_x_date(date_breaks="1 month", date_labels = "%b %d") + 
                         labs(caption=capt) + xlab("Date") + ylab("Daily incremental number of confirmed cases or deaths") +
                         ggtitle(paste("Global daily cases and deaths with", avdays,"days average line")) + 

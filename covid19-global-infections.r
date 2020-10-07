@@ -8,7 +8,7 @@
 #
 library(tidyverse)
 library(lubridate)
-
+source("config.inc")
 
 # constant infinite
 source("fitfunctions.r")
@@ -45,7 +45,7 @@ spread$count[spread$count==0] = 1e-1
 #
 # clean up graphs and plot by country
 #
-capt = paste("Source: JHU\nlast updated:", lastupdated)
+capt = paste0(source, "\nlast updated:", format(lastupdated, format="%b %d, %Y"))
 
 spread %>% ggplot + aes(date, count, color=location) + geom_point()  + 
                                         scale_y_log10(limit=c(1,1e8)) + 
@@ -110,7 +110,7 @@ spread$count[spread$count==0] = 1e-1
 # clean up graphs and plot
 #
 
-capt = paste("Source: JHU\nlast updated:", lastupdated)
+capt = paste0(source, "\nlast updated:", format(lastupdated, format="%b %d, %Y"))
 
 spread %>% ggplot + aes(date, count, color=location) + geom_point()  + 
                                         scale_y_log10(limit=c(1e3,1e7))  + labs(caption=capt) + 
