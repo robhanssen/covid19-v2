@@ -143,7 +143,7 @@ covid_growth %>% ggplot + aes(date, growth, color=location) + geom_line(linetype
                         xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 infections by continent") +
                         facet_wrap(.~location)
 
-ggsave("graphs/covid-continents-spreadgrowth.pdf", device="pdf")
+ggsave("graphs/covid-continents-spreadgrowth.pdf", device="pdf", width=11, height=8.5)
 write_csv(covid_growth, "data/covid-continents-spreadgrowth.csv")
 
 # save data for later
