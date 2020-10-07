@@ -1,8 +1,6 @@
 region,location
 China,China
-Italy,Italy
 US, USA
-Netherlands,NL
 Russia,Wave 3
 Brazil,Wave 3
 Peru,Wave 3
@@ -15,3 +13,5 @@ Germany,Western Europe
 United Kingdom,Western Europe
 Belgium,Western Europe
 Spain,Western Europe
+Netherlands,Western Europe
+Italy,Western Europe
