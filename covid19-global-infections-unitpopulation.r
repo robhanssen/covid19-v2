@@ -64,97 +64,17 @@ spread %>% ggplot + aes(date, per100k, color=location) + geom_point()  +
 # save data for later
 countryinfections <- spread
 
-#
-#
-# calculate daily growth by country
-#
-#
-#
+cutoffdate <- today() - days(1)
+infper100k <- covid_raw %>%  filter(date==cutoffdate) %>% 
+                        group_by(region) %>% 
+                        summarise(countinf=sum(infections)) %>% 
+                        inner_join(countryinformation) %>% 
+                        mutate(infper100k=countinf/population*100000) %>% 
+                        arrange(desc(infper100k)) %>% filter(!is.na(infper100k))
+         
+capt = paste0(source, "\nlast updated: ", format(cutoffdate, format="%b %d, %Y"))
 
-widespread <- spread %>% pivot_wider(names_from=location, values_from=count)
-covid_growth <- as_tibble(lapply(widespread[,1:ncol(widespread)],diff,lag=1))
-covid_growth$time = covid_growth$time + 1:NROW(covid_growth$time)
-
-
-covid_growth <- covid_growth %>% pivot_longer(!c("time","date"),
-   names_to = "location",
-   values_to = "growth") #%>% filter(location!="Other")
-
-covid_growth %>% mutate(date=as.Date("2020-01-22")+time) -> covid_growth
-
-covid_growth %>% ggplot + aes(date, growth, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
-                        #scale_x_continuous() + 
-                        labs(caption=capt) + 
-                        xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 infections by country") +
-                        facet_wrap(.~location)
-
-# ggsave("graphs/covid-global-spreadgrowth.pdf", device="pdf")
-# write_csv(covid_growth, "data/covid-global-spreadgrowth.csv")
-
-# save data for later
-countrygrowth <- covid_growth
-
-
-
-#
-# data for continents
-#
-#
-# assign locations to differentiate between counntries/groups of countries
-#
-# continents = read_csv("sources/countries-by-continent.csv")
-continents = read_csv("worldpopulation/countryinformation.csv") 
-covid <- covid_raw %>% inner_join(continents) %>% rename(location = continent)
-covid$location[is.na(covid$location)] = "Other"
-#View(covid)
-
-# total spread of infections by countries
-spread <- covid %>% group_by(date, time, location) %>% summarise(count=sum(infections)) %>% arrange(location, time)
-spread$count[spread$count==0] = 1e-1
-
-#
-# clean up graphs and plot
-#
-
-capt = paste0(source, "\nlast updated:", format(lastupdated, format="%b %d, %Y"))
-
-spread %>%  filter(location != "Other") %>%
-            ggplot + aes(date, count, color=location) + geom_point()  + 
-                                        scale_y_log10(limit=c(1e3,1e7))  + labs(caption=capt) + 
-                                        xlab("Date") + ylab("Infections") + ggtitle("Spread of COVID-19 infections by continent") 
-                                        
-#  ggsave("graphs/covid-continents-spread.pdf", device="pdf")
-#  write_csv(spread, "data/covid-continents-spread.csv")
-
-#
-#
-# calculate daily growth by continent
-#
-#
-#
-
-widespread <- spread %>% pivot_wider(names_from=location, values_from=count)
-covid_growth <- as_tibble(lapply(widespread[,1:ncol(widespread)],diff,lag=1))
-covid_growth$time = covid_growth$time + 1:NROW(covid_growth$time)
-
-
-covid_growth <- covid_growth %>% pivot_longer(!c("time","date"),
-   names_to = "location",
-   values_to = "growth") #%>% filter(location!="Other")
-
-covid_growth %>% mutate(date=as.Date("2020-01-22")+time) -> covid_growth
-
-covid_growth %>%  filter(location !="Other") %>%
-                  ggplot + aes(date, growth, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
-                        #scale_x_continuous() + 
-                        labs(caption=capt) + 
-                        xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 infections by continent") +
-                        facet_wrap(.~location)
-
-# ggsave("graphs/covid-continents-spreadgrowth.pdf", device="pdf", width=11, height=8.5)
-# write_csv(covid_growth, "data/covid-continents-spreadgrowth.csv")
-
-# save data for later
-countrygrowth <- covid_growth
-
- 
+infper100k %>% head(30) %>% filter(population>1000000) %>%
+                  ggplot() + aes(x=reorder(region,infper100k), y=infper100k,fill=continent) + geom_bar(stat="identity") +
+                              xlab("Country") + ylab("COVID-19 infections per 100k population") +
+                              coord_flip() + labs(caption=capt)

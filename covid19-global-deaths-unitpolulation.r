@@ -72,7 +72,9 @@ deathper100k <- covid_raw %>%  filter(date==cutoffdate) %>%
          
 capt = paste0(source, "\nlast updated: ", format(cutoffdate, format="%b %d, %Y"))
 
-deathper100k %>% head(30) %>% filter(population>1000000) %>%
+# top30 = bind_rows(head(deathper100k,30),(deathper100k %>% filter(region=="Serbia")))
+
+deathper100k %>% head(30)  %>% filter(population>1000000) %>% 
                   ggplot() + aes(x=reorder(region,per100k), y=per100k,fill=continent) + geom_bar(stat="identity") +
                               xlab("Country") + ylab("COVID-19 deaths per 100k population") +
                               coord_flip() + labs(caption=capt)
