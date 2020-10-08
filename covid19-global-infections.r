@@ -31,7 +31,7 @@ covid_raw <- covid_raw %>% pivot_longer(!c("Province/State","Country/Region", "L
 colnames(covid_raw) = c("province","region","lat","long","date","infections")
 covid_raw$date = as.Date(covid_raw$date, format="%m/%d/%y")
 lastupdated = max(covid_raw$date)
-covid_raw$time = covid_raw$date - min(covid$date) + 1
+covid_raw$time = covid_raw$date - min(covid_raw$date) + 1
 
 # location assigments
 locations = read_csv("sources/countrylist.csv")
@@ -97,7 +97,8 @@ countrygrowth <- covid_growth
 #
 # assign locations to differentiate between counntries/groups of countries
 #
-continents = read_csv("sources/countries-by-continent.csv")
+# continents = read_csv("sources/countries-by-continent.csv")
+continents = read_csv("worldpopulation/countryinformation.csv") 
 covid <- covid_raw %>% inner_join(continents) %>% rename(location = continent)
 covid$location[is.na(covid$location)] = "Other"
 #View(covid)
@@ -112,7 +113,8 @@ spread$count[spread$count==0] = 1e-1
 
 capt = paste0(source, "\nlast updated:", format(lastupdated, format="%b %d, %Y"))
 
-spread %>% ggplot + aes(date, count, color=location) + geom_point()  + 
+spread %>%  filter(location != "Other") %>%
+            ggplot + aes(date, count, color=location) + geom_point()  + 
                                         scale_y_log10(limit=c(1e3,1e7))  + labs(caption=capt) + 
                                         xlab("Date") + ylab("Infections") + ggtitle("Spread of COVID-19 infections by continent") 
                                         
@@ -137,7 +139,8 @@ covid_growth <- covid_growth %>% pivot_longer(!c("time","date"),
 
 covid_growth %>% mutate(date=as.Date("2020-01-22")+time) -> covid_growth
 
-covid_growth %>% ggplot + aes(date, growth, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
+covid_growth %>%  filter(location !="Other") %>%
+                  ggplot + aes(date, growth, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
                         #scale_x_continuous() + 
                         labs(caption=capt) + 
                         xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 infections by continent") +

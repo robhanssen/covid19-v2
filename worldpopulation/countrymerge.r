@@ -1,10 +1,15 @@
 library(tidyverse)
 
-location <- read_csv("sources/countries-by-continent.csv")
-population <- read_csv("sources/population.csv") %>% rename(region=country)
+countrylist <- read_csv("worldpopulation/countrylist.csv") %>% rename(region = list1)
+population <- read_csv("worldpopulation/population.csv") 
 
 
+x <- countrylist %>% left_join(population) %>% arrange(region)
+View(x)
+View(population %>% arrange(desc(population)))
+
+View(countrylist)
 View(location)
 View(population)
 
-location %>% right_join(population) %>% View()
+write_csv(x, "worldpopulation/countryinformation.csv")

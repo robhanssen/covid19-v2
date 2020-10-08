@@ -31,7 +31,7 @@ covid_raw <- covid_raw %>% pivot_longer(!c("Province/State","Country/Region", "L
 colnames(covid_raw) = c("province","region","lat","long","date","infections")
 covid_raw$date = as.Date(covid_raw$date, format="%m/%d/%y")
 lastupdated = max(covid_raw$date)
-covid_raw$time = covid_raw$date - min(covid$date) + 1
+covid_raw$time = covid_raw$date - min(covid_raw$date) + 1
 
 # location assigments
 locations = read_csv("sources/countrylist.csv")
