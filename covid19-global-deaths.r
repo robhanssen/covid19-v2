@@ -96,7 +96,8 @@ countrygrowth <- covid_growth
 #
 # assign locations to differentiate between counntries/groups of countries
 #
-continents = read_csv("sources/countries-by-continent.csv")
+# continents = read_csv("sources/countries-by-continent.csv")
+continents = read_csv("worldpopulation/countryinformation.csv") 
 covid <- covid_raw %>% inner_join(continents) %>% rename(location = continent)
 covid$location[is.na(covid$location)] = "Other"
 #View(covid)
