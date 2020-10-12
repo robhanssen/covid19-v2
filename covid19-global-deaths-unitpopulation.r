@@ -62,6 +62,51 @@ spread %>% ggplot + aes(date, per100k, color=location) + geom_point()  +
 # save data for later
 countryinfections <- spread
 
+# 
+#  deaths growth by countrylist per 100k population
+# 
+# 
+
+#regionpopulation <- countryinformation %>% group_by(continent) %>% summarise(population = sum(population)) %>% filter(!is.na(population))
+
+covid <- covid_raw %>% left_join(locations) #%>% mutate(location=continent)
+covid$location[is.na(covid$location)] = "Other"
+
+# total spread of infections by countries
+spread <- covid %>% group_by(date, time, location) %>% summarise(count=sum(infections)) %>% arrange(location, time)
+
+widespread <- spread %>% pivot_wider(names_from=location, values_from=count)
+covid_growth <- as_tibble(lapply(widespread[,1:ncol(widespread)],diff,lag=1))
+covid_growth$time = covid_growth$time + 1:NROW(covid_growth$time)
+
+covid_growth <- covid_growth %>% pivot_longer(!c("time","date"),
+   names_to = "location",
+   values_to = "growth") #%>% filter(location!="Other")
+
+covid_growth %>% mutate(date=as.Date("2020-01-22")+time) %>%
+                  #rename(continent = location) %>%
+                  inner_join(regionpopulation) %>%
+                  mutate(per100k = growth/population * 100000) %>%
+                  filter(per100k >=0 )-> covid_growth
+
+covid_growth %>% ggplot + aes(date, per100k, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
+                        scale_y_continuous(limit=c(0,2.5)) + 
+                        labs(caption=capt) + 
+                        xlab("Date") + ylab("Growth of casualties per 100k population") + ggtitle("Per diem growth of COVID-19 casualties by country per 100k population") +
+                        facet_wrap(.~location)
+
+
+
+
+
+
+
+
+
+# 
+# worst performing countries by death rate/100k in ordered bar graph 
+# 
+
 cutoffdate <- today() - days(1)
 deathper100k <- covid_raw %>%  filter(date==cutoffdate) %>% 
                         group_by(region) %>% 
@@ -74,7 +119,7 @@ capt = paste0(source, "\nlast updated: ", format(cutoffdate, format="%b %d, %Y")
 
 # top30 = bind_rows(head(deathper100k,30),(deathper100k %>% filter(region=="Serbia")))
 
-deathper100k %>% head(30)  %>% filter(population>1000000) %>% 
+deathper100k %>% head(30)  %>% filter(population>100) %>% 
                   ggplot() + aes(x=reorder(region,per100k), y=per100k,fill=continent) + geom_bar(stat="identity") +
                               xlab("Country") + ylab("COVID-19 deaths per 100k population") +
                               coord_flip() + labs(caption=capt)
