@@ -263,6 +263,7 @@ date,time,location,count
 2020-10-09,262,Africa,37540
 2020-10-10,263,Africa,37811
 2020-10-11,264,Africa,38019
+2020-10-12,265,Africa,38212
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,0.1
 2020-01-24,3,Australasia,0.1
@@ -527,6 +528,7 @@ date,time,location,count
 2020-10-09,262,Australasia,19543
 2020-10-10,263,Australasia,19753
 2020-10-11,264,Australasia,19965
+2020-10-12,265,Australasia,20089
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -791,6 +793,7 @@ date,time,location,count
 2020-10-09,262,Central America,93943
 2020-10-10,263,Central America,94144
 2020-10-11,264,Central America,94324
+2020-10-12,265,Central America,94547
 2020-01-22,1,East Asia,17
 2020-01-23,2,East Asia,18
 2020-01-24,3,East Asia,26
@@ -1055,6 +1058,7 @@ date,time,location,count
 2020-10-09,262,East Asia,7492
 2020-10-10,263,East Asia,7511
 2020-10-11,264,East Asia,7537
+2020-10-12,265,East Asia,7550
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1319,6 +1323,7 @@ date,time,location,count
 2020-10-09,262,Eastern Europe,43951
 2020-10-10,263,Eastern Europe,44474
 2020-10-11,264,Eastern Europe,44886
+2020-10-12,265,Eastern Europe,45303
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -1583,6 +1588,7 @@ date,time,location,count
 2020-10-09,262,Eurasia,13809
 2020-10-10,263,Eurasia,13889
 2020-10-11,264,Eurasia,13966
+2020-10-12,265,Eurasia,14047
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -1847,6 +1853,7 @@ date,time,location,count
 2020-10-09,262,Indian Subcontinent,120936
 2020-10-10,263,Indian Subcontinent,121890
 2020-10-11,264,Indian Subcontinent,122744
+2020-10-12,265,Indian Subcontinent,123491
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -2109,8 +2116,9 @@ date,time,location,count
 2020-10-07,260,Latin America,268316
 2020-10-08,261,Latin America,270177
 2020-10-09,262,Latin America,271949
-2020-10-10,263,Latin America,272734
+2020-10-10,263,Latin America,273293
 2020-10-11,264,Latin America,274218
+2020-10-12,265,Latin America,275087
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -2375,6 +2383,7 @@ date,time,location,count
 2020-10-09,262,Middle East,49099
 2020-10-10,263,Middle East,49471
 2020-10-11,264,Middle East,49905
+2020-10-12,265,Middle East,50357
 2020-01-22,1,North America,0.1
 2020-01-23,2,North America,0.1
 2020-01-24,3,North America,0.1
@@ -2434,39 +2443,39 @@ date,time,location,count
 2020-03-18,57,North America,199
 2020-03-19,58,North America,274
 2020-03-20,59,North America,376
-2020-03-21,60,North America,482
-2020-03-22,61,North America,594
-2020-03-23,62,North America,787
-2020-03-24,63,North America,1027
-2020-03-25,64,North America,1355
-2020-03-26,65,North America,1771
-2020-03-27,66,North America,2307
+2020-03-21,60,North America,483
+2020-03-22,61,North America,595
+2020-03-23,62,North America,788
+2020-03-24,63,North America,1028
+2020-03-25,64,North America,1356
+2020-03-26,65,North America,1772
+2020-03-27,66,North America,2308
 2020-03-28,67,North America,2947
 2020-03-29,68,North America,3536
 2020-03-30,69,North America,4244
-2020-03-31,70,North America,5350
-2020-04-01,71,North America,6530
+2020-03-31,70,North America,5353
+2020-04-01,71,North America,6531
 2020-04-02,72,North America,8063
-2020-04-03,73,North America,9495
-2020-04-04,74,North America,11057
-2020-04-05,75,North America,12688
-2020-04-06,76,North America,14538
-2020-04-07,77,North America,17145
-2020-04-08,78,North America,19323
-2020-04-09,79,North America,21647
-2020-04-10,80,North America,23919
-2020-04-11,81,North America,26135
+2020-04-03,73,North America,9492
+2020-04-04,74,North America,11061
+2020-04-05,75,North America,12685
+2020-04-06,76,North America,14535
+2020-04-07,77,North America,17142
+2020-04-08,78,North America,19320
+2020-04-09,79,North America,21644
+2020-04-10,80,North America,23916
+2020-04-11,81,North America,26142
 2020-04-12,82,North America,28008
 2020-04-13,83,North America,30021
-2020-04-14,84,North America,32596
-2020-04-15,85,North America,35312
-2020-04-16,86,North America,37739
-2020-04-17,87,North America,39929
-2020-04-18,88,North America,41934
-2020-04-19,89,North America,44029
-2020-04-20,90,North America,46377
-2020-04-21,91,North America,49108
-2020-04-22,92,North America,51710
+2020-04-14,84,North America,32593
+2020-04-15,85,North America,35309
+2020-04-16,86,North America,37736
+2020-04-17,87,North America,39926
+2020-04-18,88,North America,41931
+2020-04-19,89,North America,44026
+2020-04-20,90,North America,46374
+2020-04-21,91,North America,49105
+2020-04-22,92,North America,51707
 2020-04-23,93,North America,54342
 2020-04-24,94,North America,56657
 2020-04-25,95,North America,58524
@@ -2474,87 +2483,87 @@ date,time,location,count
 2020-04-27,97,North America,61589
 2020-04-28,98,North America,63972
 2020-04-29,99,North America,66665
-2020-04-30,100,North America,69142
-2020-05-01,101,North America,71260
-2020-05-02,102,North America,73099
-2020-05-03,103,North America,74330
-2020-05-04,104,North America,75871
-2020-05-05,105,North America,78376
-2020-05-06,106,North America,80916
+2020-04-30,100,North America,69240
+2020-05-01,101,North America,71345
+2020-05-02,102,North America,73179
+2020-05-03,103,North America,74386
+2020-05-04,104,North America,75906
+2020-05-05,105,North America,78397
+2020-05-06,106,North America,80922
 2020-05-07,107,North America,83025
 2020-05-08,108,North America,84928
-2020-05-09,109,North America,86542
-2020-05-10,110,North America,87603
-2020-05-11,111,North America,88741
-2020-05-12,112,North America,90553
-2020-05-13,113,North America,92442
-2020-05-14,114,North America,94392
-2020-05-15,115,North America,96160
-2020-05-16,116,North America,97497
-2020-05-17,117,North America,98358
-2020-05-18,118,North America,99587
-2020-05-19,119,North America,101207
-2020-05-20,120,North America,102855
+2020-05-09,109,North America,86604
+2020-05-10,110,North America,87661
+2020-05-11,111,North America,88791
+2020-05-12,112,North America,90589
+2020-05-13,113,North America,92460
+2020-05-14,114,North America,94404
+2020-05-15,115,North America,96161
+2020-05-16,116,North America,97556
+2020-05-17,117,North America,98407
+2020-05-18,118,North America,99629
+2020-05-19,119,North America,101223
+2020-05-20,120,North America,102865
 2020-05-21,121,North America,104189
 2020-05-22,122,North America,105526
-2020-05-23,123,North America,106741
-2020-05-24,124,North America,107431
-2020-05-25,125,North America,108100
+2020-05-23,123,North America,106763
+2020-05-24,124,North America,107442
+2020-05-25,125,North America,108111
 2020-05-26,126,North America,108860
 2020-05-27,127,North America,110501
 2020-05-28,128,North America,111785
 2020-05-29,129,North America,113026
 2020-05-30,130,North America,114085
-2020-05-31,131,North America,114881
-2020-06-01,132,North America,115687
-2020-06-02,133,North America,116829
-2020-06-03,134,North America,117937
-2020-06-04,135,North America,119098
-2020-06-05,136,North America,120073
-2020-06-06,137,North America,120804
-2020-06-07,138,North America,121269
-2020-06-08,139,North America,121821
-2020-06-09,140,North America,122831
-2020-06-10,141,North America,123800
-2020-06-11,142,North America,124704
-2020-06-12,143,North America,125586
-2020-06-13,144,North America,126403
-2020-06-14,145,North America,126746
-2020-06-15,146,North America,127150
-2020-06-16,147,North America,128031
-2020-06-17,148,North America,128816
+2020-05-31,131,North America,114988
+2020-06-01,132,North America,115792
+2020-06-02,133,North America,116922
+2020-06-03,134,North America,118020
+2020-06-04,135,North America,119167
+2020-06-05,136,North America,120126
+2020-06-06,137,North America,120904
+2020-06-07,138,North America,121369
+2020-06-08,139,North America,121894
+2020-06-09,140,North America,122895
+2020-06-10,141,North America,123860
+2020-06-11,142,North America,124753
+2020-06-12,143,North America,125625
+2020-06-13,144,North America,126453
+2020-06-14,145,North America,126796
+2020-06-15,146,North America,127182
+2020-06-16,147,North America,128049
+2020-06-17,148,North America,128823
 2020-06-18,149,North America,129583
 2020-06-19,150,North America,130300
-2020-06-20,151,North America,130962
-2020-06-21,152,North America,131263
-2020-06-22,153,North America,131664
-2020-06-23,154,North America,132529
+2020-06-20,151,North America,130976
+2020-06-21,152,North America,131277
+2020-06-22,153,North America,131669
+2020-06-23,154,North America,132531
 2020-06-24,155,North America,133320
 2020-06-25,156,North America,133894
 2020-06-26,157,North America,134515
 2020-06-27,158,North America,135024
 2020-06-28,159,North America,135303
 2020-06-29,160,North America,135726
-2020-06-30,161,North America,136373
-2020-07-01,162,North America,137095
-2020-07-02,163,North America,137844
-2020-07-03,164,North America,138526
-2020-07-04,165,North America,138801
-2020-07-05,166,North America,139096
-2020-07-06,167,North America,139460
-2020-07-07,168,North America,140699
-2020-07-08,169,North America,141583
-2020-07-09,170,North America,142597
-2020-07-10,171,North America,143435
-2020-07-11,172,North America,144132
-2020-07-12,173,North America,144602
-2020-07-13,174,North America,144976
-2020-07-14,175,North America,145911
+2020-06-30,161,North America,136403
+2020-07-01,162,North America,137119
+2020-07-02,163,North America,137865
+2020-07-03,164,North America,138546
+2020-07-04,165,North America,138821
+2020-07-05,166,North America,139116
+2020-07-06,167,North America,139480
+2020-07-07,168,North America,140710
+2020-07-08,169,North America,141592
+2020-07-09,170,North America,142603
+2020-07-10,171,North America,143439
+2020-07-11,172,North America,144143
+2020-07-12,173,North America,144613
+2020-07-13,174,North America,144979
+2020-07-14,175,North America,145913
 2020-07-15,176,North America,146891
 2020-07-16,177,North America,147852
 2020-07-17,178,North America,148791
-2020-07-18,179,North America,149667
-2020-07-19,180,North America,150118
+2020-07-18,179,North America,149668
+2020-07-19,180,North America,150119
 2020-07-20,181,North America,150638
 2020-07-21,182,North America,151751
 2020-07-22,183,North America,152972
@@ -2566,48 +2575,48 @@ date,time,location,count
 2020-07-28,189,North America,159107
 2020-07-29,190,North America,160544
 2020-07-30,191,North America,161765
-2020-07-31,192,North America,163014
-2020-08-01,193,North America,164135
-2020-08-02,194,North America,164542
-2020-08-03,195,North America,165077
-2020-08-04,196,North America,166465
-2020-08-05,197,North America,167846
-2020-08-06,198,North America,169102
-2020-08-07,199,North America,170348
-2020-08-08,200,North America,171432
-2020-08-09,201,North America,171947
-2020-08-10,202,North America,172480
-2020-08-11,203,North America,173548
-2020-08-12,204,North America,175067
-2020-08-13,205,North America,176148
-2020-08-14,206,North America,177491
-2020-08-15,207,North America,178529
-2020-08-16,208,North America,179102
-2020-08-17,209,North America,179549
-2020-08-18,210,North America,180889
+2020-07-31,192,North America,163027
+2020-08-01,193,North America,164148
+2020-08-02,194,North America,164555
+2020-08-03,195,North America,165087
+2020-08-04,196,North America,166474
+2020-08-05,197,North America,167854
+2020-08-06,198,North America,169108
+2020-08-07,199,North America,170354
+2020-08-08,200,North America,171443
+2020-08-09,201,North America,171958
+2020-08-10,202,North America,172490
+2020-08-11,203,North America,173557
+2020-08-12,204,North America,175074
+2020-08-13,205,North America,176154
+2020-08-14,206,North America,177495
+2020-08-15,207,North America,178535
+2020-08-16,208,North America,179108
+2020-08-17,209,North America,179553
+2020-08-18,210,North America,180892
 2020-08-19,211,North America,182247
 2020-08-20,212,North America,183328
 2020-08-21,213,North America,184446
-2020-08-22,214,North America,185435
-2020-08-23,215,North America,185887
-2020-08-24,216,North America,186339
+2020-08-22,214,North America,185443
+2020-08-23,215,North America,185895
+2020-08-24,216,North America,186342
 2020-08-25,217,North America,187585
 2020-08-26,218,North America,188815
 2020-08-27,219,North America,189933
 2020-08-28,220,North America,190911
 2020-08-29,221,North America,191875
 2020-08-30,222,North America,192188
-2020-08-31,223,North America,192770
-2020-09-01,224,North America,193843
-2020-09-02,225,North America,194902
-2020-09-03,226,North America,195979
-2020-09-04,227,North America,196945
-2020-09-05,228,North America,197730
-2020-09-06,229,North America,198135
-2020-09-07,230,North America,198404
-2020-09-08,231,North America,198856
-2020-09-09,232,North America,200050
-2020-09-10,233,North America,200979
+2020-08-31,223,North America,192789
+2020-09-01,224,North America,193860
+2020-09-02,225,North America,194918
+2020-09-03,226,North America,195991
+2020-09-04,227,North America,196957
+2020-09-05,228,North America,197744
+2020-09-06,229,North America,198149
+2020-09-07,230,North America,198418
+2020-09-08,231,North America,198866
+2020-09-09,232,North America,200057
+2020-09-10,233,North America,200981
 2020-09-11,234,North America,202193
 2020-09-12,235,North America,202913
 2020-09-13,236,North America,203291
@@ -2620,7 +2629,7 @@ date,time,location,count
 2020-09-20,243,North America,208776
 2020-09-21,244,North America,209144
 2020-09-22,245,North America,210072
-2020-09-23,246,North America,211178
+2020-09-23,246,North America,211179
 2020-09-24,247,North America,212095
 2020-09-25,248,North America,213056
 2020-09-26,249,North America,213803
@@ -2639,6 +2648,7 @@ date,time,location,count
 2020-10-09,262,North America,223390
 2020-10-10,263,North America,224031
 2020-10-11,264,North America,224434
+2020-10-12,265,North America,224765
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -2903,6 +2913,7 @@ date,time,location,count
 2020-10-09,262,Northern Europe,51991
 2020-10-10,263,Northern Europe,52077
 2020-10-11,264,Northern Europe,52146
+2020-10-12,265,Northern Europe,52200
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -3167,6 +3178,7 @@ date,time,location,count
 2020-10-09,262,Other,743
 2020-10-10,263,Other,750
 2020-10-11,264,Other,752
+2020-10-12,265,Other,753
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -3431,3 +3443,4 @@ date,time,location,count
 2020-10-09,262,Western Europe,133654
 2020-10-10,263,Western Europe,133771
 2020-10-11,264,Western Europe,133862
+2020-10-12,265,Western Europe,134279

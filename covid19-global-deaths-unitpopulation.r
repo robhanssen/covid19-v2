@@ -156,3 +156,5 @@ covid_growth %>% ggplot + aes(date, per100k, color=continent) + geom_line(linety
                         labs(caption=capt) + 
                         xlab("Date") + ylab("Growth of casualties per 100k population") + ggtitle("Per diem growth of COVID-19 casualties by continent per 100k population") +
                         facet_wrap(.~continent)
+
+ggsave("graphs/covid-continents-deaths-per-100k.pdf", width=11, height=8)

@@ -8,6 +8,7 @@
 #
 library(tidyverse)
 library(lubridate)
+library(zoo)
 source("config.inc")
 
 # constant infinite
@@ -106,8 +107,12 @@ covid_growth %>% mutate(date=as.Date("2020-01-22")+time) %>%
                   mutate(per100k = growth/population * 100000) %>%
                   filter(per100k >=0 )-> covid_growth
 
+# covid_growth %>% filter(continent =="Western Europe"|continent =="Eastern Europe"|continent =="Northern Europe"|continent =="North America") -> covid_growth
+# capt=""
 covid_growth %>% ggplot + aes(date, per100k, color=continent) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
                         scale_y_continuous(limit=c(0,25)) + 
                         labs(caption=capt) + 
                         xlab("Date") + ylab("Growth of infections per 100k population") + ggtitle("Per diem growth of COVID-19 infections by continent per 100k population") +
                         facet_wrap(.~continent)
+
+ggsave("graphs/covid-continents-infections-per-100k.pdf", width=11, height=8)
