@@ -38,7 +38,7 @@ covid <- covid %>% left_join(locations)
 covid$location[is.na(covid$location)] = "Other"
 
 # region population over US
-regionpopulation <- locations %>% group_by(location) %>% summarize(population=sum(population))
+regionpopulation <- locations %>% group_by(location) %>% summarize(population=sum(population)) 
 
 # total spread of infections by states
 spread <- covid %>% group_by(date,time, location) %>% summarise(count=sum(infections)) %>% inner_join(regionpopulation) %>% mutate(per100k = count/population*100000)
@@ -160,24 +160,26 @@ deathsgrowth <- covid_growth
 deaths <- deathsgrowth %>% group_by(date) %>% summarise(deaths=sum(growth))
 cases <- infectiongrowth %>% group_by(date) %>% summarise(cases=sum(growth))
 
-casesdeaths <- deaths %>% inner_join(cases)
+totalpopulation = regionpopulation %>% summarise(population = sum(population))
+as.numeric(totalpopulation[1])
 
+casesdeaths <- deaths %>% inner_join(cases) %>%
+                            mutate(population = as.numeric(totalpopulation[1]), deathsper100k=deaths/population*100000, casesper100k = cases/population*100000) %>%
+                            mutate(deathrate = deaths/cases*100)
+View(casesdeaths)
 correction = 14.5
 avdays = 7
 
-totalcases = sum(casesdeaths$cases)
-totaldeaths  = sum(casesdeaths$deaths)
 
-casesdeaths %>% ggplot + aes(date, cases) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(cases,avdays, na.pad=TRUE)), color="blue") + 
-                        scale_y_continuous(sec.axis = sec_axis(~ ./correction, breaks=seq(0,6000,1000))) + #scale_y_log10(limit=c(10,100000))+ 
+casesdeaths %>% ggplot + aes(date, casesper100k) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(casesper100k,avdays, na.pad=TRUE)), color="blue") + 
+                        scale_y_continuous(sec.axis = sec_axis(~ ./correction, breaks=seq(0,2,.2)), limit=c(0,25))+ 
                         scale_x_date(date_breaks="1 month", date_labels = "%b %d") + 
-                        labs(caption=capt) + xlab("Date") + ylab("Daily incremental number of confirmed cases or deaths") +
-                        ggtitle(paste("US daily cases and deaths with", avdays,"days average line")) + 
-                        geom_line(aes(date, correction*deaths), color="red", linetype="dotted") + geom_line(aes(y=rollmean(correction*deaths,avdays,na.pad=TRUE)), color="red") +
-                        annotate("text",x=as.Date("2020-03-15", format="%Y-%m-%d"),y=20000,label="cases\n<-----", color="blue") + 
-                        annotate("text",x=as.Date("2020-04-10", format="%Y-%m-%d"),y=10000,label="deaths\n------>", color="red") +
-                        annotate("text",x=as.Date("2020-02-28", format="%Y-%m-%d"),y=75000,label=paste("Total cases:", format(totalcases, big.mark=" ")), color="blue") + 
-                        annotate("text",x=as.Date("2020-02-28", format="%Y-%m-%d"),y=70000,label=paste("Total deaths:", format(totaldeaths, big.mark=" ")), color="red") 
+                        labs(caption=capt) + xlab("Date") + ylab("Daily incremental number of confirmed cases or deaths per 100,000") +
+                        ggtitle(paste("US daily cases and deaths with", avdays,"days average line per 100k population")) + 
+                        geom_line(aes(date, correction*deathsper100k), color="red", linetype="dotted") + geom_line(aes(y=rollmean(correction*deathsper100k,avdays,na.pad=TRUE)), color="red") +
+                        geom_line(aes(date, deathrate), color="black", linetype="dotted") + geom_line(aes(y=rollmean(deathrate,avdays,na.pad=TRUE)), color="black") +
+                        annotate("text",x=as.Date("2020-03-15", format="%Y-%m-%d"),y=6,label="cases\n<-----", color="blue") + 
+                        annotate("text",x=as.Date("2020-04-16", format="%Y-%m-%d"),y=4,label="deaths\n------>", color="red")
 
 # ggsave("graphs/covid-us-daily-cases-and-deaths.pdf", device="pdf")
 # write_csv(casesdeaths, "data/covid-us-daily-cases-and-deaths.csv")
