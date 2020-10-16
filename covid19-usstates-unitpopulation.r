@@ -76,7 +76,7 @@ covid_growth %>% ggplot + aes(date, per100k, color=location) + geom_line(linetyp
                         xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 infections") +
                         facet_wrap(.~location)
 
-# ggsave("graphs/covid-us-spreadgrowth.pdf", device="pdf")
+ggsave("graphs-unitpopulation/covid-us-spreadgrowth-per100k.pdf", device="pdf", width=11, height=8)
 # write_csv(covid_growth, "data/covid-us-spreadgrowth.csv")
 
 # save variable for later use
@@ -144,7 +144,7 @@ covid_growth %>% ggplot + aes(date, per100k, color=location) + geom_line(linetyp
                         xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 casualties") +
                         facet_wrap(.~location)
 
-# ggsave("graphs/covid-us-deathsgrowth.pdf", device="pdf")
+ggsave("graphs-unitpopulation/covid-us-deathsgrowth-per100k.pdf", device="pdf", width=11, height=8)
 # write_csv(spread, "data/covid-us-deathsgrowth.csv")
 
 
