@@ -166,7 +166,7 @@ as.numeric(totalpopulation[1])
 casesdeaths <- deaths %>% inner_join(cases) %>%
                             mutate(population = as.numeric(totalpopulation[1]), deathsper100k=deaths/population*100000, casesper100k = cases/population*100000) %>%
                             mutate(deathrate = deaths/cases*100)
-View(casesdeaths)
+# View(casesdeaths)
 correction = 14.5
 avdays = 7
 
