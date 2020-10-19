@@ -73,7 +73,7 @@ capt=""
 covid_growth %>% ggplot + aes(date, per100k, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
                         #scale_x_continuous() + 
                         labs(caption=capt) + 
-                        xlab("Date") + ylab("Growth of Infections") + ggtitle("Per diem growth of COVID-19 infections") +
+                        xlab("Date") + ylab("Growth of Infections per 100k population") + ggtitle("Per diem growth of COVID-19 infections per 100k population") +
                         facet_wrap(.~location)
 
 ggsave("graphs-unitpopulation/covid-us-spreadgrowth-per100k.pdf", device="pdf", width=11, height=8)
