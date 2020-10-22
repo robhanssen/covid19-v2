@@ -3377,7 +3377,7 @@ date,time,location,growth
 2020-10-09,261,Middle East,18507
 2020-10-09,261,North America,58541
 2020-10-09,261,Northern Europe,20249
-2020-10-09,261,Other,0
+2020-10-09,261,Other,33
 2020-10-09,261,Western Europe,55674
 2020-10-10,262,Africa,8525
 2020-10-10,262,Australasia,8847
@@ -3390,7 +3390,7 @@ date,time,location,growth
 2020-10-10,262,Middle East,15770
 2020-10-10,262,North America,60315
 2020-10-10,262,Northern Europe,16734
-2020-10-10,262,Other,62
+2020-10-10,262,Other,108
 2020-10-10,262,Western Europe,59505
 2020-10-11,263,Africa,13525
 2020-10-11,263,Australasia,9011
@@ -3403,7 +3403,7 @@ date,time,location,growth
 2020-10-11,263,Middle East,13828
 2020-10-11,263,North America,56781
 2020-10-11,263,Northern Europe,17395
-2020-10-11,263,Other,159
+2020-10-11,263,Other,80
 2020-10-11,263,Western Europe,26667
 2020-10-12,264,Africa,8975
 2020-10-12,264,Australasia,9422
@@ -3494,7 +3494,7 @@ date,time,location,growth
 2020-10-18,270,Middle East,14349
 2020-10-18,270,North America,57658
 2020-10-18,270,Northern Europe,18715
-2020-10-18,270,Other,0
+2020-10-18,270,Other,148
 2020-10-18,270,Western Europe,39719
 2020-10-19,271,Africa,8188
 2020-10-19,271,Australasia,8430
@@ -3507,7 +3507,7 @@ date,time,location,growth
 2020-10-19,271,Middle East,14713
 2020-10-19,271,North America,51947
 2020-10-19,271,Northern Europe,19343
-2020-10-19,271,Other,285
+2020-10-19,271,Other,137
 2020-10-19,271,Western Europe,37683
 2020-10-20,272,Africa,9702
 2020-10-20,272,Australasia,7986
@@ -3533,5 +3533,18 @@ date,time,location,growth
 2020-10-21,273,Middle East,17601
 2020-10-21,273,North America,62553
 2020-10-21,273,Northern Europe,27254
-2020-10-21,273,Other,0
+2020-10-21,273,Other,130
 2020-10-21,273,Western Europe,79421
+2020-10-22,274,Africa,10474
+2020-10-22,274,Australasia,7694
+2020-10-22,274,Central America,10282
+2020-10-22,274,East Asia,6562
+2020-10-22,274,Eastern Europe,64612
+2020-10-22,274,Eurasia,6822
+2020-10-22,274,Indian Subcontinent,58441
+2020-10-22,274,Latin America,58798
+2020-10-22,274,Middle East,18735
+2020-10-22,274,North America,65422
+2020-10-22,274,Northern Europe,30472
+2020-10-22,274,Other,124
+2020-10-22,274,Western Europe,105313
