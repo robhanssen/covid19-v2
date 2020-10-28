@@ -3594,12 +3594,12 @@ date,time,location,growth
 2020-10-26,278,Eastern Europe,736
 2020-10-26,278,Eurasia,119
 2020-10-26,278,Indian Subcontinent,510
-2020-10-26,278,Latin America,509
+2020-10-26,278,Latin America,740
 2020-10-26,278,Middle East,472
 2020-10-26,278,North America,366
 2020-10-26,278,Northern Europe,160
 2020-10-26,278,Other,2
-2020-10-26,278,Western Europe,438
+2020-10-26,278,Western Europe,301
 2020-10-27,279,Africa,348
 2020-10-27,279,Australasia,208
 2020-10-27,279,Central America,303
@@ -3607,9 +3607,22 @@ date,time,location,growth
 2020-10-27,279,Eastern Europe,764
 2020-10-27,279,Eurasia,116
 2020-10-27,279,Indian Subcontinent,513
-2020-10-27,279,Latin America,1376
+2020-10-27,279,Latin America,1145
 2020-10-27,279,Middle East,552
 2020-10-27,279,North America,508
 2020-10-27,279,Northern Europe,118
 2020-10-27,279,Other,0
-2020-10-27,279,Western Europe,937
+2020-10-27,279,Western Europe,1074
+2020-10-28,280,Africa,182
+2020-10-28,280,Australasia,144
+2020-10-28,280,Central America,698
+2020-10-28,280,East Asia,20
+2020-10-28,280,Eastern Europe,1061
+2020-10-28,280,Eurasia,169
+2020-10-28,280,Indian Subcontinent,550
+2020-10-28,280,Latin America,1322
+2020-10-28,280,Middle East,529
+2020-10-28,280,North America,1011
+2020-10-28,280,Northern Europe,367
+2020-10-28,280,Other,0
+2020-10-28,280,Western Europe,1298

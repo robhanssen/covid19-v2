@@ -645,7 +645,7 @@ date,time,location,growth
 2020-03-13,51,Indian Subcontinent,19
 2020-03-13,51,Latin America,23
 2020-03-13,51,Middle East,1139
-2020-03-13,51,North America,448
+2020-03-13,51,North America,449
 2020-03-13,51,Northern Europe,935
 2020-03-13,51,Other,0
 2020-03-13,51,Western Europe,2897
@@ -658,7 +658,7 @@ date,time,location,growth
 2020-03-14,52,Indian Subcontinent,16
 2020-03-14,52,Latin America,162
 2020-03-14,52,Middle East,1462
-2020-03-14,52,North America,709
+2020-03-14,52,North America,708
 2020-03-14,52,Northern Europe,1360
 2020-03-14,52,Other,0
 2020-03-14,52,Western Europe,9908
@@ -697,7 +697,7 @@ date,time,location,growth
 2020-03-17,55,Indian Subcontinent,124
 2020-03-17,55,Latin America,239
 2020-03-17,55,Middle East,1139
-2020-03-17,55,North America,1630
+2020-03-17,55,North America,1633
 2020-03-17,55,Northern Europe,993
 2020-03-17,55,Other,8
 2020-03-17,55,Western Europe,9746
@@ -710,7 +710,7 @@ date,time,location,growth
 2020-03-18,56,Indian Subcontinent,105
 2020-03-18,56,Latin America,306
 2020-03-18,56,Middle East,1344
-2020-03-18,56,North America,1895
+2020-03-18,56,North America,1898
 2020-03-18,56,Northern Europe,1292
 2020-03-18,56,Other,3
 2020-03-18,56,Western Europe,9903
@@ -723,7 +723,7 @@ date,time,location,growth
 2020-03-19,57,Indian Subcontinent,180
 2020-03-19,57,Latin America,247
 2020-03-19,57,Middle East,1372
-2020-03-19,57,North America,2833
+2020-03-19,57,North America,2834
 2020-03-19,57,Northern Europe,1499
 2020-03-19,57,Other,9
 2020-03-19,57,Western Europe,12208
@@ -749,7 +749,7 @@ date,time,location,growth
 2020-03-21,59,Indian Subcontinent,298
 2020-03-21,59,Latin America,687
 2020-03-21,59,Middle East,1478
-2020-03-21,59,North America,6510
+2020-03-21,59,North America,6508
 2020-03-21,59,Northern Europe,2027
 2020-03-21,59,Other,1
 2020-03-21,59,Western Europe,17842
@@ -762,7 +762,7 @@ date,time,location,growth
 2020-03-22,60,Indian Subcontinent,141
 2020-03-22,60,Latin America,799
 2020-03-22,60,Middle East,1293
-2020-03-22,60,North America,6330
+2020-03-22,60,North America,6338
 2020-03-22,60,Northern Europe,1946
 2020-03-22,60,Other,3
 2020-03-22,60,Western Europe,19009
@@ -775,7 +775,7 @@ date,time,location,growth
 2020-03-23,61,Indian Subcontinent,188
 2020-03-23,61,Latin America,1254
 2020-03-23,61,Middle East,1487
-2020-03-23,61,North America,8994
+2020-03-23,61,North America,9002
 2020-03-23,61,Northern Europe,2282
 2020-03-23,61,Other,7
 2020-03-23,61,Western Europe,16837
@@ -788,7 +788,7 @@ date,time,location,growth
 2020-03-24,62,Indian Subcontinent,221
 2020-03-24,62,Latin America,872
 2020-03-24,62,Middle East,1831
-2020-03-24,62,North America,11838
+2020-03-24,62,North America,11830
 2020-03-24,62,Northern Europe,3241
 2020-03-24,62,Other,3
 2020-03-24,62,Western Europe,22994
@@ -801,7 +801,7 @@ date,time,location,growth
 2020-03-25,63,Indian Subcontinent,173
 2020-03-25,63,Latin America,922
 2020-03-25,63,Middle East,2372
-2020-03-25,63,North America,11279
+2020-03-25,63,North America,11282
 2020-03-25,63,Northern Europe,3420
 2020-03-25,63,Other,28
 2020-03-25,63,Western Europe,20248
@@ -814,7 +814,7 @@ date,time,location,growth
 2020-03-26,64,Indian Subcontinent,269
 2020-03-26,64,Latin America,928
 2020-03-26,64,Middle East,3679
-2020-03-26,64,North America,12495
+2020-03-26,64,North America,12502
 2020-03-26,64,Northern Europe,3932
 2020-03-26,64,Other,2
 2020-03-26,64,Western Europe,26007
@@ -827,7 +827,7 @@ date,time,location,growth
 2020-03-27,65,Indian Subcontinent,261
 2020-03-27,65,Latin America,1242
 2020-03-27,65,Middle East,3035
-2020-03-27,65,North America,18685
+2020-03-27,65,North America,18681
 2020-03-27,65,Northern Europe,4439
 2020-03-27,65,Other,8
 2020-03-27,65,Western Europe,30369
@@ -840,7 +840,7 @@ date,time,location,growth
 2020-03-28,66,Indian Subcontinent,303
 2020-03-28,66,Latin America,1297
 2020-03-28,66,Middle East,3621
-2020-03-28,66,North America,19271
+2020-03-28,66,North America,19286
 2020-03-28,66,Northern Europe,4782
 2020-03-28,66,Other,15
 2020-03-28,66,Western Europe,29714
@@ -853,7 +853,7 @@ date,time,location,growth
 2020-03-29,67,Indian Subcontinent,209
 2020-03-29,67,Latin America,1523
 2020-03-29,67,Middle East,3978
-2020-03-29,67,North America,20501
+2020-03-29,67,North America,20493
 2020-03-29,67,Northern Europe,4193
 2020-03-29,67,Other,4
 2020-03-29,67,Western Europe,31054
@@ -866,7 +866,7 @@ date,time,location,growth
 2020-03-30,68,Indian Subcontinent,172
 2020-03-30,68,Latin America,1218
 2020-03-30,68,Middle East,3924
-2020-03-30,68,North America,19633
+2020-03-30,68,North America,19624
 2020-03-30,68,Northern Europe,4111
 2020-03-30,68,Other,18
 2020-03-30,68,Western Europe,24225
@@ -879,7 +879,7 @@ date,time,location,growth
 2020-03-31,69,Indian Subcontinent,504
 2020-03-31,69,Latin America,1077
 2020-03-31,69,Middle East,4035
-2020-03-31,69,North America,23131
+2020-03-31,69,North America,23129
 2020-03-31,69,Northern Europe,5664
 2020-03-31,69,Other,3
 2020-03-31,69,Western Europe,25597
@@ -892,7 +892,7 @@ date,time,location,growth
 2020-04-01,70,Indian Subcontinent,353
 2020-04-01,70,Latin America,2432
 2020-04-01,70,Middle East,4209
-2020-04-01,70,North America,27492
+2020-04-01,70,North America,27500
 2020-04-01,70,Northern Europe,6027
 2020-04-01,70,Other,12
 2020-04-01,70,Western Europe,28958
@@ -905,7 +905,7 @@ date,time,location,growth
 2020-04-02,71,Indian Subcontinent,973
 2020-04-02,71,Latin America,2597
 2020-04-02,71,Middle East,4193
-2020-04-02,71,North America,26852
+2020-04-02,71,North America,26847
 2020-04-02,71,Northern Europe,6384
 2020-04-02,71,Other,13
 2020-04-02,71,Western Europe,29005
@@ -931,7 +931,7 @@ date,time,location,growth
 2020-04-04,73,Indian Subcontinent,177
 2020-04-04,73,Latin America,2185
 2020-04-04,73,Middle East,4037
-2020-04-04,73,North America,33153
+2020-04-04,73,North America,33150
 2020-04-04,73,Northern Europe,6929
 2020-04-04,73,Other,1
 2020-04-04,73,Western Europe,28083
@@ -944,7 +944,7 @@ date,time,location,growth
 2020-04-05,74,Indian Subcontinent,888
 2020-04-05,74,Latin America,2460
 2020-04-05,74,Middle East,3823
-2020-04-05,74,North America,33542
+2020-04-05,74,North America,33543
 2020-04-05,74,Northern Europe,5753
 2020-04-05,74,Other,9
 2020-04-05,74,Western Europe,25601
@@ -957,7 +957,7 @@ date,time,location,growth
 2020-04-06,75,Indian Subcontinent,1193
 2020-04-06,75,Latin America,2213
 2020-04-06,75,Middle East,4103
-2020-04-06,75,North America,30962
+2020-04-06,75,North America,30954
 2020-04-06,75,Northern Europe,5045
 2020-04-06,75,Other,28
 2020-04-06,75,Western Europe,20027
@@ -970,7 +970,7 @@ date,time,location,growth
 2020-04-07,76,Indian Subcontinent,1514
 2020-04-07,76,Latin America,2133
 2020-04-07,76,Middle East,3759
-2020-04-07,76,North America,30992
+2020-04-07,76,North America,31009
 2020-04-07,76,Northern Europe,6944
 2020-04-07,76,Other,5
 2020-04-07,76,Western Europe,19257
@@ -983,7 +983,7 @@ date,time,location,growth
 2020-04-08,77,Indian Subcontinent,865
 2020-04-08,77,Latin America,3061
 2020-04-08,77,Middle East,3413
-2020-04-08,77,North America,32708
+2020-04-08,77,North America,32698
 2020-04-08,77,Northern Europe,7421
 2020-04-08,77,Other,20
 2020-04-08,77,Western Europe,20529
@@ -996,7 +996,7 @@ date,time,location,growth
 2020-04-09,78,Indian Subcontinent,910
 2020-04-09,78,Latin America,5301
 2020-04-09,78,Middle East,3030
-2020-04-09,78,North America,33285
+2020-04-09,78,North America,33282
 2020-04-09,78,Northern Europe,6820
 2020-04-09,78,Other,19
 2020-04-09,78,Western Europe,24009
@@ -1009,7 +1009,7 @@ date,time,location,growth
 2020-04-10,79,Indian Subcontinent,1168
 2020-04-10,79,Latin America,4415
 2020-04-10,79,Middle East,3257
-2020-04-10,79,North America,36161
+2020-04-10,79,North America,36163
 2020-04-10,79,Northern Europe,6636
 2020-04-10,79,Other,55
 2020-04-10,79,Western Europe,23374
@@ -1022,7 +1022,7 @@ date,time,location,growth
 2020-04-11,80,Indian Subcontinent,1320
 2020-04-11,80,Latin America,5700
 2020-04-11,80,Middle East,3509
-2020-04-11,80,North America,34941
+2020-04-11,80,North America,34942
 2020-04-11,80,Northern Europe,6932
 2020-04-11,80,Other,3
 2020-04-11,80,Western Europe,22947
@@ -1035,7 +1035,7 @@ date,time,location,growth
 2020-04-12,81,Indian Subcontinent,1167
 2020-04-12,81,Latin America,3282
 2020-04-12,81,Middle East,3549
-2020-04-12,81,North America,30614
+2020-04-12,81,North America,30618
 2020-04-12,81,Northern Europe,5360
 2020-04-12,81,Other,23
 2020-04-12,81,Western Europe,19477
@@ -1048,7 +1048,7 @@ date,time,location,growth
 2020-04-13,82,Indian Subcontinent,1228
 2020-04-13,82,Latin America,3141
 2020-04-13,82,Middle East,3411
-2020-04-13,82,North America,27942
+2020-04-13,82,North America,27932
 2020-04-13,82,Northern Europe,5158
 2020-04-13,82,Other,33
 2020-04-13,82,Western Europe,41610
@@ -1061,7 +1061,7 @@ date,time,location,growth
 2020-04-14,83,Indian Subcontinent,1836
 2020-04-14,83,Latin America,4346
 2020-04-14,83,Middle East,3631
-2020-04-14,83,North America,27172
+2020-04-14,83,North America,27175
 2020-04-14,83,Northern Europe,5992
 2020-04-14,83,Other,79
 2020-04-14,83,Western Europe,15022
@@ -1100,7 +1100,7 @@ date,time,location,growth
 2020-04-17,86,Indian Subcontinent,1611
 2020-04-17,86,Latin America,4564
 2020-04-17,86,Middle East,3518
-2020-04-17,86,North America,34122
+2020-04-17,86,North America,34124
 2020-04-17,86,Northern Europe,7268
 2020-04-17,86,Other,36
 2020-04-17,86,Western Europe,30287
@@ -1113,7 +1113,7 @@ date,time,location,growth
 2020-04-18,87,Indian Subcontinent,1873
 2020-04-18,87,Latin America,5727
 2020-04-18,87,Middle East,3822
-2020-04-18,87,North America,34811
+2020-04-18,87,North America,34807
 2020-04-18,87,Northern Europe,6810
 2020-04-18,87,Other,52
 2020-04-18,87,Western Europe,18391
@@ -1139,7 +1139,7 @@ date,time,location,growth
 2020-04-20,89,Indian Subcontinent,2355
 2020-04-20,89,Latin America,4740
 2020-04-20,89,Middle East,3972
-2020-04-20,89,North America,26958
+2020-04-20,89,North America,26955
 2020-04-20,89,Northern Europe,5129
 2020-04-20,89,Other,30
 2020-04-20,89,Western Europe,20110
@@ -1152,7 +1152,7 @@ date,time,location,growth
 2020-04-21,90,Indian Subcontinent,2626
 2020-04-21,90,Latin America,4607
 2020-04-21,90,Middle East,3996
-2020-04-21,90,North America,30447
+2020-04-21,90,North America,30453
 2020-04-21,90,Northern Europe,6071
 2020-04-21,90,Other,68
 2020-04-21,90,Western Europe,11228
@@ -1165,7 +1165,7 @@ date,time,location,growth
 2020-04-22,91,Indian Subcontinent,2559
 2020-04-22,91,Latin America,4913
 2020-04-22,91,Middle East,3964
-2020-04-22,91,North America,27782
+2020-04-22,91,North America,27780
 2020-04-22,91,Northern Europe,6286
 2020-04-22,91,Other,42
 2020-04-22,91,Western Europe,13367
@@ -1178,7 +1178,7 @@ date,time,location,growth
 2020-04-23,92,Indian Subcontinent,2863
 2020-04-23,92,Latin America,5679
 2020-04-23,92,Middle East,4357
-2020-04-23,92,North America,31558
+2020-04-23,92,North America,31554
 2020-04-23,92,Northern Europe,7384
 2020-04-23,92,Other,27
 2020-04-23,92,Western Europe,10320
@@ -1204,7 +1204,7 @@ date,time,location,growth
 2020-04-25,94,Indian Subcontinent,2863
 2020-04-25,94,Latin America,17683
 2020-04-25,94,Middle East,4518
-2020-04-25,94,North America,35186
+2020-04-25,94,North America,35184
 2020-04-25,94,Northern Europe,6678
 2020-04-25,94,Other,53
 2020-04-25,94,Western Europe,-416
@@ -1217,7 +1217,7 @@ date,time,location,growth
 2020-04-26,95,Indian Subcontinent,2819
 2020-04-26,95,Latin America,11119
 2020-04-26,95,Middle East,4467
-2020-04-26,95,North America,33253
+2020-04-26,95,North America,33255
 2020-04-26,95,Northern Europe,5032
 2020-04-26,95,Other,34
 2020-04-26,95,Western Europe,11093
@@ -1230,7 +1230,7 @@ date,time,location,growth
 2020-04-27,96,Indian Subcontinent,2743
 2020-04-27,96,Latin America,7171
 2020-04-27,96,Middle East,4385
-2020-04-27,96,North America,28761
+2020-04-27,96,North America,28764
 2020-04-27,96,Northern Europe,4763
 2020-04-27,96,Other,28
 2020-04-27,96,Western Europe,8123
@@ -1243,7 +1243,7 @@ date,time,location,growth
 2020-04-28,97,Indian Subcontinent,2992
 2020-04-28,97,Latin America,7139
 2020-04-28,97,Middle East,4211
-2020-04-28,97,North America,24757
+2020-04-28,97,North America,24758
 2020-04-28,97,Northern Europe,5988
 2020-04-28,97,Other,32
 2020-04-28,97,Western Europe,9600
@@ -1256,7 +1256,7 @@ date,time,location,growth
 2020-04-29,98,Indian Subcontinent,3491
 2020-04-29,98,Latin America,10553
 2020-04-29,98,Middle East,4180
-2020-04-29,98,North America,26208
+2020-04-29,98,North America,26206
 2020-04-29,98,Northern Europe,5886
 2020-04-29,98,Other,24
 2020-04-29,98,Western Europe,9023
@@ -1269,7 +1269,7 @@ date,time,location,growth
 2020-04-30,99,Indian Subcontinent,3812
 2020-04-30,99,Latin America,10914
 2020-04-30,99,Middle East,4336
-2020-04-30,99,North America,29560
+2020-04-30,99,North America,29556
 2020-04-30,99,Northern Europe,7049
 2020-04-30,99,Other,10
 2020-04-30,99,Western Europe,4688
@@ -1282,7 +1282,7 @@ date,time,location,growth
 2020-05-01,100,Indian Subcontinent,3908
 2020-05-01,100,Latin America,12877
 2020-05-01,100,Middle East,4408
-2020-05-01,100,North America,31097
+2020-05-01,100,North America,31106
 2020-05-01,100,Northern Europe,6267
 2020-05-01,100,Other,22
 2020-05-01,100,Western Europe,6605
@@ -1295,7 +1295,7 @@ date,time,location,growth
 2020-05-02,101,Indian Subcontinent,4145
 2020-05-02,101,Latin America,11991
 2020-05-02,101,Middle East,4420
-2020-05-02,101,North America,36106
+2020-05-02,101,North America,36098
 2020-05-02,101,Northern Europe,5769
 2020-05-02,101,Other,16
 2020-05-02,101,Western Europe,6373
@@ -1308,7 +1308,7 @@ date,time,location,growth
 2020-05-03,102,Indian Subcontinent,4124
 2020-05-03,102,Latin America,11745
 2020-05-03,102,Middle East,4051
-2020-05-03,102,North America,29585
+2020-05-03,102,North America,29587
 2020-05-03,102,Northern Europe,4132
 2020-05-03,102,Other,7
 2020-05-03,102,Western Europe,6303
@@ -1321,7 +1321,7 @@ date,time,location,growth
 2020-05-04,103,Indian Subcontinent,4576
 2020-05-04,103,Latin America,12497
 2020-05-04,103,Middle East,4424
-2020-05-04,103,North America,27080
+2020-05-04,103,North America,27079
 2020-05-04,103,Northern Europe,3814
 2020-05-04,103,Other,10
 2020-05-04,103,Western Europe,4357
@@ -1334,7 +1334,7 @@ date,time,location,growth
 2020-05-05,104,Indian Subcontinent,5951
 2020-05-05,104,Latin America,12403
 2020-05-05,104,Middle East,4695
-2020-05-05,104,North America,24855
+2020-05-05,104,North America,24854
 2020-05-05,104,Northern Europe,4431
 2020-05-05,104,Other,35
 2020-05-05,104,Western Europe,3829
@@ -1360,7 +1360,7 @@ date,time,location,growth
 2020-05-07,106,Indian Subcontinent,5142
 2020-05-07,106,Latin America,16817
 2020-05-07,106,Middle East,5698
-2020-05-07,106,North America,26626
+2020-05-07,106,North America,26628
 2020-05-07,106,Northern Europe,5177
 2020-05-07,106,Other,29
 2020-05-07,106,Western Europe,8260
@@ -1373,7 +1373,7 @@ date,time,location,growth
 2020-05-08,107,Indian Subcontinent,6059
 2020-05-08,107,Latin America,14063
 2020-05-08,107,Middle East,5486
-2020-05-08,107,North America,29297
+2020-05-08,107,North America,29298
 2020-05-08,107,Northern Europe,5001
 2020-05-08,107,Other,4
 2020-05-08,107,Western Europe,6291
@@ -1386,7 +1386,7 @@ date,time,location,growth
 2020-05-09,108,Indian Subcontinent,6580
 2020-05-09,108,Latin America,15805
 2020-05-09,108,Middle East,6313
-2020-05-09,108,North America,28355
+2020-05-09,108,North America,28354
 2020-05-09,108,Northern Europe,4171
 2020-05-09,108,Other,11
 2020-05-09,108,Western Europe,6776
@@ -1412,7 +1412,7 @@ date,time,location,growth
 2020-05-11,110,Indian Subcontinent,7372
 2020-05-11,110,Latin America,12581
 2020-05-11,110,Middle East,6854
-2020-05-11,110,North America,20029
+2020-05-11,110,North America,20030
 2020-05-11,110,Northern Europe,3084
 2020-05-11,110,Other,8
 2020-05-11,110,Western Europe,3456
@@ -1425,7 +1425,7 @@ date,time,location,growth
 2020-05-12,111,Indian Subcontinent,7189
 2020-05-12,111,Latin America,10989
 2020-05-12,111,Middle East,6620
-2020-05-12,111,North America,20620
+2020-05-12,111,North America,20622
 2020-05-12,111,Northern Europe,4331
 2020-05-12,111,Other,73
 2020-05-12,111,Western Europe,5679
@@ -1438,7 +1438,7 @@ date,time,location,growth
 2020-05-13,112,Indian Subcontinent,5753
 2020-05-13,112,Latin America,15816
 2020-05-13,112,Middle East,7287
-2020-05-13,112,North America,23913
+2020-05-13,112,North America,23910
 2020-05-13,112,Northern Europe,4393
 2020-05-13,112,Other,11
 2020-05-13,112,Western Europe,4307
@@ -1451,7 +1451,7 @@ date,time,location,growth
 2020-05-14,113,Indian Subcontinent,5708
 2020-05-14,113,Latin America,20390
 2020-05-14,113,Middle East,7470
-2020-05-14,113,North America,22115
+2020-05-14,113,North America,22120
 2020-05-14,113,Northern Europe,4325
 2020-05-14,113,Other,24
 2020-05-14,113,Western Europe,3063
@@ -1464,7 +1464,7 @@ date,time,location,growth
 2020-05-15,114,Indian Subcontinent,8422
 2020-05-15,114,Latin America,21396
 2020-05-15,114,Middle East,8098
-2020-05-15,114,North America,28521
+2020-05-15,114,North America,28523
 2020-05-15,114,Northern Europe,3886
 2020-05-15,114,Other,66
 2020-05-15,114,Western Europe,3948
@@ -1490,7 +1490,7 @@ date,time,location,growth
 2020-05-17,116,Indian Subcontinent,7520
 2020-05-17,116,Latin America,25859
 2020-05-17,116,Middle East,8576
-2020-05-17,116,North America,25260
+2020-05-17,116,North America,25265
 2020-05-17,116,Northern Europe,2707
 2020-05-17,116,Other,10
 2020-05-17,116,Western Europe,2856
@@ -1503,7 +1503,7 @@ date,time,location,growth
 2020-05-18,117,Indian Subcontinent,8580
 2020-05-18,117,Latin America,15596
 2020-05-18,117,Middle East,8505
-2020-05-18,117,North America,19240
+2020-05-18,117,North America,19243
 2020-05-18,117,Northern Europe,2313
 2020-05-18,117,Other,23
 2020-05-18,117,Western Europe,2093
@@ -1529,7 +1529,7 @@ date,time,location,growth
 2020-05-20,119,Indian Subcontinent,9946
 2020-05-20,119,Latin America,27132
 2020-05-20,119,Middle East,8999
-2020-05-20,119,North America,22126
+2020-05-20,119,North America,22119
 2020-05-20,119,Northern Europe,3906
 2020-05-20,119,Other,11
 2020-05-20,119,Western Europe,4017
@@ -1542,7 +1542,7 @@ date,time,location,growth
 2020-05-21,120,Indian Subcontinent,9856
 2020-05-21,120,Latin America,31064
 2020-05-21,120,Middle East,9176
-2020-05-21,120,North America,24587
+2020-05-21,120,North America,24586
 2020-05-21,120,Northern Europe,3738
 2020-05-21,120,Other,1
 2020-05-21,120,Western Europe,3378
@@ -1555,7 +1555,7 @@ date,time,location,growth
 2020-05-22,121,Indian Subcontinent,11132
 2020-05-22,121,Latin America,29629
 2020-05-22,121,Middle East,9308
-2020-05-22,121,North America,26832
+2020-05-22,121,North America,26834
 2020-05-22,121,Northern Europe,3414
 2020-05-22,121,Other,63
 2020-05-22,121,Western Europe,2797
@@ -1568,7 +1568,7 @@ date,time,location,growth
 2020-05-23,122,Indian Subcontinent,10558
 2020-05-23,122,Latin America,30937
 2020-05-23,122,Middle East,9581
-2020-05-23,122,North America,24643
+2020-05-23,122,North America,24646
 2020-05-23,122,Northern Europe,2826
 2020-05-23,122,Other,1
 2020-05-23,122,Western Europe,4358
@@ -1581,7 +1581,7 @@ date,time,location,growth
 2020-05-24,123,Indian Subcontinent,11472
 2020-05-24,123,Latin America,33523
 2020-05-24,123,Middle East,8965
-2020-05-24,123,North America,22401
+2020-05-24,123,North America,22397
 2020-05-24,123,Northern Europe,2134
 2020-05-24,123,Other,39
 2020-05-24,123,Western Europe,2591
@@ -1594,7 +1594,7 @@ date,time,location,growth
 2020-05-25,124,Indian Subcontinent,11029
 2020-05-25,124,Latin America,26821
 2020-05-25,124,Middle East,8797
-2020-05-25,124,North America,21069
+2020-05-25,124,North America,21072
 2020-05-25,124,Northern Europe,1721
 2020-05-25,124,Other,7
 2020-05-25,124,Western Europe,2017
@@ -1607,7 +1607,7 @@ date,time,location,growth
 2020-05-26,125,Indian Subcontinent,10380
 2020-05-26,125,Latin America,23411
 2020-05-26,125,Middle East,7748
-2020-05-26,125,North America,19330
+2020-05-26,125,North America,19333
 2020-05-26,125,Northern Europe,2236
 2020-05-26,125,Other,6
 2020-05-26,125,Western Europe,1238
@@ -1620,7 +1620,7 @@ date,time,location,growth
 2020-05-27,126,Indian Subcontinent,9250
 2020-05-27,126,Latin America,28639
 2020-05-27,126,Middle East,7694
-2020-05-27,126,North America,20495
+2020-05-27,126,North America,20494
 2020-05-27,126,Northern Europe,2549
 2020-05-27,126,Other,0
 2020-05-27,126,Western Europe,2148
@@ -1633,7 +1633,7 @@ date,time,location,growth
 2020-05-28,127,Indian Subcontinent,11686
 2020-05-28,127,Latin America,34944
 2020-05-28,127,Middle East,8149
-2020-05-28,127,North America,19489
+2020-05-28,127,North America,19501
 2020-05-28,127,Northern Europe,2831
 2020-05-28,127,Other,93
 2020-05-28,127,Western Europe,1779
@@ -1646,7 +1646,7 @@ date,time,location,growth
 2020-05-29,128,Indian Subcontinent,12774
 2020-05-29,128,Latin America,40440
 2020-05-29,128,Middle East,8724
-2020-05-29,128,North America,23935
+2020-05-29,128,North America,23928
 2020-05-29,128,Northern Europe,2665
 2020-05-29,128,Other,1
 2020-05-29,128,Western Europe,7057
@@ -1672,7 +1672,7 @@ date,time,location,growth
 2020-05-31,130,Indian Subcontinent,14069
 2020-05-31,130,Latin America,57882
 2020-05-31,130,Middle East,9318
-2020-05-31,130,North America,24615
+2020-05-31,130,North America,24640
 2020-05-31,130,Northern Europe,1713
 2020-05-31,130,Other,12
 2020-05-31,130,Western Europe,3752
@@ -1685,7 +1685,7 @@ date,time,location,growth
 2020-06-01,131,Indian Subcontinent,14994
 2020-06-01,131,Latin America,33492
 2020-06-01,131,Middle East,9539
-2020-06-01,131,North America,19970
+2020-06-01,131,North America,19951
 2020-06-01,131,Northern Europe,1478
 2020-06-01,131,Other,46
 2020-06-01,131,Western Europe,1806
@@ -1698,7 +1698,7 @@ date,time,location,growth
 2020-06-02,132,Indian Subcontinent,14635
 2020-06-02,132,Latin America,25467
 2020-06-02,132,Middle East,9576
-2020-06-02,132,North America,18173
+2020-06-02,132,North America,18187
 2020-06-02,132,Northern Europe,2230
 2020-06-02,132,Other,13
 2020-06-02,132,Western Europe,1341
@@ -1711,7 +1711,7 @@ date,time,location,growth
 2020-06-03,133,Indian Subcontinent,16600
 2020-06-03,133,Latin America,44989
 2020-06-03,133,Middle East,10011
-2020-06-03,133,North America,22045
+2020-06-03,133,North America,22044
 2020-06-03,133,Northern Europe,2430
 2020-06-03,133,Other,27
 2020-06-03,133,Western Europe,581
@@ -1724,7 +1724,7 @@ date,time,location,growth
 2020-06-04,134,Indian Subcontinent,17953
 2020-06-04,134,Latin America,38790
 2020-06-04,134,Middle East,10644
-2020-06-04,134,North America,20658
+2020-06-04,134,North America,20668
 2020-06-04,134,Northern Europe,2543
 2020-06-04,134,Other,13
 2020-06-04,134,Western Europe,1877
@@ -1737,7 +1737,7 @@ date,time,location,growth
 2020-06-05,135,Indian Subcontinent,17132
 2020-06-05,135,Latin America,43763
 2020-06-05,135,Middle East,10501
-2020-06-05,135,North America,22347
+2020-06-05,135,North America,22352
 2020-06-05,135,Northern Europe,2391
 2020-06-05,135,Other,19
 2020-06-05,135,Western Europe,2327
@@ -1750,7 +1750,7 @@ date,time,location,growth
 2020-06-06,136,Indian Subcontinent,17953
 2020-06-06,136,Latin America,43262
 2020-06-06,136,Middle East,11001
-2020-06-06,136,North America,25845
+2020-06-06,136,North America,25848
 2020-06-06,136,Northern Europe,2419
 2020-06-06,136,Other,29
 2020-06-06,136,Western Europe,2714
@@ -1763,7 +1763,7 @@ date,time,location,growth
 2020-06-07,137,Indian Subcontinent,18628
 2020-06-07,137,Latin America,50638
 2020-06-07,137,Middle East,11156
-2020-06-07,137,North America,22364
+2020-06-07,137,North America,22361
 2020-06-07,137,Northern Europe,1711
 2020-06-07,137,Other,59
 2020-06-07,137,Western Europe,2530
@@ -1776,7 +1776,7 @@ date,time,location,growth
 2020-06-08,138,Indian Subcontinent,19158
 2020-06-08,138,Latin America,33550
 2020-06-08,138,Middle East,10936
-2020-06-08,138,North America,18490
+2020-06-08,138,North America,18501
 2020-06-08,138,Northern Europe,1275
 2020-06-08,138,Other,36
 2020-06-08,138,Western Europe,1855
@@ -1789,7 +1789,7 @@ date,time,location,growth
 2020-06-09,139,Indian Subcontinent,16420
 2020-06-09,139,Latin America,27256
 2020-06-09,139,Middle East,10610
-2020-06-09,139,North America,18129
+2020-06-09,139,North America,18123
 2020-06-09,139,Northern Europe,1832
 2020-06-09,139,Other,40
 2020-06-09,139,Western Europe,1636
@@ -1802,7 +1802,7 @@ date,time,location,growth
 2020-06-10,140,Indian Subcontinent,19318
 2020-06-10,140,Latin America,44415
 2020-06-10,140,Middle East,10293
-2020-06-10,140,North America,18831
+2020-06-10,140,North America,18843
 2020-06-10,140,Northern Europe,2196
 2020-06-10,140,Other,74
 2020-06-10,140,Western Europe,2054
@@ -1815,7 +1815,7 @@ date,time,location,growth
 2020-06-11,141,Indian Subcontinent,20176
 2020-06-11,141,Latin America,48353
 2020-06-11,141,Middle East,11293
-2020-06-11,141,North America,21303
+2020-06-11,141,North America,21310
 2020-06-11,141,Northern Europe,2707
 2020-06-11,141,Other,6
 2020-06-11,141,Western Europe,1758
@@ -1828,7 +1828,7 @@ date,time,location,growth
 2020-06-12,142,Indian Subcontinent,21273
 2020-06-12,142,Latin America,46731
 2020-06-12,142,Middle East,11610
-2020-06-12,142,North America,23636
+2020-06-12,142,North America,23640
 2020-06-12,142,Northern Europe,2393
 2020-06-12,142,Other,29
 2020-06-12,142,Western Europe,2107
@@ -1841,7 +1841,7 @@ date,time,location,growth
 2020-06-13,143,Indian Subcontinent,15588
 2020-06-13,143,Latin America,38572
 2020-06-13,143,Middle East,11968
-2020-06-13,143,North America,25301
+2020-06-13,143,North America,25320
 2020-06-13,143,Northern Europe,2499
 2020-06-13,143,Other,28
 2020-06-13,143,Western Europe,2600
@@ -1854,7 +1854,7 @@ date,time,location,growth
 2020-06-14,144,Indian Subcontinent,21821
 2020-06-14,144,Latin America,41592
 2020-06-14,144,Middle East,11573
-2020-06-14,144,North America,25708
+2020-06-14,144,North America,25691
 2020-06-14,144,Northern Europe,2049
 2020-06-14,144,Other,58
 2020-06-14,144,Western Europe,1928
@@ -1867,7 +1867,7 @@ date,time,location,growth
 2020-06-15,145,Indian Subcontinent,27385
 2020-06-15,145,Latin America,38045
 2020-06-15,145,Middle East,11954
-2020-06-15,145,North America,19733
+2020-06-15,145,North America,19730
 2020-06-15,145,Northern Europe,1314
 2020-06-15,145,Other,53
 2020-06-15,145,Western Europe,1876
@@ -1880,7 +1880,7 @@ date,time,location,growth
 2020-06-16,146,Indian Subcontinent,18987
 2020-06-16,146,Latin America,34279
 2020-06-16,146,Middle East,12365
-2020-06-16,146,North America,20283
+2020-06-16,146,North America,20294
 2020-06-16,146,Northern Europe,1784
 2020-06-16,146,Other,204
 2020-06-16,146,Western Europe,1438
@@ -1893,7 +1893,7 @@ date,time,location,growth
 2020-06-17,147,Indian Subcontinent,21468
 2020-06-17,147,Latin America,49418
 2020-06-17,147,Middle East,11893
-2020-06-17,147,North America,24119
+2020-06-17,147,North America,24132
 2020-06-17,147,Northern Europe,2370
 2020-06-17,147,Other,129
 2020-06-17,147,Western Europe,1938
@@ -1906,7 +1906,7 @@ date,time,location,growth
 2020-06-18,148,Indian Subcontinent,22820
 2020-06-18,148,Latin America,43535
 2020-06-18,148,Middle East,12726
-2020-06-18,148,North America,26308
+2020-06-18,148,North America,26307
 2020-06-18,148,Northern Europe,2554
 2020-06-18,148,Other,141
 2020-06-18,148,Western Europe,2155
@@ -1919,7 +1919,7 @@ date,time,location,growth
 2020-06-19,149,Indian Subcontinent,23014
 2020-06-19,149,Latin America,38213
 2020-06-19,149,Middle East,12554
-2020-06-19,149,North America,28571
+2020-06-19,149,North America,28587
 2020-06-19,149,Northern Europe,2610
 2020-06-19,149,Other,77
 2020-06-19,149,Western Europe,3296
@@ -1932,7 +1932,7 @@ date,time,location,growth
 2020-06-20,150,Indian Subcontinent,24713
 2020-06-20,150,Latin America,71972
 2020-06-20,150,Middle East,12317
-2020-06-20,150,North America,31747
+2020-06-20,150,North America,31757
 2020-06-20,150,Northern Europe,2302
 2020-06-20,150,Other,83
 2020-06-20,150,Western Europe,2163
@@ -1945,7 +1945,7 @@ date,time,location,growth
 2020-06-21,151,Indian Subcontinent,24140
 2020-06-21,151,Latin America,49517
 2020-06-21,151,Middle East,11775
-2020-06-21,151,North America,32702
+2020-06-21,151,North America,32695
 2020-06-21,151,Northern Europe,1405
 2020-06-21,151,Other,82
 2020-06-21,151,Western Europe,2252
@@ -1971,7 +1971,7 @@ date,time,location,growth
 2020-06-23,153,Indian Subcontinent,22684
 2020-06-23,153,Latin America,37042
 2020-06-23,153,Middle East,12613
-2020-06-23,153,North America,30822
+2020-06-23,153,North America,30850
 2020-06-23,153,Northern Europe,1842
 2020-06-23,153,Other,300
 2020-06-23,153,Western Europe,1729
@@ -1984,7 +1984,7 @@ date,time,location,growth
 2020-06-24,154,Indian Subcontinent,23638
 2020-06-24,154,Latin America,54023
 2020-06-24,154,Middle East,12340
-2020-06-24,154,North America,36114
+2020-06-24,154,North America,36135
 2020-06-24,154,Northern Europe,2271
 2020-06-24,154,Other,47
 2020-06-24,154,Western Europe,2339
@@ -1997,7 +1997,7 @@ date,time,location,growth
 2020-06-25,155,Indian Subcontinent,24597
 2020-06-25,155,Latin America,58692
 2020-06-25,155,Middle East,12759
-2020-06-25,155,North America,34785
+2020-06-25,155,North America,34800
 2020-06-25,155,Northern Europe,2566
 2020-06-25,155,Other,52
 2020-06-25,155,Western Europe,2022
@@ -2010,7 +2010,7 @@ date,time,location,growth
 2020-06-26,156,Indian Subcontinent,24561
 2020-06-26,156,Latin America,57601
 2020-06-26,156,Middle East,13195
-2020-06-26,156,North America,40912
+2020-06-26,156,North America,40917
 2020-06-26,156,Northern Europe,2017
 2020-06-26,156,Other,95
 2020-06-26,156,Western Europe,1832
@@ -2023,7 +2023,7 @@ date,time,location,growth
 2020-06-27,157,Indian Subcontinent,25838
 2020-06-27,157,Latin America,64462
 2020-06-27,157,Middle East,13401
-2020-06-27,157,North America,45480
+2020-06-27,157,North America,45487
 2020-06-27,157,Northern Europe,1960
 2020-06-27,157,Other,69
 2020-06-27,157,Western Europe,3717
@@ -2036,7 +2036,7 @@ date,time,location,growth
 2020-06-28,158,Indian Subcontinent,27671
 2020-06-28,158,Latin America,56846
 2020-06-28,158,Middle East,12710
-2020-06-28,158,North America,42598
+2020-06-28,158,North America,42612
 2020-06-28,158,Northern Europe,1446
 2020-06-28,158,Other,62
 2020-06-28,158,Western Europe,1853
@@ -2049,7 +2049,7 @@ date,time,location,growth
 2020-06-29,159,Indian Subcontinent,27181
 2020-06-29,159,Latin America,46164
 2020-06-29,159,Middle East,12546
-2020-06-29,159,North America,39666
+2020-06-29,159,North America,39662
 2020-06-29,159,Northern Europe,843
 2020-06-29,159,Other,96
 2020-06-29,159,Western Europe,778
@@ -2062,7 +2062,7 @@ date,time,location,growth
 2020-06-30,160,Indian Subcontinent,25635
 2020-06-30,160,Latin America,38560
 2020-06-30,160,Middle East,12312
-2020-06-30,160,North America,41322
+2020-06-30,160,North America,41348
 2020-06-30,160,Northern Europe,1467
 2020-06-30,160,Other,87
 2020-06-30,160,Western Europe,3265
@@ -2075,7 +2075,7 @@ date,time,location,growth
 2020-07-01,161,Indian Subcontinent,26743
 2020-07-01,161,Latin America,48177
 2020-07-01,161,Middle East,13528
-2020-07-01,161,North America,46430
+2020-07-01,161,North America,46436
 2020-07-01,161,Northern Europe,1265
 2020-07-01,161,Other,122
 2020-07-01,161,Western Europe,1874
@@ -2088,7 +2088,7 @@ date,time,location,growth
 2020-07-02,162,Indian Subcontinent,27600
 2020-07-02,162,Latin America,63484
 2020-07-02,162,Middle East,13608
-2020-07-02,162,North America,51511
+2020-07-02,162,North America,51523
 2020-07-02,162,Northern Europe,821
 2020-07-02,162,Other,374
 2020-07-02,162,Western Europe,2735
@@ -2101,7 +2101,7 @@ date,time,location,growth
 2020-07-03,163,Indian Subcontinent,29207
 2020-07-03,163,Latin America,64643
 2020-07-03,163,Middle East,13389
-2020-07-03,163,North America,55465
+2020-07-03,163,North America,55486
 2020-07-03,163,Northern Europe,753
 2020-07-03,163,Other,113
 2020-07-03,163,Western Europe,2540
@@ -2114,7 +2114,7 @@ date,time,location,growth
 2020-07-04,164,Indian Subcontinent,26190
 2020-07-04,164,Latin America,59516
 2020-07-04,164,Middle East,14601
-2020-07-04,164,North America,52867
+2020-07-04,164,North America,52876
 2020-07-04,164,Northern Europe,1251
 2020-07-04,164,Other,248
 2020-07-04,164,Western Europe,2559
@@ -2127,7 +2127,7 @@ date,time,location,growth
 2020-07-05,165,Indian Subcontinent,31879
 2020-07-05,165,Latin America,55155
 2020-07-05,165,Middle East,14074
-2020-07-05,165,North America,45963
+2020-07-05,165,North America,45949
 2020-07-05,165,Northern Europe,1023
 2020-07-05,165,Other,114
 2020-07-05,165,Western Europe,1509
@@ -2140,7 +2140,7 @@ date,time,location,growth
 2020-07-06,166,Indian Subcontinent,33804
 2020-07-06,166,Latin America,42966
 2020-07-06,166,Middle East,13083
-2020-07-06,166,North America,50186
+2020-07-06,166,North America,50187
 2020-07-06,166,Northern Europe,868
 2020-07-06,166,Other,178
 2020-07-06,166,Western Europe,1338
@@ -2153,7 +2153,7 @@ date,time,location,growth
 2020-07-07,167,Indian Subcontinent,28383
 2020-07-07,167,Latin America,34727
 2020-07-07,167,Middle East,13307
-2020-07-07,167,North America,45071
+2020-07-07,167,North America,45067
 2020-07-07,167,Northern Europe,681
 2020-07-07,167,Other,152
 2020-07-07,167,Western Europe,3875
@@ -2166,7 +2166,7 @@ date,time,location,growth
 2020-07-08,168,Indian Subcontinent,28958
 2020-07-08,168,Latin America,61185
 2020-07-08,168,Middle East,13766
-2020-07-08,168,North America,60364
+2020-07-08,168,North America,60397
 2020-07-08,168,Northern Europe,907
 2020-07-08,168,Other,195
 2020-07-08,168,Western Europe,1756
@@ -2179,7 +2179,7 @@ date,time,location,growth
 2020-07-09,169,Indian Subcontinent,31950
 2020-07-09,169,Latin America,61086
 2020-07-09,169,Middle East,13880
-2020-07-09,169,North America,59484
+2020-07-09,169,North America,59494
 2020-07-09,169,Northern Europe,1221
 2020-07-09,169,Other,447
 2020-07-09,169,Western Europe,1796
@@ -2192,7 +2192,7 @@ date,time,location,growth
 2020-07-10,170,Indian Subcontinent,32991
 2020-07-10,170,Latin America,62086
 2020-07-10,170,Middle East,13031
-2020-07-10,170,North America,63593
+2020-07-10,170,North America,63601
 2020-07-10,170,Northern Europe,1064
 2020-07-10,170,Other,214
 2020-07-10,170,Western Europe,3215
@@ -2205,7 +2205,7 @@ date,time,location,growth
 2020-07-11,171,Indian Subcontinent,33401
 2020-07-11,171,Latin America,65565
 2020-07-11,171,Middle East,14295
-2020-07-11,171,North America,68047
+2020-07-11,171,North America,68069
 2020-07-11,171,Northern Europe,987
 2020-07-11,171,Other,414
 2020-07-11,171,Western Europe,3028
@@ -2218,7 +2218,7 @@ date,time,location,growth
 2020-07-12,172,Indian Subcontinent,34044
 2020-07-12,172,Latin America,58741
 2020-07-12,172,Middle East,12694
-2020-07-12,172,North America,60317
+2020-07-12,172,North America,60371
 2020-07-12,172,Northern Europe,1190
 2020-07-12,172,Other,205
 2020-07-12,172,Western Europe,1608
@@ -2231,7 +2231,7 @@ date,time,location,growth
 2020-07-13,173,Indian Subcontinent,34344
 2020-07-13,173,Latin America,42466
 2020-07-13,173,Middle East,12523
-2020-07-13,173,North America,59077
+2020-07-13,173,North America,59054
 2020-07-13,173,Northern Europe,784
 2020-07-13,173,Other,203
 2020-07-13,173,Western Europe,1375
@@ -2257,7 +2257,7 @@ date,time,location,growth
 2020-07-15,175,Indian Subcontinent,35061
 2020-07-15,175,Latin America,60674
 2020-07-15,175,Middle East,12797
-2020-07-15,175,North America,67323
+2020-07-15,175,North America,67340
 2020-07-15,175,Northern Europe,1638
 2020-07-15,175,Other,187
 2020-07-15,175,Western Europe,1718
@@ -2270,7 +2270,7 @@ date,time,location,growth
 2020-07-16,176,Indian Subcontinent,38614
 2020-07-16,176,Latin America,59213
 2020-07-16,176,Middle East,13009
-2020-07-16,176,North America,67966
+2020-07-16,176,North America,67992
 2020-07-16,176,Northern Europe,898
 2020-07-16,176,Other,313
 2020-07-16,176,Western Europe,3334
@@ -2283,7 +2283,7 @@ date,time,location,growth
 2020-07-17,177,Indian Subcontinent,37802
 2020-07-17,177,Latin America,68234
 2020-07-17,177,Middle East,13288
-2020-07-17,177,North America,77813
+2020-07-17,177,North America,77803
 2020-07-17,177,Northern Europe,990
 2020-07-17,177,Other,268
 2020-07-17,177,Western Europe,3947
@@ -2296,7 +2296,7 @@ date,time,location,growth
 2020-07-18,178,Indian Subcontinent,42459
 2020-07-18,178,Latin America,59267
 2020-07-18,178,Middle East,12189
-2020-07-18,178,North America,72425
+2020-07-18,178,North America,72461
 2020-07-18,178,Northern Europe,1101
 2020-07-18,178,Other,378
 2020-07-18,178,Western Europe,4163
@@ -2309,7 +2309,7 @@ date,time,location,growth
 2020-07-19,179,Indian Subcontinent,43063
 2020-07-19,179,Latin America,51699
 2020-07-19,179,Middle East,12435
-2020-07-19,179,North America,63064
+2020-07-19,179,North America,63118
 2020-07-19,179,Northern Europe,1083
 2020-07-19,179,Other,145
 2020-07-19,179,Western Europe,1620
@@ -2322,7 +2322,7 @@ date,time,location,growth
 2020-07-20,180,Indian Subcontinent,44668
 2020-07-20,180,Latin America,44509
 2020-07-20,180,Middle East,10804
-2020-07-20,180,North America,61548
+2020-07-20,180,North America,61609
 2020-07-20,180,Northern Europe,887
 2020-07-20,180,Other,118
 2020-07-20,180,Western Europe,1249
@@ -2335,7 +2335,7 @@ date,time,location,growth
 2020-07-21,181,Indian Subcontinent,41131
 2020-07-21,181,Latin America,40888
 2020-07-21,181,Middle East,12649
-2020-07-21,181,North America,62712
+2020-07-21,181,North America,62743
 2020-07-21,181,Northern Europe,838
 2020-07-21,181,Other,360
 2020-07-21,181,Western Europe,8321
@@ -2348,7 +2348,7 @@ date,time,location,growth
 2020-07-22,182,Indian Subcontinent,42220
 2020-07-22,182,Latin America,63917
 2020-07-22,182,Middle East,13147
-2020-07-22,182,North America,64966
+2020-07-22,182,North America,64981
 2020-07-22,182,Northern Europe,781
 2020-07-22,182,Other,168
 2020-07-22,182,Western Europe,3236
@@ -2361,7 +2361,7 @@ date,time,location,growth
 2020-07-23,183,Indian Subcontinent,50361
 2020-07-23,183,Latin America,92043
 2020-07-23,183,Middle East,13408
-2020-07-23,183,North America,71622
+2020-07-23,183,North America,71612
 2020-07-23,183,Northern Europe,952
 2020-07-23,183,Other,241
 2020-07-23,183,Western Europe,4387
@@ -2374,7 +2374,7 @@ date,time,location,growth
 2020-07-24,184,Indian Subcontinent,53577
 2020-07-24,184,Latin America,85256
 2020-07-24,184,Middle East,12439
-2020-07-24,184,North America,69681
+2020-07-24,184,North America,69685
 2020-07-24,184,Northern Europe,1100
 2020-07-24,184,Other,181
 2020-07-24,184,Western Europe,5628
@@ -2387,7 +2387,7 @@ date,time,location,growth
 2020-07-25,185,Indian Subcontinent,53015
 2020-07-25,185,Latin America,80514
 2020-07-25,185,Middle East,12415
-2020-07-25,185,North America,73824
+2020-07-25,185,North America,73886
 2020-07-25,185,Northern Europe,1144
 2020-07-25,185,Other,400
 2020-07-25,185,Western Europe,5649
@@ -2400,7 +2400,7 @@ date,time,location,growth
 2020-07-26,186,Indian Subcontinent,52418
 2020-07-26,186,Latin America,71063
 2020-07-26,186,Middle East,11748
-2020-07-26,186,North America,66809
+2020-07-26,186,North America,66952
 2020-07-26,186,Northern Europe,981
 2020-07-26,186,Other,237
 2020-07-26,186,Western Europe,2313
@@ -2413,7 +2413,7 @@ date,time,location,growth
 2020-07-27,187,Indian Subcontinent,52392
 2020-07-27,187,Latin America,43761
 2020-07-27,187,Middle East,11028
-2020-07-27,187,North America,55121
+2020-07-27,187,North America,55046
 2020-07-27,187,Northern Europe,862
 2020-07-27,187,Other,220
 2020-07-27,187,Western Europe,1817
@@ -2426,7 +2426,7 @@ date,time,location,growth
 2020-07-28,188,Indian Subcontinent,48538
 2020-07-28,188,Latin America,56475
 2020-07-28,188,Middle East,11901
-2020-07-28,188,North America,57262
+2020-07-28,188,North America,57299
 2020-07-28,188,Northern Europe,918
 2020-07-28,188,Other,438
 2020-07-28,188,Western Europe,10446
@@ -2439,7 +2439,7 @@ date,time,location,growth
 2020-07-29,189,Indian Subcontinent,55602
 2020-07-29,189,Latin America,67856
 2020-07-29,189,Middle East,12822
-2020-07-29,189,North America,66193
+2020-07-29,189,North America,66179
 2020-07-29,189,Northern Europe,949
 2020-07-29,189,Other,239
 2020-07-29,189,Western Europe,4291
@@ -2452,7 +2452,7 @@ date,time,location,growth
 2020-07-30,190,Indian Subcontinent,54469
 2020-07-30,190,Latin America,95465
 2020-07-30,190,Middle East,12390
-2020-07-30,190,North America,71788
+2020-07-30,190,North America,71842
 2020-07-30,190,Northern Europe,1233
 2020-07-30,190,Other,194
 2020-07-30,190,Western Europe,4892
@@ -2465,7 +2465,7 @@ date,time,location,growth
 2020-07-31,191,Indian Subcontinent,56669
 2020-07-31,191,Latin America,81886
 2020-07-31,191,Middle East,11652
-2020-07-31,191,North America,68099
+2020-07-31,191,North America,68129
 2020-07-31,191,Northern Europe,1418
 2020-07-31,191,Other,258
 2020-07-31,191,Western Europe,7409
@@ -2478,7 +2478,7 @@ date,time,location,growth
 2020-08-01,192,Indian Subcontinent,65051
 2020-08-01,192,Latin America,82046
 2020-08-01,192,Middle East,10346
-2020-08-01,192,North America,67757
+2020-08-01,192,North America,67796
 2020-08-01,192,Northern Europe,1326
 2020-08-01,192,Other,226
 2020-08-01,192,Western Europe,8927
@@ -2491,7 +2491,7 @@ date,time,location,growth
 2020-08-02,193,Indian Subcontinent,56970
 2020-08-02,193,Latin America,69216
 2020-08-02,193,Middle East,9171
-2020-08-02,193,North America,58145
+2020-08-02,193,North America,58147
 2020-08-02,193,Northern Europe,1181
 2020-08-02,193,Other,224
 2020-08-02,193,Western Europe,2723
@@ -2504,7 +2504,7 @@ date,time,location,growth
 2020-08-03,194,Indian Subcontinent,55260
 2020-08-03,194,Latin America,69421
 2020-08-03,194,Middle East,8660
-2020-08-03,194,North America,47574
+2020-08-03,194,North America,47508
 2020-08-03,194,Northern Europe,906
 2020-08-03,194,Other,245
 2020-08-03,194,Western Europe,1849
@@ -2517,7 +2517,7 @@ date,time,location,growth
 2020-08-04,195,Indian Subcontinent,54211
 2020-08-04,195,Latin America,41839
 2020-08-04,195,Middle East,9736
-2020-08-04,195,North America,45035
+2020-08-04,195,North America,45043
 2020-08-04,195,Northern Europe,1461
 2020-08-04,195,Other,596
 2020-08-04,195,Western Europe,10782
@@ -2530,7 +2530,7 @@ date,time,location,growth
 2020-08-05,196,Indian Subcontinent,54470
 2020-08-05,196,Latin America,78424
 2020-08-05,196,Middle East,10201
-2020-08-05,196,North America,58146
+2020-08-05,196,North America,58152
 2020-08-05,196,Northern Europe,1212
 2020-08-05,196,Other,225
 2020-08-05,196,Western Europe,11424
@@ -2543,7 +2543,7 @@ date,time,location,growth
 2020-08-06,197,Indian Subcontinent,59663
 2020-08-06,197,Latin America,89845
 2020-08-06,197,Middle East,12013
-2020-08-06,197,North America,54026
+2020-08-06,197,North America,54018
 2020-08-06,197,Northern Europe,1631
 2020-08-06,197,Other,218
 2020-08-06,197,Western Europe,6298
@@ -2556,7 +2556,7 @@ date,time,location,growth
 2020-08-07,198,Indian Subcontinent,66312
 2020-08-07,198,Latin America,87728
 2020-08-07,198,Middle East,11320
-2020-08-07,198,North America,59994
+2020-08-07,198,North America,60027
 2020-08-07,198,Northern Europe,1695
 2020-08-07,198,Other,196
 2020-08-07,198,Western Europe,10494
@@ -2569,7 +2569,7 @@ date,time,location,growth
 2020-08-08,199,Indian Subcontinent,65289
 2020-08-08,199,Latin America,83221
 2020-08-08,199,Middle East,11568
-2020-08-08,199,North America,58848
+2020-08-08,199,North America,58882
 2020-08-08,199,Northern Europe,1702
 2020-08-08,199,Other,272
 2020-08-08,199,Western Europe,12378
@@ -2582,7 +2582,7 @@ date,time,location,growth
 2020-08-09,200,Indian Subcontinent,67893
 2020-08-09,200,Latin America,73110
 2020-08-09,200,Middle East,10395
-2020-08-09,200,North America,55935
+2020-08-09,200,North America,55958
 2020-08-09,200,Northern Europe,1326
 2020-08-09,200,Other,217
 2020-08-09,200,Western Europe,2983
@@ -2595,7 +2595,7 @@ date,time,location,growth
 2020-08-10,201,Indian Subcontinent,65190
 2020-08-10,201,Latin America,58576
 2020-08-10,201,Middle East,9143
-2020-08-10,201,North America,46342
+2020-08-10,201,North America,46313
 2020-08-10,201,Northern Europe,1348
 2020-08-10,201,Other,188
 2020-08-10,201,Western Europe,2971
@@ -2608,7 +2608,7 @@ date,time,location,growth
 2020-08-11,202,Indian Subcontinent,57182
 2020-08-11,202,Latin America,50882
 2020-08-11,202,Middle East,11075
-2020-08-11,202,North America,50446
+2020-08-11,202,North America,50438
 2020-08-11,202,Northern Europe,1532
 2020-08-11,202,Other,172
 2020-08-11,202,Western Europe,15880
@@ -2621,7 +2621,7 @@ date,time,location,growth
 2020-08-12,203,Indian Subcontinent,64609
 2020-08-12,203,Latin America,84992
 2020-08-12,203,Middle East,11877
-2020-08-12,203,North America,47239
+2020-08-12,203,North America,47261
 2020-08-12,203,Northern Europe,1881
 2020-08-12,203,Other,252
 2020-08-12,203,Western Europe,6527
@@ -2634,7 +2634,7 @@ date,time,location,growth
 2020-08-13,204,Indian Subcontinent,70801
 2020-08-13,204,Latin America,82849
 2020-08-13,204,Middle East,11673
-2020-08-13,204,North America,57318
+2020-08-13,204,North America,57359
 2020-08-13,204,Northern Europe,1750
 2020-08-13,204,Other,205
 2020-08-13,204,Western Europe,12772
@@ -2647,7 +2647,7 @@ date,time,location,growth
 2020-08-14,205,Indian Subcontinent,68018
 2020-08-14,205,Latin America,95152
 2020-08-14,205,Middle East,12367
-2020-08-14,205,North America,52454
+2020-08-14,205,North America,52475
 2020-08-14,205,Northern Europe,1906
 2020-08-14,205,Other,193
 2020-08-14,205,Western Europe,11792
@@ -2660,7 +2660,7 @@ date,time,location,growth
 2020-08-15,206,Indian Subcontinent,68140
 2020-08-15,206,Latin America,93948
 2020-08-15,206,Middle East,11753
-2020-08-15,206,North America,65026
+2020-08-15,206,North America,65001
 2020-08-15,206,Northern Europe,2146
 2020-08-15,206,Other,142
 2020-08-15,206,Western Europe,15885
@@ -2673,7 +2673,7 @@ date,time,location,growth
 2020-08-16,207,Indian Subcontinent,67545
 2020-08-16,207,Latin America,67176
 2020-08-16,207,Middle East,11539
-2020-08-16,207,North America,47645
+2020-08-16,207,North America,47666
 2020-08-16,207,Northern Europe,1714
 2020-08-16,207,Other,145
 2020-08-16,207,Western Europe,7254
@@ -2686,7 +2686,7 @@ date,time,location,growth
 2020-08-17,208,Indian Subcontinent,60956
 2020-08-17,208,Latin America,56456
 2020-08-17,208,Middle East,10665
-2020-08-17,208,North America,41592
+2020-08-17,208,North America,41539
 2020-08-17,208,Northern Europe,1482
 2020-08-17,208,Other,227
 2020-08-17,208,Western Europe,2742
@@ -2699,7 +2699,7 @@ date,time,location,growth
 2020-08-18,209,Indian Subcontinent,57626
 2020-08-18,209,Latin America,47076
 2020-08-18,209,Middle East,11407
-2020-08-18,209,North America,36153
+2020-08-18,209,North America,36174
 2020-08-18,209,Northern Europe,1177
 2020-08-18,209,Other,129
 2020-08-18,209,Western Europe,23241
@@ -2712,7 +2712,7 @@ date,time,location,growth
 2020-08-19,210,Indian Subcontinent,68397
 2020-08-19,210,Latin America,79142
 2020-08-19,210,Middle East,12927
-2020-08-19,210,North America,46220
+2020-08-19,210,North America,46235
 2020-08-19,210,Northern Europe,1866
 2020-08-19,210,Other,141
 2020-08-19,210,Western Europe,8927
@@ -2725,7 +2725,7 @@ date,time,location,growth
 2020-08-20,211,Indian Subcontinent,73032
 2020-08-20,211,Latin America,84765
 2020-08-20,211,Middle East,12441
-2020-08-20,211,North America,47654
+2020-08-20,211,North America,47672
 2020-08-20,211,Northern Europe,1440
 2020-08-20,211,Other,181
 2020-08-20,211,Western Europe,11313
@@ -2738,7 +2738,7 @@ date,time,location,growth
 2020-08-21,212,Indian Subcontinent,72560
 2020-08-21,212,Latin America,80858
 2020-08-21,212,Middle East,12150
-2020-08-21,212,North America,44298
+2020-08-21,212,North America,44288
 2020-08-21,212,Northern Europe,1904
 2020-08-21,212,Other,158
 2020-08-21,212,Western Europe,12067
@@ -2751,7 +2751,7 @@ date,time,location,growth
 2020-08-22,213,Indian Subcontinent,72969
 2020-08-22,213,Latin America,62485
 2020-08-22,213,Middle East,11390
-2020-08-22,213,North America,48913
+2020-08-22,213,North America,48935
 2020-08-22,213,Northern Europe,1682
 2020-08-22,213,Other,162
 2020-08-22,213,Western Europe,28765
@@ -2764,7 +2764,7 @@ date,time,location,growth
 2020-08-23,214,Indian Subcontinent,72156
 2020-08-23,214,Latin America,83530
 2020-08-23,214,Middle East,11056
-2020-08-23,214,North America,44651
+2020-08-23,214,North America,44629
 2020-08-23,214,Northern Europe,1878
 2020-08-23,214,Other,169
 2020-08-23,214,Western Europe,7853
@@ -2777,7 +2777,7 @@ date,time,location,growth
 2020-08-24,215,Indian Subcontinent,64520
 2020-08-24,215,Latin America,51256
 2020-08-24,215,Middle East,9683
-2020-08-24,215,North America,34686
+2020-08-24,215,North America,34694
 2020-08-24,215,Northern Europe,1340
 2020-08-24,215,Other,111
 2020-08-24,215,Western Europe,8673
@@ -2790,7 +2790,7 @@ date,time,location,growth
 2020-08-25,216,Indian Subcontinent,63522
 2020-08-25,216,Latin America,50800
 2020-08-25,216,Middle East,11946
-2020-08-25,216,North America,38631
+2020-08-25,216,North America,38598
 2020-08-25,216,Northern Europe,1552
 2020-08-25,216,Other,228
 2020-08-25,216,Western Europe,25510
@@ -2803,7 +2803,7 @@ date,time,location,growth
 2020-08-26,217,Indian Subcontinent,60264
 2020-08-26,217,Latin America,77926
 2020-08-26,217,Middle East,12115
-2020-08-26,217,North America,38538
+2020-08-26,217,North America,38559
 2020-08-26,217,Northern Europe,1746
 2020-08-26,217,Other,136
 2020-08-26,217,Western Europe,14642
@@ -2816,7 +2816,7 @@ date,time,location,growth
 2020-08-27,218,Indian Subcontinent,88744
 2020-08-27,218,Latin America,81003
 2020-08-27,218,Middle East,12074
-2020-08-27,218,North America,45568
+2020-08-27,218,North America,45605
 2020-08-27,218,Northern Europe,1754
 2020-08-27,218,Other,157
 2020-08-27,218,Western Europe,18354
@@ -2829,7 +2829,7 @@ date,time,location,growth
 2020-08-28,219,Indian Subcontinent,80176
 2020-08-28,219,Latin America,75670
 2020-08-28,219,Middle East,12144
-2020-08-28,219,North America,46327
+2020-08-28,219,North America,46367
 2020-08-28,219,Northern Europe,1972
 2020-08-28,219,Other,141
 2020-08-28,219,Western Europe,21173
@@ -2842,7 +2842,7 @@ date,time,location,growth
 2020-08-29,220,Indian Subcontinent,79123
 2020-08-29,220,Latin America,78781
 2020-08-29,220,Middle East,11933
-2020-08-29,220,North America,46702
+2020-08-29,220,North America,46681
 2020-08-29,220,Northern Europe,1638
 2020-08-29,220,Other,119
 2020-08-29,220,Western Europe,21219
@@ -2855,7 +2855,7 @@ date,time,location,growth
 2020-08-30,221,Indian Subcontinent,81220
 2020-08-30,221,Latin America,74164
 2020-08-30,221,Middle East,10924
-2020-08-30,221,North America,46317
+2020-08-30,221,North America,46276
 2020-08-30,221,Northern Europe,1430
 2020-08-30,221,Other,115
 2020-08-30,221,Western Europe,4768
@@ -2868,7 +2868,7 @@ date,time,location,growth
 2020-08-31,222,Indian Subcontinent,80738
 2020-08-31,222,Latin America,46742
 2020-08-31,222,Middle East,9900
-2020-08-31,222,North America,35603
+2020-08-31,222,North America,35597
 2020-08-31,222,Northern Europe,2026
 2020-08-31,222,Other,119
 2020-08-31,222,Western Europe,14664
@@ -2881,7 +2881,7 @@ date,time,location,growth
 2020-09-01,223,Indian Subcontinent,72349
 2020-09-01,223,Latin America,74993
 2020-09-01,223,Middle East,11817
-2020-09-01,223,North America,35542
+2020-09-01,223,North America,35541
 2020-09-01,223,Northern Europe,2168
 2020-09-01,223,Other,120
 2020-09-01,223,Western Europe,30874
@@ -2894,7 +2894,7 @@ date,time,location,growth
 2020-09-02,224,Indian Subcontinent,80683
 2020-09-02,224,Latin America,71841
 2020-09-02,224,Middle East,11245
-2020-09-02,224,North America,43033
+2020-09-02,224,North America,43066
 2020-09-02,224,Northern Europe,1992
 2020-09-02,224,Other,147
 2020-09-02,224,Western Europe,16992
@@ -2907,7 +2907,7 @@ date,time,location,growth
 2020-09-03,225,Indian Subcontinent,87386
 2020-09-03,225,Latin America,78813
 2020-09-03,225,Middle East,12865
-2020-09-03,225,North America,41122
+2020-09-03,225,North America,41147
 2020-09-03,225,Northern Europe,1963
 2020-09-03,225,Other,761
 2020-09-03,225,Western Europe,21152
@@ -2920,7 +2920,7 @@ date,time,location,growth
 2020-09-04,226,Indian Subcontinent,86052
 2020-09-04,226,Latin America,70941
 2020-09-04,226,Middle East,14713
-2020-09-04,226,North America,44504
+2020-09-04,226,North America,44528
 2020-09-04,226,Northern Europe,2430
 2020-09-04,226,Other,78
 2020-09-04,226,Western Europe,21804
@@ -2933,7 +2933,7 @@ date,time,location,growth
 2020-09-05,227,Indian Subcontinent,88895
 2020-09-05,227,Latin America,87981
 2020-09-05,227,Middle East,13542
-2020-09-05,227,North America,50721
+2020-09-05,227,North America,50691
 2020-09-05,227,Northern Europe,2695
 2020-09-05,227,Other,119
 2020-09-05,227,Western Europe,25585
@@ -2946,7 +2946,7 @@ date,time,location,growth
 2020-09-06,228,Indian Subcontinent,92608
 2020-09-06,228,Latin America,64797
 2020-09-06,228,Middle East,13243
-2020-09-06,228,North America,44421
+2020-09-06,228,North America,44425
 2020-09-06,228,Northern Europe,2429
 2020-09-06,228,Other,117
 2020-09-06,228,Western Europe,5367
@@ -2959,7 +2959,7 @@ date,time,location,growth
 2020-09-07,229,Indian Subcontinent,93348
 2020-09-07,229,Latin America,41535
 2020-09-07,229,Middle East,11902
-2020-09-07,229,North America,31510
+2020-09-07,229,North America,31462
 2020-09-07,229,Northern Europe,3470
 2020-09-07,229,Other,92
 2020-09-07,229,Western Europe,4621
@@ -2972,7 +2972,7 @@ date,time,location,growth
 2020-09-08,230,Indian Subcontinent,78442
 2020-09-08,230,Latin America,28557
 2020-09-08,230,Middle East,14189
-2020-09-08,230,North America,24461
+2020-09-08,230,North America,24462
 2020-09-08,230,Northern Europe,4061
 2020-09-08,230,Other,348
 2020-09-08,230,Western Europe,51684
@@ -2985,7 +2985,7 @@ date,time,location,growth
 2020-09-09,231,Indian Subcontinent,92068
 2020-09-09,231,Latin America,40962
 2020-09-09,231,Middle East,15513
-2020-09-09,231,North America,28198
+2020-09-09,231,North America,28228
 2020-09-09,231,Northern Europe,3365
 2020-09-09,231,Other,97
 2020-09-09,231,Western Europe,21033
@@ -2998,7 +2998,7 @@ date,time,location,growth
 2020-09-10,232,Indian Subcontinent,97964
 2020-09-10,232,Latin America,67451
 2020-09-10,232,Middle East,15126
-2020-09-10,232,North America,33930
+2020-09-10,232,North America,33982
 2020-09-10,232,Northern Europe,3473
 2020-09-10,232,Other,76
 2020-09-10,232,Western Europe,25181
@@ -3011,7 +3011,7 @@ date,time,location,growth
 2020-09-11,233,Indian Subcontinent,98824
 2020-09-11,233,Latin America,73277
 2020-09-11,233,Middle East,16282
-2020-09-11,233,North America,37181
+2020-09-11,233,North America,37157
 2020-09-11,233,Northern Europe,3978
 2020-09-11,233,Other,69
 2020-09-11,233,Western Europe,26977
@@ -3024,7 +3024,7 @@ date,time,location,growth
 2020-09-12,234,Indian Subcontinent,99997
 2020-09-12,234,Latin America,76907
 2020-09-12,234,Middle East,14151
-2020-09-12,234,North America,48242
+2020-09-12,234,North America,48254
 2020-09-12,234,Northern Europe,4629
 2020-09-12,234,Other,87
 2020-09-12,234,Western Europe,29481
@@ -3037,7 +3037,7 @@ date,time,location,growth
 2020-09-13,235,Indian Subcontinent,96244
 2020-09-13,235,Latin America,65658
 2020-09-13,235,Middle East,15257
-2020-09-13,235,North America,41611
+2020-09-13,235,North America,41570
 2020-09-13,235,Northern Europe,4209
 2020-09-13,235,Other,70
 2020-09-13,235,Western Europe,8021
@@ -3050,7 +3050,7 @@ date,time,location,growth
 2020-09-14,236,Indian Subcontinent,94201
 2020-09-14,236,Latin America,44662
 2020-09-14,236,Middle East,14240
-2020-09-14,236,North America,35100
+2020-09-14,236,North America,35116
 2020-09-14,236,Northern Europe,4102
 2020-09-14,236,Other,71
 2020-09-14,236,Western Europe,6500
@@ -3063,7 +3063,7 @@ date,time,location,growth
 2020-09-15,237,Indian Subcontinent,86109
 2020-09-15,237,Latin America,42738
 2020-09-15,237,Middle East,17144
-2020-09-15,237,North America,35404
+2020-09-15,237,North America,35373
 2020-09-15,237,Northern Europe,3427
 2020-09-15,237,Other,61
 2020-09-15,237,Western Europe,56627
@@ -3076,7 +3076,7 @@ date,time,location,growth
 2020-09-16,238,Indian Subcontinent,92565
 2020-09-16,238,Latin America,65480
 2020-09-16,238,Middle East,15619
-2020-09-16,238,North America,39993
+2020-09-16,238,North America,40004
 2020-09-16,238,Northern Europe,4912
 2020-09-16,238,Other,71
 2020-09-16,238,Western Europe,24372
@@ -3089,7 +3089,7 @@ date,time,location,growth
 2020-09-17,239,Indian Subcontinent,100094
 2020-09-17,239,Latin America,67318
 2020-09-17,239,Middle East,18782
-2020-09-17,239,North America,39503
+2020-09-17,239,North America,39567
 2020-09-17,239,Northern Europe,4715
 2020-09-17,239,Other,76
 2020-09-17,239,Western Europe,29794
@@ -3102,7 +3102,7 @@ date,time,location,growth
 2020-09-18,240,Indian Subcontinent,98791
 2020-09-18,240,Latin America,68865
 2020-09-18,240,Middle East,17483
-2020-09-18,240,North America,45757
+2020-09-18,240,North America,45763
 2020-09-18,240,Northern Europe,5071
 2020-09-18,240,Other,43
 2020-09-18,240,Western Europe,31952
@@ -3115,7 +3115,7 @@ date,time,location,growth
 2020-09-19,241,Indian Subcontinent,95545
 2020-09-19,241,Latin America,71285
 2020-09-19,241,Middle East,15791
-2020-09-19,241,North America,49890
+2020-09-19,241,North America,49879
 2020-09-19,241,Northern Europe,5693
 2020-09-19,241,Other,103
 2020-09-19,241,Western Europe,38048
@@ -3128,7 +3128,7 @@ date,time,location,growth
 2020-09-20,242,Indian Subcontinent,94857
 2020-09-20,242,Latin America,63538
 2020-09-20,242,Middle East,15626
-2020-09-20,242,North America,44604
+2020-09-20,242,North America,44627
 2020-09-20,242,Northern Europe,5693
 2020-09-20,242,Other,69
 2020-09-20,242,Western Europe,8524
@@ -3141,7 +3141,7 @@ date,time,location,growth
 2020-09-21,243,Indian Subcontinent,89271
 2020-09-21,243,Latin America,42923
 2020-09-21,243,Middle East,16832
-2020-09-21,243,North America,37357
+2020-09-21,243,North America,37335
 2020-09-21,243,Northern Europe,5002
 2020-09-21,243,Other,61
 2020-09-21,243,Western Europe,7503
@@ -3154,7 +3154,7 @@ date,time,location,growth
 2020-09-22,244,Indian Subcontinent,77410
 2020-09-22,244,Latin America,37918
 2020-09-22,244,Middle East,14857
-2020-09-22,244,North America,54297
+2020-09-22,244,North America,54287
 2020-09-22,244,Northern Europe,5319
 2020-09-22,244,Other,95
 2020-09-22,244,Western Europe,69964
@@ -3167,7 +3167,7 @@ date,time,location,growth
 2020-09-23,245,Indian Subcontinent,85472
 2020-09-23,245,Latin America,57379
 2020-09-23,245,Middle East,16599
-2020-09-23,245,North America,40237
+2020-09-23,245,North America,40270
 2020-09-23,245,Northern Europe,7398
 2020-09-23,245,Other,66
 2020-09-23,245,Western Europe,30411
@@ -3180,7 +3180,7 @@ date,time,location,growth
 2020-09-24,246,Indian Subcontinent,89033
 2020-09-24,246,Latin America,33948
 2020-09-24,246,Middle East,25588
-2020-09-24,246,North America,39517
+2020-09-24,246,North America,39592
 2020-09-24,246,Northern Europe,7715
 2020-09-24,246,Other,65
 2020-09-24,246,Western Europe,22402
@@ -3193,7 +3193,7 @@ date,time,location,growth
 2020-09-25,247,Indian Subcontinent,88426
 2020-09-25,247,Latin America,98809
 2020-09-25,247,Middle East,21100
-2020-09-25,247,North America,45280
+2020-09-25,247,North America,45279
 2020-09-25,247,Northern Europe,8518
 2020-09-25,247,Other,63
 2020-09-25,247,Western Europe,49453
@@ -3206,7 +3206,7 @@ date,time,location,growth
 2020-09-26,248,Indian Subcontinent,87339
 2020-09-26,248,Latin America,71086
 2020-09-26,248,Middle East,18894
-2020-09-26,248,North America,52215
+2020-09-26,248,North America,52212
 2020-09-26,248,Northern Europe,8994
 2020-09-26,248,Other,46
 2020-09-26,248,Western Europe,40108
@@ -3219,7 +3219,7 @@ date,time,location,growth
 2020-09-27,249,Indian Subcontinent,90418
 2020-09-27,249,Latin America,53386
 2020-09-27,249,Middle East,22215
-2020-09-27,249,North America,45925
+2020-09-27,249,North America,45924
 2020-09-27,249,Northern Europe,7318
 2020-09-27,249,Other,46
 2020-09-27,249,Western Europe,9760
@@ -3232,7 +3232,7 @@ date,time,location,growth
 2020-09-28,250,Indian Subcontinent,84059
 2020-09-28,250,Latin America,41067
 2020-09-28,250,Middle East,16658
-2020-09-28,250,North America,38080
+2020-09-28,250,North America,38083
 2020-09-28,250,Northern Europe,6899
 2020-09-28,250,Other,50
 2020-09-28,250,Western Europe,9091
@@ -3245,7 +3245,7 @@ date,time,location,growth
 2020-09-29,251,Indian Subcontinent,72687
 2020-09-29,251,Latin America,39665
 2020-09-29,251,Middle East,14907
-2020-09-29,251,North America,35103
+2020-09-29,251,North America,35109
 2020-09-29,251,Northern Europe,5262
 2020-09-29,251,Other,48
 2020-09-29,251,Western Europe,67417
@@ -3258,7 +3258,7 @@ date,time,location,growth
 2020-09-30,252,Indian Subcontinent,82740
 2020-09-30,252,Latin America,59892
 2020-09-30,252,Middle East,17901
-2020-09-30,252,North America,43872
+2020-09-30,252,North America,43853
 2020-09-30,252,Northern Europe,9942
 2020-09-30,252,Other,54
 2020-09-30,252,Western Europe,22456
@@ -3271,7 +3271,7 @@ date,time,location,growth
 2020-10-01,253,Indian Subcontinent,88821
 2020-10-01,253,Latin America,62409
 2020-10-01,253,Middle East,23088
-2020-10-01,253,North America,43521
+2020-10-01,253,North America,43559
 2020-10-01,253,Northern Europe,8969
 2020-10-01,253,Other,127
 2020-10-01,253,Western Europe,46411
@@ -3284,7 +3284,7 @@ date,time,location,growth
 2020-10-02,254,Indian Subcontinent,83636
 2020-10-02,254,Latin America,65315
 2020-10-02,254,Middle East,22166
-2020-10-02,254,North America,46572
+2020-10-02,254,North America,46592
 2020-10-02,254,Northern Europe,9014
 2020-10-02,254,Other,43
 2020-10-02,254,Western Europe,36280
@@ -3297,7 +3297,7 @@ date,time,location,growth
 2020-10-03,255,Indian Subcontinent,81437
 2020-10-03,255,Latin America,30391
 2020-10-03,255,Middle East,18801
-2020-10-03,255,North America,56630
+2020-10-03,255,North America,56646
 2020-10-03,255,Northern Europe,9286
 2020-10-03,255,Other,42
 2020-10-03,255,Western Europe,38928
@@ -3310,7 +3310,7 @@ date,time,location,growth
 2020-10-04,256,Indian Subcontinent,77657
 2020-10-04,256,Latin America,86394
 2020-10-04,256,Middle East,18194
-2020-10-04,256,North America,51350
+2020-10-04,256,North America,51349
 2020-10-04,256,Northern Europe,14418
 2020-10-04,256,Other,53
 2020-10-04,256,Western Europe,14370
@@ -3323,7 +3323,7 @@ date,time,location,growth
 2020-10-05,257,Indian Subcontinent,75633
 2020-10-05,257,Latin America,28221
 2020-10-05,257,Middle East,16725
-2020-10-05,257,North America,37645
+2020-10-05,257,North America,37656
 2020-10-05,257,Northern Europe,24200
 2020-10-05,257,Other,56
 2020-10-05,257,Western Europe,12697
@@ -3336,7 +3336,7 @@ date,time,location,growth
 2020-10-06,258,Indian Subcontinent,64013
 2020-10-06,258,Latin America,41127
 2020-10-06,258,Middle East,19817
-2020-10-06,258,North America,42440
+2020-10-06,258,North America,42383
 2020-10-06,258,Northern Europe,14019
 2020-10-06,258,Other,41
 2020-10-06,258,Western Europe,73826
@@ -3349,7 +3349,7 @@ date,time,location,growth
 2020-10-07,259,Indian Subcontinent,74976
 2020-10-07,259,Latin America,71057
 2020-10-07,259,Middle East,20024
-2020-10-07,259,North America,44311
+2020-10-07,259,North America,44294
 2020-10-07,259,Northern Europe,17863
 2020-10-07,259,Other,34
 2020-10-07,259,Western Europe,37823
@@ -3362,7 +3362,7 @@ date,time,location,growth
 2020-10-08,260,Indian Subcontinent,80900
 2020-10-08,260,Latin America,64269
 2020-10-08,260,Middle East,19012
-2020-10-08,260,North America,51965
+2020-10-08,260,North America,51979
 2020-10-08,260,Northern Europe,16329
 2020-10-08,260,Other,49
 2020-10-08,260,Western Europe,48363
@@ -3375,7 +3375,7 @@ date,time,location,growth
 2020-10-09,261,Indian Subcontinent,72695
 2020-10-09,261,Latin America,60284
 2020-10-09,261,Middle East,18507
-2020-10-09,261,North America,58541
+2020-10-09,261,North America,58603
 2020-10-09,261,Northern Europe,20249
 2020-10-09,261,Other,33
 2020-10-09,261,Western Europe,55674
@@ -3388,7 +3388,7 @@ date,time,location,growth
 2020-10-10,262,Indian Subcontinent,75335
 2020-10-10,262,Latin America,58894
 2020-10-10,262,Middle East,15770
-2020-10-10,262,North America,60315
+2020-10-10,262,North America,60371
 2020-10-10,262,Northern Europe,16734
 2020-10-10,262,Other,108
 2020-10-10,262,Western Europe,59505
@@ -3401,7 +3401,7 @@ date,time,location,growth
 2020-10-11,263,Indian Subcontinent,76367
 2020-10-11,263,Latin America,60767
 2020-10-11,263,Middle East,13828
-2020-10-11,263,North America,56781
+2020-10-11,263,North America,56782
 2020-10-11,263,Northern Europe,17395
 2020-10-11,263,Other,80
 2020-10-11,263,Western Europe,26667
@@ -3414,7 +3414,7 @@ date,time,location,growth
 2020-10-12,264,Indian Subcontinent,68533
 2020-10-12,264,Latin America,38828
 2020-10-12,264,Middle East,13246
-2020-10-12,264,North America,46250
+2020-10-12,264,North America,46191
 2020-10-12,264,Northern Europe,14561
 2020-10-12,264,Other,49
 2020-10-12,264,Western Europe,22615
@@ -3427,7 +3427,7 @@ date,time,location,growth
 2020-10-13,265,Indian Subcontinent,57508
 2020-10-13,265,Latin America,31393
 2020-10-13,265,Middle East,16909
-2020-10-13,265,North America,42628
+2020-10-13,265,North America,42596
 2020-10-13,265,Northern Europe,15847
 2020-10-13,265,Other,68
 2020-10-13,265,Western Europe,99872
@@ -3440,7 +3440,7 @@ date,time,location,growth
 2020-10-14,266,Indian Subcontinent,65917
 2020-10-14,266,Latin America,35740
 2020-10-14,266,Middle East,18327
-2020-10-14,266,North America,56517
+2020-10-14,266,North America,56534
 2020-10-14,266,Northern Europe,21296
 2020-10-14,266,Other,98
 2020-10-14,266,Western Europe,58847
@@ -3453,7 +3453,7 @@ date,time,location,growth
 2020-10-15,267,Indian Subcontinent,70348
 2020-10-15,267,Latin America,52634
 2020-10-15,267,Middle East,18424
-2020-10-15,267,North America,62069
+2020-10-15,267,North America,62097
 2020-10-15,267,Northern Europe,22739
 2020-10-15,267,Other,118
 2020-10-15,267,Western Europe,71262
@@ -3466,7 +3466,7 @@ date,time,location,growth
 2020-10-16,268,Indian Subcontinent,65736
 2020-10-16,268,Latin America,62837
 2020-10-16,268,Middle East,18021
-2020-10-16,268,North America,65908
+2020-10-16,268,North America,65979
 2020-10-16,268,Northern Europe,22596
 2020-10-16,268,Other,77
 2020-10-16,268,Western Europe,85854
@@ -3479,7 +3479,7 @@ date,time,location,growth
 2020-10-17,269,Indian Subcontinent,64471
 2020-10-17,269,Latin America,61034
 2020-10-17,269,Middle East,16181
-2020-10-17,269,North America,71722
+2020-10-17,269,North America,71706
 2020-10-17,269,Northern Europe,18750
 2020-10-17,269,Other,104
 2020-10-17,269,Western Europe,84282
@@ -3492,7 +3492,7 @@ date,time,location,growth
 2020-10-18,270,Indian Subcontinent,63845
 2020-10-18,270,Latin America,51937
 2020-10-18,270,Middle East,14349
-2020-10-18,270,North America,57658
+2020-10-18,270,North America,57661
 2020-10-18,270,Northern Europe,18715
 2020-10-18,270,Other,148
 2020-10-18,270,Western Europe,39719
@@ -3505,7 +3505,7 @@ date,time,location,growth
 2020-10-19,271,Indian Subcontinent,57553
 2020-10-19,271,Latin America,25348
 2020-10-19,271,Middle East,14713
-2020-10-19,271,North America,51947
+2020-10-19,271,North America,51931
 2020-10-19,271,Northern Europe,19343
 2020-10-19,271,Other,137
 2020-10-19,271,Western Europe,37683
@@ -3518,7 +3518,7 @@ date,time,location,growth
 2020-10-20,272,Indian Subcontinent,49186
 2020-10-20,272,Latin America,51865
 2020-10-20,272,Middle East,15807
-2020-10-20,272,North America,61694
+2020-10-20,272,North America,61725
 2020-10-20,272,Northern Europe,20892
 2020-10-20,272,Other,118
 2020-10-20,272,Western Europe,160645
@@ -3531,7 +3531,7 @@ date,time,location,growth
 2020-10-21,273,Indian Subcontinent,56391
 2020-10-21,273,Latin America,54359
 2020-10-21,273,Middle East,17601
-2020-10-21,273,North America,62553
+2020-10-21,273,North America,62568
 2020-10-21,273,Northern Europe,27254
 2020-10-21,273,Other,130
 2020-10-21,273,Western Europe,79421
@@ -3544,7 +3544,7 @@ date,time,location,growth
 2020-10-22,274,Indian Subcontinent,58441
 2020-10-22,274,Latin America,58798
 2020-10-22,274,Middle East,18735
-2020-10-22,274,North America,65422
+2020-10-22,274,North America,65448
 2020-10-22,274,Northern Europe,30472
 2020-10-22,274,Other,124
 2020-10-22,274,Western Europe,105313
@@ -3557,7 +3557,7 @@ date,time,location,growth
 2020-10-23,275,Indian Subcontinent,57227
 2020-10-23,275,Latin America,60163
 2020-10-23,275,Middle East,18879
-2020-10-23,275,North America,74252
+2020-10-23,275,North America,74271
 2020-10-23,275,Northern Europe,25841
 2020-10-23,275,Other,159
 2020-10-23,275,Western Europe,123564
@@ -3570,7 +3570,7 @@ date,time,location,growth
 2020-10-24,276,Indian Subcontinent,56730
 2020-10-24,276,Latin America,59546
 2020-10-24,276,Middle East,18323
-2020-10-24,276,North America,86659
+2020-10-24,276,North America,86738
 2020-10-24,276,Northern Europe,25129
 2020-10-24,276,Other,169
 2020-10-24,276,Western Europe,145312
@@ -3583,10 +3583,10 @@ date,time,location,growth
 2020-10-25,277,Indian Subcontinent,52508
 2020-10-25,277,Latin America,56661
 2020-10-25,277,Middle East,16524
-2020-10-25,277,North America,85250
+2020-10-25,277,North America,85403
 2020-10-25,277,Northern Europe,25934
 2020-10-25,277,Other,263
-2020-10-25,277,Western Europe,63200
+2020-10-25,277,Western Europe,63225
 2020-10-26,278,Africa,9085
 2020-10-26,278,Australasia,7780
 2020-10-26,278,Central America,5729
@@ -3594,12 +3594,12 @@ date,time,location,growth
 2020-10-26,278,Eastern Europe,60345
 2020-10-26,278,Eurasia,8375
 2020-10-26,278,Indian Subcontinent,47581
-2020-10-26,278,Latin America,28441
+2020-10-26,278,Latin America,41934
 2020-10-26,278,Middle East,17571
-2020-10-26,278,North America,63612
+2020-10-26,278,North America,63436
 2020-10-26,278,Northern Europe,23049
 2020-10-26,278,Other,186
-2020-10-26,278,Western Europe,101926
+2020-10-26,278,Western Europe,56504
 2020-10-27,279,Africa,10723
 2020-10-27,279,Australasia,7515
 2020-10-27,279,Central America,7288
@@ -3607,9 +3607,22 @@ date,time,location,growth
 2020-10-27,279,Eastern Europe,57128
 2020-10-27,279,Eurasia,6535
 2020-10-27,279,Indian Subcontinent,39324
-2020-10-27,279,Latin America,53725
+2020-10-27,279,Latin America,40232
 2020-10-27,279,Middle East,16995
-2020-10-27,279,North America,70883
+2020-10-27,279,North America,70916
 2020-10-27,279,Northern Europe,24367
 2020-10-27,279,Other,0
-2020-10-27,279,Western Europe,196478
+2020-10-27,279,Western Europe,241875
+2020-10-28,280,Africa,8645
+2020-10-28,280,Australasia,7361
+2020-10-28,280,Central America,8944
+2020-10-28,280,East Asia,1413
+2020-10-28,280,Eastern Europe,73737
+2020-10-28,280,Eurasia,7267
+2020-10-28,280,Indian Subcontinent,46608
+2020-10-28,280,Latin America,57548
+2020-10-28,280,Middle East,22122
+2020-10-28,280,North America,75970
+2020-10-28,280,Northern Europe,30737
+2020-10-28,280,Other,0
+2020-10-28,280,Western Europe,125315
