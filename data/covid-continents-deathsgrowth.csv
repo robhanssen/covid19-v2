@@ -3076,7 +3076,7 @@ date,time,location,growth
 2020-09-16,238,Indian Subcontinent,1338
 2020-09-16,238,Latin America,1728
 2020-09-16,238,Middle East,291
-2020-09-16,238,North America,1298
+2020-09-16,238,North America,1300
 2020-09-16,238,Northern Europe,37
 2020-09-16,238,Other,1
 2020-09-16,238,Western Europe,242
@@ -3271,7 +3271,7 @@ date,time,location,growth
 2020-10-01,253,Indian Subcontinent,1218
 2020-10-01,253,Latin America,1828
 2020-10-01,253,Middle East,341
-2020-10-01,253,North America,952
+2020-10-01,253,North America,953
 2020-10-01,253,Northern Europe,74
 2020-10-01,253,Other,0
 2020-10-01,253,Western Europe,538
@@ -3544,7 +3544,7 @@ date,time,location,growth
 2020-10-22,274,Indian Subcontinent,738
 2020-10-22,274,Latin America,1366
 2020-10-22,274,Middle East,466
-2020-10-22,274,North America,1158
+2020-10-22,274,North America,1159
 2020-10-22,274,Northern Europe,210
 2020-10-22,274,Other,0
 2020-10-22,274,Western Europe,498
@@ -3622,7 +3622,7 @@ date,time,location,growth
 2020-10-28,280,Indian Subcontinent,550
 2020-10-28,280,Latin America,1322
 2020-10-28,280,Middle East,529
-2020-10-28,280,North America,1011
+2020-10-28,280,North America,1012
 2020-10-28,280,Northern Europe,367
 2020-10-28,280,Other,0
 2020-10-28,280,Western Europe,1348
@@ -3635,7 +3635,7 @@ date,time,location,growth
 2020-10-29,281,Indian Subcontinent,562
 2020-10-29,281,Latin America,1177
 2020-10-29,281,Middle East,561
-2020-10-29,281,North America,1026
+2020-10-29,281,North America,1021
 2020-10-29,281,Northern Europe,335
 2020-10-29,281,Other,10
 2020-10-29,281,Western Europe,1013
@@ -3652,3 +3652,16 @@ date,time,location,growth
 2020-10-30,282,Northern Europe,302
 2020-10-30,282,Other,0
 2020-10-30,282,Western Europe,987
+2020-10-31,283,Africa,292
+2020-10-31,283,Australasia,142
+2020-10-31,283,Central America,568
+2020-10-31,283,East Asia,25
+2020-10-31,283,Eastern Europe,1270
+2020-10-31,283,Eurasia,133
+2020-10-31,283,Indian Subcontinent,582
+2020-10-31,283,Latin America,1489
+2020-10-31,283,Middle East,508
+2020-10-31,283,North America,1066
+2020-10-31,283,Northern Europe,304
+2020-10-31,283,Other,5
+2020-10-31,283,Western Europe,1455
