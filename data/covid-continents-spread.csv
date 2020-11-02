@@ -2274,11 +2274,11 @@ date,time,location,count
 2020-10-25,278,Latin America,9516388
 2020-10-26,279,Latin America,9556620
 2020-10-27,280,Latin America,9614168
-2020-10-28,281,Latin America,9672329
-2020-10-29,282,Latin America,9725163
-2020-10-30,283,Latin America,9772624
-2020-10-31,284,Latin America,9829486
-2020-11-01,285,Latin America,9861516
+2020-10-28,281,Latin America,9672328
+2020-10-29,282,Latin America,9730230
+2020-10-30,283,Latin America,9782653
+2020-10-31,284,Latin America,9829861
+2020-11-01,285,Latin America,9862070
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -2847,7 +2847,7 @@ date,time,location,count
 2020-10-28,281,North America,9084779
 2020-10-29,282,North America,9176317
 2020-10-30,283,North America,9279194
-2020-10-31,284,North America,9362795
+2020-10-31,284,North America,9370694
 2020-11-01,285,North America,9446624
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
