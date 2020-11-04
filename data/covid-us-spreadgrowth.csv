@@ -861,7 +861,7 @@ date,time,location,growth
 2020-05-25,124,South,4036
 2020-05-25,124,South West,1727
 2020-05-26,125,Mid West,4818
-2020-05-26,125,Mountain West,291
+2020-05-26,125,Mountain West,304
 2020-05-26,125,North East,4237
 2020-05-26,125,Other,186
 2020-05-26,125,Pacific West,2663
@@ -882,7 +882,7 @@ date,time,location,growth
 2020-05-28,127,South,4685
 2020-05-28,127,South West,1888
 2020-05-29,128,Mid West,5095
-2020-05-29,128,Mountain West,757
+2020-05-29,128,Mountain West,758
 2020-05-29,128,North East,5570
 2020-05-29,128,Other,176
 2020-05-29,128,Pacific West,3164
@@ -973,7 +973,7 @@ date,time,location,growth
 2020-06-10,140,South,6190
 2020-06-10,140,South West,2406
 2020-06-11,141,Mid West,3087
-2020-06-11,141,Mountain West,685
+2020-06-11,141,Mountain West,686
 2020-06-11,141,North East,2907
 2020-06-11,141,Other,208
 2020-06-11,141,Pacific West,3131
@@ -1057,7 +1057,7 @@ date,time,location,growth
 2020-06-22,152,South,9055
 2020-06-22,152,South West,5962
 2020-06-23,153,Mid West,3234
-2020-06-23,153,Mountain West,1197
+2020-06-23,153,Mountain West,1198
 2020-06-23,153,North East,2219
 2020-06-23,153,Other,77
 2020-06-23,153,Pacific West,6457
@@ -1099,7 +1099,7 @@ date,time,location,growth
 2020-06-28,158,South,18408
 2020-06-28,158,South West,9397
 2020-06-29,159,Mid West,4513
-2020-06-29,159,Mountain West,1613
+2020-06-29,159,Mountain West,1614
 2020-06-29,159,North East,2043
 2020-06-29,159,Other,155
 2020-06-29,159,Pacific West,5449
@@ -1176,7 +1176,7 @@ date,time,location,growth
 2020-07-09,169,South,25150
 2020-07-09,169,South West,12713
 2020-07-10,170,Mid West,7418
-2020-07-10,170,Mountain West,2196
+2020-07-10,170,Mountain West,2197
 2020-07-10,170,North East,2765
 2020-07-10,170,Other,178
 2020-07-10,170,Pacific West,11023
@@ -1407,7 +1407,7 @@ date,time,location,growth
 2020-08-11,202,South,14211
 2020-08-11,202,South West,6982
 2020-08-12,203,Mid West,8511
-2020-08-12,203,Mountain West,1924
+2020-08-12,203,Mountain West,1925
 2020-08-12,203,North East,3131
 2020-08-12,203,Other,731
 2020-08-12,203,Pacific West,5678
@@ -1491,7 +1491,7 @@ date,time,location,growth
 2020-08-23,214,South,15094
 2020-08-23,214,South West,4920
 2020-08-24,215,Mid West,7586
-2020-08-24,215,Mountain West,1366
+2020-08-24,215,Mountain West,1367
 2020-08-24,215,North East,2030
 2020-08-24,215,Other,395
 2020-08-24,215,Pacific West,5800
@@ -1715,7 +1715,7 @@ date,time,location,growth
 2020-09-24,246,South,12778
 2020-09-24,246,South West,2185
 2020-09-25,247,Mid West,13919
-2020-09-25,247,Mountain West,3092
+2020-09-25,247,Mountain West,3093
 2020-09-25,247,North East,3503
 2020-09-25,247,Other,1266
 2020-09-25,247,Pacific West,4211
@@ -1771,7 +1771,7 @@ date,time,location,growth
 2020-10-02,254,South,12829
 2020-10-02,254,South West,4648
 2020-10-03,255,Mid West,19237
-2020-10-03,255,Mountain West,3721
+2020-10-03,255,Mountain West,3722
 2020-10-03,255,North East,6140
 2020-10-03,255,Other,745
 2020-10-03,255,Pacific West,5033
@@ -1806,14 +1806,14 @@ date,time,location,growth
 2020-10-07,259,South,11944
 2020-10-07,259,South West,5429
 2020-10-08,260,Mid West,15955
-2020-10-08,260,Mountain West,3684
+2020-10-08,260,Mountain West,3685
 2020-10-08,260,North East,4597
 2020-10-08,260,Other,82
 2020-10-08,260,Pacific West,4796
 2020-10-08,260,South,15076
 2020-10-08,260,South West,6150
 2020-10-09,261,Mid West,18515
-2020-10-09,261,Mountain West,4323
+2020-10-09,261,Mountain West,4324
 2020-10-09,261,North East,6738
 2020-10-09,261,Other,707
 2020-10-09,261,Pacific West,4775
@@ -1862,7 +1862,7 @@ date,time,location,growth
 2020-10-15,267,South,14193
 2020-10-15,267,South West,7398
 2020-10-16,268,Mid West,22913
-2020-10-16,268,Mountain West,4934
+2020-10-16,268,Mountain West,4933
 2020-10-16,268,North East,5844
 2020-10-16,268,Other,693
 2020-10-16,268,Pacific West,4245
@@ -1994,3 +1994,10 @@ date,time,location,growth
 2020-11-03,286,Pacific West,6550
 2020-11-03,286,South,15521
 2020-11-03,286,South West,7025
+2020-11-04,287,Mid West,36295
+2020-11-04,287,Mountain West,7682
+2020-11-04,287,North East,10583
+2020-11-04,287,Other,1050
+2020-11-04,287,Pacific West,6607
+2020-11-04,287,South,18499
+2020-11-04,287,South West,10814
