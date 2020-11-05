@@ -286,6 +286,7 @@ date,time,location,count
 2020-11-01,285,Africa,43084
 2020-11-02,286,Africa,43298
 2020-11-03,287,Africa,43614
+2020-11-04,288,Africa,43849
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,0.1
 2020-01-24,3,Australasia,0.1
@@ -573,6 +574,7 @@ date,time,location,count
 2020-11-01,285,Australasia,23695
 2020-11-02,286,Australasia,23853
 2020-11-03,287,Australasia,24041
+2020-11-04,288,Australasia,24234
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -860,6 +862,7 @@ date,time,location,count
 2020-11-01,285,Central America,103593
 2020-11-02,286,Central America,103848
 2020-11-03,287,Central America,104401
+2020-11-04,288,Central America,105097
 2020-01-22,1,East Asia,17
 2020-01-23,2,East Asia,18
 2020-01-24,3,East Asia,26
@@ -1147,6 +1150,7 @@ date,time,location,count
 2020-11-01,285,East Asia,8047
 2020-11-02,286,East Asia,8086
 2020-11-03,287,East Asia,8115
+2020-11-04,288,East Asia,8152
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1434,6 +1438,7 @@ date,time,location,count
 2020-11-01,285,Eastern Europe,62850
 2020-11-02,286,Eastern Europe,63836
 2020-11-03,287,Eastern Europe,65277
+2020-11-04,288,Eastern Europe,66922
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -1721,6 +1726,7 @@ date,time,location,count
 2020-11-01,285,Eurasia,16385
 2020-11-02,286,Eurasia,16553
 2020-11-03,287,Eurasia,16701
+2020-11-04,288,Eurasia,16851
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -2008,6 +2014,7 @@ date,time,location,count
 2020-11-01,285,Indian Subcontinent,136940
 2020-11-02,286,Indian Subcontinent,137474
 2020-11-03,287,Indian Subcontinent,138028
+2020-11-04,288,Indian Subcontinent,138784
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -2295,6 +2302,7 @@ date,time,location,count
 2020-11-01,285,Latin America,298462
 2020-11-02,286,Latin America,299360
 2020-11-03,287,Latin America,300286
+2020-11-04,288,Latin America,301786
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -2582,6 +2590,7 @@ date,time,location,count
 2020-11-01,285,Middle East,60205
 2020-11-02,286,Middle East,60819
 2020-11-03,287,Middle East,61422
+2020-11-04,288,Middle East,62019
 2020-01-22,1,North America,0.1
 2020-01-23,2,North America,0.1
 2020-01-24,3,North America,0.1
@@ -2869,6 +2878,7 @@ date,time,location,count
 2020-11-01,285,North America,241229
 2020-11-02,286,North America,241752
 2020-11-03,287,North America,242954
+2020-11-04,288,North America,244102
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -3156,6 +3166,7 @@ date,time,location,count
 2020-11-01,285,Northern Europe,56348
 2020-11-02,286,Northern Europe,56495
 2020-11-03,287,Northern Europe,56944
+2020-11-04,288,Northern Europe,57488
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -3443,6 +3454,7 @@ date,time,location,count
 2020-11-01,285,Other,785
 2020-11-02,286,Other,795
 2020-11-03,287,Other,812
+2020-11-04,288,Other,821
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -3718,15 +3730,16 @@ date,time,location,count
 2020-10-20,273,Western Europe,138140
 2020-10-21,274,Western Europe,138638
 2020-10-22,275,Western Europe,139295
-2020-10-23,276,Western Europe,140155
+2020-10-23,276,Western Europe,140125
 2020-10-24,277,Western Europe,140519
 2020-10-25,278,Western Europe,140820
 2020-10-26,279,Western Europe,141983
 2020-10-27,280,Western Europe,143331
-2020-10-28,281,Western Europe,144344
+2020-10-28,281,Western Europe,144303
 2020-10-29,282,Western Europe,145331
 2020-10-30,283,Western Europe,146786
 2020-10-31,284,Western Europe,147715
-2020-11-01,285,Western Europe,148461
+2020-11-01,285,Western Europe,148433
 2020-11-02,286,Western Europe,149950
 2020-11-03,287,Western Europe,151140
+2020-11-04,288,Western Europe,155097

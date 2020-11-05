@@ -286,6 +286,7 @@ date,time,location,count
 2020-11-01,285,Africa,1790505
 2020-11-02,286,Africa,1798123
 2020-11-03,287,Africa,1808931
+2020-11-04,288,Africa,1822932
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -573,6 +574,7 @@ date,time,location,count
 2020-11-01,285,Australasia,971371
 2020-11-02,286,Australasia,978340
 2020-11-03,287,Australasia,985366
+2020-11-04,288,Australasia,991884
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -860,6 +862,7 @@ date,time,location,count
 2020-11-01,285,Central America,1423121
 2020-11-02,286,Central America,1428989
 2020-11-03,287,Central America,1436607
+2020-11-04,288,Central America,1444620
 2020-01-22,1,East Asia,554
 2020-01-23,2,East Asia,650
 2020-01-24,3,East Asia,932
@@ -1147,6 +1150,7 @@ date,time,location,count
 2020-11-01,285,East Asia,410350
 2020-11-02,286,East Asia,413953
 2020-11-03,287,East Asia,418161
+2020-11-04,288,East Asia,422279
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1434,6 +1438,7 @@ date,time,location,count
 2020-11-01,285,Eastern Europe,3633914
 2020-11-02,286,Eastern Europe,3701552
 2020-11-03,287,Eastern Europe,3787796
+2020-11-04,288,Eastern Europe,3890943
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -1721,6 +1726,7 @@ date,time,location,count
 2020-11-01,285,Eurasia,816846
 2020-11-02,286,Eurasia,824380
 2020-11-03,287,Eurasia,832905
+2020-11-04,288,Eurasia,842488
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -2008,6 +2014,7 @@ date,time,location,count
 2020-11-01,285,Indian Subcontinent,9026573
 2020-11-02,286,Indian Subcontinent,9068195
 2020-11-03,287,Indian Subcontinent,9117926
+2020-11-04,288,Indian Subcontinent,9171484
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -2295,6 +2302,7 @@ date,time,location,count
 2020-11-01,285,Latin America,9862070
 2020-11-02,286,Latin America,9893078
 2020-11-03,287,Latin America,9926271
+2020-11-04,288,Latin America,9982993
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -2582,6 +2590,7 @@ date,time,location,count
 2020-11-01,285,Middle East,2569591
 2020-11-02,286,Middle East,2592911
 2020-11-03,287,Middle East,2616453
+2020-11-04,288,Middle East,2639744
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -2869,6 +2878,7 @@ date,time,location,count
 2020-11-01,285,North America,9446647
 2020-11-02,286,North America,9534265
 2020-11-03,287,North America,9630533
+2020-11-04,288,North America,9736146
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -3156,6 +3166,7 @@ date,time,location,count
 2020-11-01,285,Northern Europe,1340878
 2020-11-02,286,Northern Europe,1363419
 2020-11-03,287,Northern Europe,1397352
+2020-11-04,288,Northern Europe,1429234
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -3443,6 +3454,7 @@ date,time,location,count
 2020-11-01,285,Other,25339
 2020-11-02,286,Other,26190
 2020-11-03,287,Other,27068
+2020-11-04,288,Other,27614
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -3718,15 +3730,16 @@ date,time,location,count
 2020-10-20,273,Western Europe,3576280
 2020-10-21,274,Western Europe,3681593
 2020-10-22,275,Western Europe,3805157
-2020-10-23,276,Western Europe,3950469
-2020-10-24,277,Western Europe,4013694
+2020-10-23,276,Western Europe,3941709
+2020-10-24,277,Western Europe,4006704
 2020-10-25,278,Western Europe,4070198
 2020-10-26,279,Western Europe,4324760
 2020-10-27,280,Western Europe,4450959
-2020-10-28,281,Western Europe,4602961
+2020-10-28,281,Western Europe,4595610
 2020-10-29,282,Western Europe,4766941
 2020-10-30,283,Western Europe,4945961
 2020-10-31,284,Western Europe,5065571
-2020-11-01,285,Western Europe,5192594
+2020-11-01,285,Western Europe,5184880
 2020-11-02,286,Western Europe,5335955
 2020-11-03,287,Western Europe,5420011
+2020-11-04,288,Western Europe,5688314
