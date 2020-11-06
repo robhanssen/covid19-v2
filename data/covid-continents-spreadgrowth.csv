@@ -3703,7 +3703,7 @@ date,time,location,growth
 2020-11-03,286,North America,87618
 2020-11-03,286,Northern Europe,22541
 2020-11-03,286,Other,851
-2020-11-03,286,Western Europe,151075
+2020-11-03,286,Western Europe,202871
 2020-11-04,287,Africa,10808
 2020-11-04,287,Australasia,7026
 2020-11-04,287,Central America,7618
@@ -3716,7 +3716,7 @@ date,time,location,growth
 2020-11-04,287,North America,96268
 2020-11-04,287,Northern Europe,33933
 2020-11-04,287,Other,878
-2020-11-04,287,Western Europe,84056
+2020-11-04,287,Western Europe,120043
 2020-11-05,288,Africa,14001
 2020-11-05,288,Australasia,6518
 2020-11-05,288,Central America,8013
@@ -3729,4 +3729,17 @@ date,time,location,growth
 2020-11-05,288,North America,105613
 2020-11-05,288,Northern Europe,31882
 2020-11-05,288,Other,546
-2020-11-05,288,Western Europe,268303
+2020-11-05,288,Western Europe,180520
+2020-11-06,289,Africa,15302
+2020-11-06,289,Australasia,7683
+2020-11-06,289,Central America,9057
+2020-11-06,289,East Asia,4358
+2020-11-06,289,Eastern Europe,102116
+2020-11-06,289,Eurasia,9349
+2020-11-06,289,Indian Subcontinent,51360
+2020-11-06,289,Latin America,27754
+2020-11-06,289,Middle East,23646
+2020-11-06,289,North America,124672
+2020-11-06,289,Northern Europe,32349
+2020-11-06,289,Other,661
+2020-11-06,289,Western Europe,181107
