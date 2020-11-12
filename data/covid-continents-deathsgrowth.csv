@@ -3791,7 +3791,7 @@ date,time,location,growth
 2020-11-10,293,Indian Subcontinent,513
 2020-11-10,293,Latin America,901
 2020-11-10,293,Middle East,633
-2020-11-10,293,North America,522
+2020-11-10,293,North America,735
 2020-11-10,293,Northern Europe,210
 2020-11-10,293,Other,36
 2020-11-10,293,Western Europe,1957
@@ -3804,7 +3804,20 @@ date,time,location,growth
 2020-11-11,294,Indian Subcontinent,557
 2020-11-11,294,Latin America,731
 2020-11-11,294,Middle East,669
-2020-11-11,294,North America,1488
+2020-11-11,294,North America,1509
 2020-11-11,294,Northern Europe,599
 2020-11-11,294,Other,5
 2020-11-11,294,Western Europe,1678
+2020-11-12,295,Africa,332
+2020-11-12,295,Australasia,145
+2020-11-12,295,Central America,641
+2020-11-12,295,East Asia,33
+2020-11-12,295,Eastern Europe,1906
+2020-11-12,295,Eurasia,221
+2020-11-12,295,Indian Subcontinent,612
+2020-11-12,295,Latin America,1278
+2020-11-12,295,Middle East,659
+2020-11-12,295,North America,1947
+2020-11-12,295,Northern Europe,644
+2020-11-12,295,Other,4
+2020-11-12,295,Western Europe,3706
