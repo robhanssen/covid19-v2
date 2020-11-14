@@ -3713,7 +3713,7 @@ date,time,location,growth
 2020-11-04,287,Indian Subcontinent,554
 2020-11-04,287,Latin America,926
 2020-11-04,287,Middle East,603
-2020-11-04,287,North America,1193
+2020-11-04,287,North America,1643
 2020-11-04,287,Northern Europe,420
 2020-11-04,287,Other,17
 2020-11-04,287,Western Europe,1613
@@ -3739,7 +3739,7 @@ date,time,location,growth
 2020-11-06,289,Indian Subcontinent,728
 2020-11-06,289,Latin America,620
 2020-11-06,289,Middle East,588
-2020-11-06,289,North America,1207
+2020-11-06,289,North America,1209
 2020-11-06,289,Northern Europe,400
 2020-11-06,289,Other,6
 2020-11-06,289,Western Europe,1794
@@ -3765,7 +3765,7 @@ date,time,location,growth
 2020-11-08,291,Indian Subcontinent,603
 2020-11-08,291,Latin America,837
 2020-11-08,291,Middle East,573
-2020-11-08,291,North America,1065
+2020-11-08,291,North America,1067
 2020-11-08,291,Northern Europe,432
 2020-11-08,291,Other,0
 2020-11-08,291,Western Europe,1243
@@ -3804,7 +3804,7 @@ date,time,location,growth
 2020-11-11,294,Indian Subcontinent,557
 2020-11-11,294,Latin America,731
 2020-11-11,294,Middle East,669
-2020-11-11,294,North America,1461
+2020-11-11,294,North America,1473
 2020-11-11,294,Northern Europe,599
 2020-11-11,294,Other,5
 2020-11-11,294,Western Europe,1678
@@ -3817,7 +3817,7 @@ date,time,location,growth
 2020-11-12,295,Indian Subcontinent,612
 2020-11-12,295,Latin America,1278
 2020-11-12,295,Middle East,659
-2020-11-12,295,North America,1436
+2020-11-12,295,North America,1443
 2020-11-12,295,Northern Europe,644
 2020-11-12,295,Other,4
 2020-11-12,295,Western Europe,3706
@@ -3830,7 +3830,20 @@ date,time,location,growth
 2020-11-13,296,Indian Subcontinent,609
 2020-11-13,296,Latin America,1501
 2020-11-13,296,Middle East,641
-2020-11-13,296,North America,999
+2020-11-13,296,North America,1004
 2020-11-13,296,Northern Europe,623
 2020-11-13,296,Other,8
 2020-11-13,296,Western Europe,1725
+2020-11-14,297,Africa,280
+2020-11-14,297,Australasia,162
+2020-11-14,297,Central America,657
+2020-11-14,297,East Asia,27
+2020-11-14,297,Eastern Europe,1783
+2020-11-14,297,Eurasia,185
+2020-11-14,297,Indian Subcontinent,45
+2020-11-14,297,Latin America,1038
+2020-11-14,297,Middle East,649
+2020-11-14,297,North America,1488
+2020-11-14,297,Northern Europe,455
+2020-11-14,297,Other,13
+2020-11-14,297,Western Europe,1593

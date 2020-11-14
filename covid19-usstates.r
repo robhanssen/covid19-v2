@@ -156,18 +156,18 @@ cases <- infectiongrowth %>% group_by(date) %>% summarise(cases=sum(growth))
 
 casesdeaths <- deaths %>% inner_join(cases)
 
-correction = 14.5
+correction = 60
 avdays = 7
 
 totalcases = sum(casesdeaths$cases)
 totaldeaths  = sum(casesdeaths$deaths)
 
-casesdeaths %>% ggplot + aes(date, cases) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(cases,avdays, na.pad=TRUE)), color="blue") + 
+casesdeaths %>% ggplot + aes(date, cases) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(cases,avdays, na.pad=TRUE)), size=2, color="blue") + 
                         scale_y_continuous(sec.axis = sec_axis(~ ./correction, breaks=seq(0,6000,1000))) + #scale_y_log10(limit=c(10,100000))+ 
                         scale_x_date(date_breaks="1 month", date_labels = "%b %d") + 
                         labs(caption=capt) + xlab("Date") + ylab("Daily incremental number of confirmed cases or deaths") +
                         ggtitle(paste("US daily cases and deaths with", avdays,"days average line")) + 
-                        geom_line(aes(date, correction*deaths), color="red", linetype="dotted") + geom_line(aes(y=rollmean(correction*deaths,avdays,na.pad=TRUE)), color="red") +
+                        geom_line(aes(date, correction*deaths), color="red", linetype="dotted") + geom_line(aes(y=rollmean(correction*deaths,avdays,na.pad=TRUE)), size=2, color="red") +
                         annotate("text",x=as.Date("2020-03-15", format="%Y-%m-%d"),y=20000,label="cases\n<-----", color="blue") + 
                         annotate("text",x=as.Date("2020-04-10", format="%Y-%m-%d"),y=10000,label="deaths\n------>", color="red") +
                         annotate("text",x=as.Date("2020-02-28", format="%Y-%m-%d"),y=75000,label=paste("Total cases:", format(totalcases, big.mark=" ")), color="blue") + 
