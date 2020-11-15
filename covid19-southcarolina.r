@@ -114,7 +114,7 @@ deaths <- covid_growth
 
 casesdeaths <- deaths %>% inner_join(infections) #%>% group_by(date,time) %>% summarize(deaths=sum(deaths),cases=sum(cases))
 
-View(casesdeaths)
+
 correction = 14.5
 avdays = 7
 
