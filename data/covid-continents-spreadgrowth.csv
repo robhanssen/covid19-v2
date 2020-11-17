@@ -3794,7 +3794,7 @@ date,time,location,growth
 2020-11-10,293,North America,124815
 2020-11-10,293,Northern Europe,24412
 2020-11-10,293,Other,1858
-2020-11-10,293,Western Europe,142581
+2020-11-10,293,Western Europe,142316
 2020-11-11,294,Africa,13077
 2020-11-11,294,Australasia,7237
 2020-11-11,294,Central America,8950
@@ -3807,7 +3807,7 @@ date,time,location,growth
 2020-11-11,294,North America,144735
 2020-11-11,294,Northern Europe,39741
 2020-11-11,294,Other,596
-2020-11-11,294,Western Europe,90872
+2020-11-11,294,Western Europe,112326
 2020-11-12,295,Africa,14146
 2020-11-12,295,Australasia,7523
 2020-11-12,295,Central America,11164
@@ -3820,7 +3820,7 @@ date,time,location,growth
 2020-11-12,295,North America,147214
 2020-11-12,295,Northern Europe,31715
 2020-11-12,295,Other,733
-2020-11-12,295,Western Europe,186742
+2020-11-12,295,Western Europe,165357
 2020-11-13,296,Africa,15781
 2020-11-13,296,Australasia,7658
 2020-11-13,296,Central America,9708
@@ -3833,7 +3833,7 @@ date,time,location,growth
 2020-11-13,296,North America,166260
 2020-11-13,296,Northern Europe,42960
 2020-11-13,296,Other,767
-2020-11-13,296,Western Europe,120451
+2020-11-13,296,Western Europe,153499
 2020-11-14,297,Africa,14445
 2020-11-14,297,Australasia,9802
 2020-11-14,297,Central America,9342
@@ -3846,7 +3846,7 @@ date,time,location,growth
 2020-11-14,297,North America,181993
 2020-11-14,297,Northern Europe,38612
 2020-11-14,297,Other,1099
-2020-11-14,297,Western Europe,122885
+2020-11-14,297,Western Europe,146505
 2020-11-15,298,Africa,13943
 2020-11-15,298,Australasia,9330
 2020-11-15,298,Central America,9095
@@ -3859,7 +3859,7 @@ date,time,location,growth
 2020-11-15,298,North America,170981
 2020-11-15,298,Northern Europe,31327
 2020-11-15,298,Other,0
-2020-11-15,298,Western Europe,81027
+2020-11-15,298,Western Europe,113086
 2020-11-16,299,Africa,12693
 2020-11-16,299,Australasia,7857
 2020-11-16,299,Central America,5404
@@ -3872,4 +3872,17 @@ date,time,location,growth
 2020-11-16,299,North America,137336
 2020-11-16,299,Northern Europe,28541
 2020-11-16,299,Other,1266
-2020-11-16,299,Western Europe,60966
+2020-11-16,299,Western Europe,88194
+2020-11-17,300,Africa,10087
+2020-11-17,300,Australasia,7561
+2020-11-17,300,Central America,5874
+2020-11-17,300,East Asia,2512
+2020-11-17,300,Eastern Europe,83301
+2020-11-17,300,Eurasia,9196
+2020-11-17,300,Indian Subcontinent,33155
+2020-11-17,300,Latin America,33431
+2020-11-17,300,Middle East,27001
+2020-11-17,300,North America,172072
+2020-11-17,300,Northern Europe,24636
+2020-11-17,300,Other,688
+2020-11-17,300,Western Europe,126479
