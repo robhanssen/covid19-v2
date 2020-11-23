@@ -139,7 +139,7 @@ covid_growth %>% ggplot + aes(date, growth, color=location) + geom_line(linetype
                         facet_wrap(.~location)
 
 ggsave("graphs/covid-us-deathsgrowth.pdf", device="pdf")
-write_csv(spread, "data/covid-us-deathsgrowth.csv")
+write_csv(covid_growth, "data/covid-us-deathsgrowth.csv")
 
 
 # save variable for later use
