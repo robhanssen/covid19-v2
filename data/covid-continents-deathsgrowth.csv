@@ -3940,7 +3940,7 @@ date,time,location,growth
 2020-11-21,304,Western Europe,2997
 2020-11-22,305,Africa,314
 2020-11-22,305,Australasia,181
-2020-11-22,305,Central America,36
+2020-11-22,305,Central America,586
 2020-11-22,305,East Asia,11
 2020-11-22,305,Eastern Europe,1896
 2020-11-22,305,Eurasia,231
@@ -3953,7 +3953,7 @@ date,time,location,growth
 2020-11-22,305,Western Europe,1621
 2020-11-23,306,Africa,290
 2020-11-23,306,Australasia,173
-2020-11-23,306,Central America,875
+2020-11-23,306,Central America,325
 2020-11-23,306,East Asia,32
 2020-11-23,306,Eastern Europe,1504
 2020-11-23,306,Eurasia,237
@@ -3964,3 +3964,16 @@ date,time,location,growth
 2020-11-23,306,Northern Europe,416
 2020-11-23,306,Other,10
 2020-11-23,306,Western Europe,1253
+2020-11-24,307,Africa,269
+2020-11-24,307,Australasia,196
+2020-11-24,307,Central America,337
+2020-11-24,307,East Asia,23
+2020-11-24,307,Eastern Europe,1516
+2020-11-24,307,Eurasia,249
+2020-11-24,307,Indian Subcontinent,567
+2020-11-24,307,Latin America,745
+2020-11-24,307,Middle East,621
+2020-11-24,307,North America,957
+2020-11-24,307,Northern Europe,245
+2020-11-24,307,Other,12
+2020-11-24,307,Western Europe,2554
