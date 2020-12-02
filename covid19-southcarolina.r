@@ -33,6 +33,8 @@ covid$date = as.Date(covid$date, format="%m/%d/%y")
 lastupdated = max(covid$date)
 covid$time = covid$date - min(covid$date) + 1
 
+covid_fullstate <- covid # save full state info for later use
+
 locations = read_csv("sources/SCcountylist.csv")
 covid <- covid %>% right_join(locations) 
 # covid$location[is.na(covid$location)] = "Other"
@@ -134,4 +136,29 @@ casesdeaths %>% ggplot + aes(date, cases) + geom_line(color="blue") + #geom_line
                         # annotate("text",x=as.Date("2020-02-28", format="%Y-%m-%d"),y=70000,label=paste("Total deaths:", format(totaldeaths, big.mark=" ")), color="red") 
 
 write_csv(casesdeaths, "data/covid-southcarolina-growth.csv")
-ggsave("graphs/covid-southcarolineupstate.pdf", width=11, height=8)
+ggsave("graphs/covid-southcarolinaupstate.pdf", width=11, height=8)
+
+
+#
+# full state information on cases
+#
+#
+
+SCpopulation = read_csv("sources/USpopulationregion.csv") %>% filter(state=="South Carolina") %>% select(population)
+
+per100kfactor = 100000/SCpopulation$population
+
+covid <- covid_fullstate # retrieve full state info
+# View(covid_growth)
+spread <- covid %>% group_by(date, time) %>% summarise(count=sum(infections))
+
+# widespread <- spread %>% pivot_wider(!c("date","time"), values_from=count)
+covid_growth <- as_tibble(lapply(spread[,2:3],diff,lag=1))
+covid_growth$date = covid_growth$time + 1:NROW(covid_growth$time) + as.Date("2020-01-20")
+
+covid_growth %>% ggplot + aes(date, count*per100kfactor) + geom_line(color="blue", alpha=.5, lty=2) + geom_line(aes(y=rollmean(count*per100kfactor,avdays, na.pad=TRUE)), color="blue") + 
+                        scale_x_date(date_breaks="3 months", date_labels = "%b %d") + 
+                        labs(caption=capt) + xlab("Date") + ylab("Daily incremental number of confirmed cases per 100k population") +
+                        ggtitle(paste("South Carolina daily cases per 100k population")) #+ 
+
+ggsave("graphs/covid-southcarolina.pdf", width=11, height=8)
