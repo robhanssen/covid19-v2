@@ -314,6 +314,7 @@ date,time,location,count
 2020-11-29,313,Africa,51630
 2020-11-30,314,Africa,51899
 2020-12-01,315,Africa,52157
+2020-12-02,316,Africa,52487
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,0.1
 2020-01-24,3,Australasia,0.1
@@ -629,6 +630,7 @@ date,time,location,count
 2020-11-29,313,Australasia,28472
 2020-11-30,314,Australasia,28647
 2020-12-01,315,Australasia,28843
+2020-12-02,316,Australasia,29007
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -944,6 +946,7 @@ date,time,location,count
 2020-11-29,313,Central America,118898
 2020-11-30,314,Central America,119256
 2020-12-01,315,Central America,120119
+2020-12-02,316,Central America,120977
 2020-01-22,1,East Asia,17
 2020-01-23,2,East Asia,18
 2020-01-24,3,East Asia,26
@@ -1259,6 +1262,7 @@ date,time,location,count
 2020-11-29,313,East Asia,8918
 2020-11-30,314,East Asia,8966
 2020-12-01,315,East Asia,9021
+2020-12-02,316,East Asia,9066
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1574,6 +1578,7 @@ date,time,location,count
 2020-11-29,313,Eastern Europe,111200
 2020-11-30,314,Eastern Europe,112811
 2020-12-01,315,Eastern Europe,114994
+2020-12-02,316,Eastern Europe,117252
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -1632,7 +1637,7 @@ date,time,location,count
 2020-03-17,56,Eurasia,2
 2020-03-18,57,Eurasia,2
 2020-03-19,58,Eurasia,4
-2020-03-20,59,Eurasia,8
+2020-03-20,59,Eurasia,5
 2020-03-21,60,Eurasia,10
 2020-03-22,61,Eurasia,31
 2020-03-23,62,Eurasia,38
@@ -1767,128 +1772,129 @@ date,time,location,count
 2020-07-30,191,Eurasia,9213
 2020-07-31,192,Eurasia,9266
 2020-08-01,193,Eurasia,9327
-2020-08-02,194,Eurasia,9375
-2020-08-03,195,Eurasia,9425
-2020-08-04,196,Eurasia,9734
-2020-08-05,197,Eurasia,9775
-2020-08-06,198,Eurasia,9808
-2020-08-07,199,Eurasia,9842
-2020-08-08,200,Eurasia,9885
-2020-08-09,201,Eurasia,9924
-2020-08-10,202,Eurasia,9957
-2020-08-11,203,Eurasia,10202
-2020-08-12,204,Eurasia,10238
-2020-08-13,205,Eurasia,10273
-2020-08-14,206,Eurasia,10312
-2020-08-15,207,Eurasia,10346
-2020-08-16,208,Eurasia,10375
-2020-08-17,209,Eurasia,10410
-2020-08-18,210,Eurasia,10594
-2020-08-19,211,Eurasia,10625
-2020-08-20,212,Eurasia,10652
-2020-08-21,213,Eurasia,10247
-2020-08-22,214,Eurasia,10287
-2020-08-23,215,Eurasia,10318
-2020-08-24,216,Eurasia,10349
-2020-08-25,217,Eurasia,10492
-2020-08-26,218,Eurasia,10523
-2020-08-27,219,Eurasia,10562
-2020-08-28,220,Eurasia,10610
-2020-08-29,221,Eurasia,10659
-2020-08-30,222,Eurasia,10715
-2020-08-31,223,Eurasia,10771
-2020-09-01,224,Eurasia,10891
-2020-09-02,225,Eurasia,10946
-2020-09-03,226,Eurasia,11005
-2020-09-04,227,Eurasia,11072
-2020-09-05,228,Eurasia,11140
-2020-09-06,229,Eurasia,11202
-2020-09-07,230,Eurasia,11270
-2020-09-08,231,Eurasia,11378
-2020-09-09,232,Eurasia,11448
-2020-09-10,233,Eurasia,11513
-2020-09-11,234,Eurasia,11582
-2020-09-12,235,Eurasia,11641
-2020-09-13,236,Eurasia,11712
-2020-09-14,237,Eurasia,11786
-2020-09-15,238,Eurasia,11900
-2020-09-16,239,Eurasia,11974
-2020-09-17,240,Eurasia,12050
-2020-09-18,241,Eurasia,12120
-2020-09-19,242,Eurasia,12200
-2020-09-20,243,Eurasia,12270
-2020-09-21,244,Eurasia,12350
-2020-09-22,245,Eurasia,12455
-2020-09-23,246,Eurasia,12538
-2020-09-24,247,Eurasia,12619
-2020-09-25,248,Eurasia,12700
-2020-09-26,249,Eurasia,12779
-2020-09-27,250,Eurasia,12857
-2020-09-28,251,Eurasia,12937
-2020-09-29,252,Eurasia,13044
-2020-09-30,253,Eurasia,13119
-2020-10-01,254,Eurasia,13197
-2020-10-02,255,Eurasia,13270
-2020-10-03,256,Eurasia,13344
-2020-10-04,257,Eurasia,13413
-2020-10-05,258,Eurasia,13488
-2020-10-06,259,Eurasia,13580
-2020-10-07,260,Eurasia,13653
-2020-10-08,261,Eurasia,13733
-2020-10-09,262,Eurasia,13809
-2020-10-10,263,Eurasia,13889
-2020-10-11,264,Eurasia,13966
-2020-10-12,265,Eurasia,14047
-2020-10-13,266,Eurasia,14153
-2020-10-14,267,Eurasia,14233
-2020-10-15,268,Eurasia,14323
-2020-10-16,269,Eurasia,14425
-2020-10-17,270,Eurasia,14520
-2020-10-18,271,Eurasia,14623
-2020-10-19,272,Eurasia,14725
-2020-10-20,273,Eurasia,14862
-2020-10-21,274,Eurasia,14976
-2020-10-22,275,Eurasia,15080
-2020-10-23,276,Eurasia,15187
-2020-10-24,277,Eurasia,15292
-2020-10-25,278,Eurasia,15411
-2020-10-26,279,Eurasia,15527
-2020-10-27,280,Eurasia,15696
-2020-10-28,281,Eurasia,15825
-2020-10-29,282,Eurasia,15959
-2020-10-30,283,Eurasia,16092
-2020-10-31,284,Eurasia,16247
-2020-11-01,285,Eurasia,16385
-2020-11-02,286,Eurasia,16553
-2020-11-03,287,Eurasia,16701
-2020-11-04,288,Eurasia,16851
-2020-11-05,289,Eurasia,16996
-2020-11-06,290,Eurasia,17151
-2020-11-07,291,Eurasia,17294
-2020-11-08,292,Eurasia,17463
-2020-11-09,293,Eurasia,17613
-2020-11-10,294,Eurasia,17773
-2020-11-11,295,Eurasia,17994
-2020-11-12,296,Eurasia,18174
-2020-11-13,297,Eurasia,18359
-2020-11-14,298,Eurasia,18545
-2020-11-15,299,Eurasia,18725
-2020-11-16,300,Eurasia,18892
-2020-11-17,301,Eurasia,19088
-2020-11-18,302,Eurasia,19348
-2020-11-19,303,Eurasia,19568
-2020-11-20,304,Eurasia,19814
-2020-11-21,305,Eurasia,20045
-2020-11-22,306,Eurasia,20282
-2020-11-23,307,Eurasia,20531
-2020-11-24,308,Eurasia,20795
-2020-11-25,309,Eurasia,21122
-2020-11-26,310,Eurasia,21401
-2020-11-27,311,Eurasia,21672
-2020-11-28,312,Eurasia,21958
-2020-11-29,313,Eurasia,22246
-2020-11-30,314,Eurasia,22530
+2020-08-02,194,Eurasia,9405
+2020-08-03,195,Eurasia,9741
+2020-08-04,196,Eurasia,9785
+2020-08-05,197,Eurasia,9826
+2020-08-06,198,Eurasia,9859
+2020-08-07,199,Eurasia,9893
+2020-08-08,200,Eurasia,9936
+2020-08-09,201,Eurasia,9975
+2020-08-10,202,Eurasia,10332
+2020-08-11,203,Eurasia,10366
+2020-08-12,204,Eurasia,10402
+2020-08-13,205,Eurasia,10437
+2020-08-14,206,Eurasia,10476
+2020-08-15,207,Eurasia,10557
+2020-08-16,208,Eurasia,10591
+2020-08-17,209,Eurasia,10628
+2020-08-18,210,Eurasia,10814
+2020-08-19,211,Eurasia,10856
+2020-08-20,212,Eurasia,10889
+2020-08-21,213,Eurasia,10490
+2020-08-22,214,Eurasia,10535
+2020-08-23,215,Eurasia,10574
+2020-08-24,216,Eurasia,10715
+2020-08-25,217,Eurasia,10750
+2020-08-26,218,Eurasia,10781
+2020-08-27,219,Eurasia,10820
+2020-08-28,220,Eurasia,10868
+2020-08-29,221,Eurasia,10917
+2020-08-30,222,Eurasia,10973
+2020-08-31,223,Eurasia,11029
+2020-09-01,224,Eurasia,11118
+2020-09-02,225,Eurasia,11241
+2020-09-03,226,Eurasia,11306
+2020-09-04,227,Eurasia,11377
+2020-09-05,228,Eurasia,11445
+2020-09-06,229,Eurasia,11515
+2020-09-07,230,Eurasia,11584
+2020-09-08,231,Eurasia,11647
+2020-09-09,232,Eurasia,11764
+2020-09-10,233,Eurasia,11830
+2020-09-11,234,Eurasia,11900
+2020-09-12,235,Eurasia,11961
+2020-09-13,236,Eurasia,12033
+2020-09-14,237,Eurasia,12114
+2020-09-15,238,Eurasia,12194
+2020-09-16,239,Eurasia,12306
+2020-09-17,240,Eurasia,12385
+2020-09-18,241,Eurasia,12457
+2020-09-19,242,Eurasia,12538
+2020-09-20,243,Eurasia,12613
+2020-09-21,244,Eurasia,12694
+2020-09-22,245,Eurasia,12772
+2020-09-23,246,Eurasia,12883
+2020-09-24,247,Eurasia,12965
+2020-09-25,248,Eurasia,13047
+2020-09-26,249,Eurasia,13126
+2020-09-27,250,Eurasia,13206
+2020-09-28,251,Eurasia,13287
+2020-09-29,252,Eurasia,13369
+2020-09-30,253,Eurasia,13472
+2020-10-01,254,Eurasia,13552
+2020-10-02,255,Eurasia,13627
+2020-10-03,256,Eurasia,13702
+2020-10-04,257,Eurasia,13771
+2020-10-05,258,Eurasia,13848
+2020-10-06,259,Eurasia,13919
+2020-10-07,260,Eurasia,14014
+2020-10-08,261,Eurasia,14095
+2020-10-09,262,Eurasia,14173
+2020-10-10,263,Eurasia,14254
+2020-10-11,264,Eurasia,14333
+2020-10-12,265,Eurasia,14415
+2020-10-13,266,Eurasia,14501
+2020-10-14,267,Eurasia,14606
+2020-10-15,268,Eurasia,14696
+2020-10-16,269,Eurasia,14801
+2020-10-17,270,Eurasia,14900
+2020-10-18,271,Eurasia,15004
+2020-10-19,272,Eurasia,15107
+2020-10-20,273,Eurasia,15221
+2020-10-21,274,Eurasia,15364
+2020-10-22,275,Eurasia,15470
+2020-10-23,276,Eurasia,15578
+2020-10-24,277,Eurasia,15685
+2020-10-25,278,Eurasia,15804
+2020-10-26,279,Eurasia,15921
+2020-10-27,280,Eurasia,16062
+2020-10-28,281,Eurasia,16221
+2020-10-29,282,Eurasia,16356
+2020-10-30,283,Eurasia,16491
+2020-10-31,284,Eurasia,16648
+2020-11-01,285,Eurasia,16787
+2020-11-02,286,Eurasia,16923
+2020-11-03,287,Eurasia,17105
+2020-11-04,288,Eurasia,17256
+2020-11-05,289,Eurasia,17402
+2020-11-06,290,Eurasia,17557
+2020-11-07,291,Eurasia,17702
+2020-11-08,292,Eurasia,17872
+2020-11-09,293,Eurasia,18022
+2020-11-10,294,Eurasia,18183
+2020-11-11,295,Eurasia,18362
+2020-11-12,296,Eurasia,18586
+2020-11-13,297,Eurasia,18774
+2020-11-14,298,Eurasia,18961
+2020-11-15,299,Eurasia,19143
+2020-11-16,300,Eurasia,19312
+2020-11-17,301,Eurasia,19509
+2020-11-18,302,Eurasia,19769
+2020-11-19,303,Eurasia,19991
+2020-11-20,304,Eurasia,20238
+2020-11-21,305,Eurasia,20470
+2020-11-22,306,Eurasia,20709
+2020-11-23,307,Eurasia,20958
+2020-11-24,308,Eurasia,21223
+2020-11-25,309,Eurasia,21554
+2020-11-26,310,Eurasia,21835
+2020-11-27,311,Eurasia,22111
+2020-11-28,312,Eurasia,22398
+2020-11-29,313,Eurasia,22689
+2020-11-30,314,Eurasia,22973
 2020-12-01,315,Eurasia,23271
+2020-12-02,316,Eurasia,23580
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -1953,27 +1959,27 @@ date,time,location,count
 2020-03-23,62,Indian Subcontinent,21
 2020-03-24,63,Indian Subcontinent,23
 2020-03-25,64,Indian Subcontinent,28
-2020-03-26,65,Indian Subcontinent,40
-2020-03-27,66,Indian Subcontinent,41
+2020-03-26,65,Indian Subcontinent,39
+2020-03-27,66,Indian Subcontinent,40
 2020-03-28,67,Indian Subcontinent,48
 2020-03-29,68,Indian Subcontinent,58
 2020-03-30,69,Indian Subcontinent,69
 2020-03-31,70,Indian Subcontinent,73
 2020-04-01,71,Indian Subcontinent,105
-2020-04-02,72,Indian Subcontinent,128
-2020-04-03,73,Indian Subcontinent,129
-2020-04-04,74,Indian Subcontinent,153
-2020-04-05,75,Indian Subcontinent,173
-2020-04-06,76,Indian Subcontinent,221
-2020-04-07,77,Indian Subcontinent,248
-2020-04-08,78,Indian Subcontinent,284
-2020-04-09,79,Indian Subcontinent,335
-2020-04-10,80,Indian Subcontinent,381
+2020-04-02,72,Indian Subcontinent,126
+2020-04-03,73,Indian Subcontinent,131
+2020-04-04,74,Indian Subcontinent,156
+2020-04-05,75,Indian Subcontinent,178
+2020-04-06,76,Indian Subcontinent,225
+2020-04-07,77,Indian Subcontinent,250
+2020-04-08,78,Indian Subcontinent,286
+2020-04-09,79,Indian Subcontinent,337
+2020-04-10,80,Indian Subcontinent,384
 2020-04-11,81,Indian Subcontinent,434
-2020-04-12,82,Indian Subcontinent,483
-2020-04-13,83,Indian Subcontinent,521
+2020-04-12,82,Indian Subcontinent,484
+2020-04-13,83,Indian Subcontinent,522
 2020-04-14,84,Indian Subcontinent,580
-2020-04-15,85,Indian Subcontinent,615
+2020-04-15,85,Indian Subcontinent,619
 2020-04-16,86,Indian Subcontinent,680
 2020-04-17,87,Indian Subcontinent,741
 2020-04-18,88,Indian Subcontinent,810
@@ -1981,13 +1987,13 @@ date,time,location,count
 2020-04-20,90,Indian Subcontinent,937
 2020-04-21,91,Indian Subcontinent,1010
 2020-04-22,92,Indian Subcontinent,1085
-2020-04-23,93,Indian Subcontinent,1150
+2020-04-23,93,Indian Subcontinent,1148
 2020-04-24,94,Indian Subcontinent,1230
 2020-04-25,95,Indian Subcontinent,1300
-2020-04-26,96,Indian Subcontinent,1375
-2020-04-27,97,Indian Subcontinent,1467
-2020-04-28,98,Indian Subcontinent,1571
-2020-04-29,99,Indian Subcontinent,1694
+2020-04-26,96,Indian Subcontinent,1377
+2020-04-27,97,Indian Subcontinent,1468
+2020-04-28,98,Indian Subcontinent,1572
+2020-04-29,99,Indian Subcontinent,1695
 2020-04-30,100,Indian Subcontinent,1810
 2020-05-01,101,Indian Subcontinent,1908
 2020-05-02,102,Indian Subcontinent,2034
@@ -2005,205 +2011,206 @@ date,time,location,count
 2020-05-14,114,Indian Subcontinent,3911
 2020-05-15,115,Indian Subcontinent,4047
 2020-05-16,116,Indian Subcontinent,4235
-2020-05-17,117,Indian Subcontinent,4434
+2020-05-17,117,Indian Subcontinent,4435
 2020-05-18,118,Indian Subcontinent,4626
 2020-05-19,119,Indian Subcontinent,4844
-2020-05-20,120,Indian Subcontinent,5033
-2020-05-21,121,Indian Subcontinent,5261
-2020-05-22,122,Indian Subcontinent,5473
-2020-05-23,123,Indian Subcontinent,5678
-2020-05-24,124,Indian Subcontinent,5898
-2020-05-25,125,Indian Subcontinent,6099
-2020-05-26,126,Indian Subcontinent,6321
-2020-05-27,127,Indian Subcontinent,6575
-2020-05-28,128,Indian Subcontinent,6832
-2020-05-29,129,Indian Subcontinent,7213
-2020-05-30,130,Indian Subcontinent,7537
-2020-05-31,131,Indian Subcontinent,7868
-2020-06-01,132,Indian Subcontinent,8177
-2020-06-02,133,Indian Subcontinent,8507
-2020-06-03,134,Indian Subcontinent,8909
-2020-06-04,135,Indian Subcontinent,9293
-2020-06-05,136,Indian Subcontinent,9715
-2020-06-06,137,Indian Subcontinent,10132
-2020-06-07,138,Indian Subcontinent,10530
-2020-06-08,139,Indian Subcontinent,10955
-2020-06-09,140,Indian Subcontinent,11375
-2020-06-10,141,Indian Subcontinent,11886
-2020-06-11,142,Indian Subcontinent,12447
-2020-06-12,143,Indian Subcontinent,12899
-2020-06-13,144,Indian Subcontinent,13347
-2020-06-14,145,Indian Subcontinent,13902
-2020-06-15,146,Indian Subcontinent,14437
-2020-06-16,147,Indian Subcontinent,16642
-2020-06-17,148,Indian Subcontinent,17150
-2020-06-18,149,Indian Subcontinent,17702
-2020-06-19,150,Indian Subcontinent,18277
-2020-06-20,151,Indian Subcontinent,18760
-2020-06-21,152,Indian Subcontinent,19345
-2020-06-22,153,Indian Subcontinent,19817
-2020-06-23,154,Indian Subcontinent,20405
-2020-06-24,155,Indian Subcontinent,21029
-2020-06-25,156,Indian Subcontinent,21570
-2020-06-26,157,Indian Subcontinent,22075
-2020-06-27,158,Indian Subcontinent,22622
-2020-06-28,159,Indian Subcontinent,23112
-2020-06-29,160,Indian Subcontinent,23724
-2020-06-30,161,Indian Subcontinent,24399
-2020-07-01,162,Indian Subcontinent,24980
-2020-07-02,163,Indian Subcontinent,25508
-2020-07-03,164,Indian Subcontinent,26004
-2020-07-04,165,Indian Subcontinent,26721
-2020-07-05,166,Indian Subcontinent,27382
-2020-07-06,167,Indian Subcontinent,28003
-2020-07-07,168,Indian Subcontinent,28646
-2020-07-08,169,Indian Subcontinent,29256
-2020-07-09,170,Indian Subcontinent,29868
-2020-07-10,171,Indian Subcontinent,30503
-2020-07-11,172,Indian Subcontinent,31180
-2020-07-12,173,Indian Subcontinent,31813
-2020-07-13,174,Indian Subcontinent,32461
-2020-07-14,175,Indian Subcontinent,33178
-2020-07-15,176,Indian Subcontinent,33902
-2020-07-16,177,Indian Subcontinent,34648
-2020-07-17,178,Indian Subcontinent,35500
-2020-07-18,179,Indian Subcontinent,36140
-2020-07-19,180,Indian Subcontinent,36906
+2020-05-20,120,Indian Subcontinent,5034
+2020-05-21,121,Indian Subcontinent,5262
+2020-05-22,122,Indian Subcontinent,5474
+2020-05-23,123,Indian Subcontinent,5679
+2020-05-24,124,Indian Subcontinent,5899
+2020-05-25,125,Indian Subcontinent,6100
+2020-05-26,126,Indian Subcontinent,6322
+2020-05-27,127,Indian Subcontinent,6576
+2020-05-28,128,Indian Subcontinent,6833
+2020-05-29,129,Indian Subcontinent,7214
+2020-05-30,130,Indian Subcontinent,7538
+2020-05-31,131,Indian Subcontinent,7869
+2020-06-01,132,Indian Subcontinent,8178
+2020-06-02,133,Indian Subcontinent,8511
+2020-06-03,134,Indian Subcontinent,8913
+2020-06-04,135,Indian Subcontinent,9297
+2020-06-05,136,Indian Subcontinent,9719
+2020-06-06,137,Indian Subcontinent,10136
+2020-06-07,138,Indian Subcontinent,10534
+2020-06-08,139,Indian Subcontinent,10959
+2020-06-09,140,Indian Subcontinent,11379
+2020-06-10,141,Indian Subcontinent,11890
+2020-06-11,142,Indian Subcontinent,12451
+2020-06-12,143,Indian Subcontinent,12903
+2020-06-13,144,Indian Subcontinent,13351
+2020-06-14,145,Indian Subcontinent,13906
+2020-06-15,146,Indian Subcontinent,14441
+2020-06-16,147,Indian Subcontinent,16646
+2020-06-17,148,Indian Subcontinent,17154
+2020-06-18,149,Indian Subcontinent,17706
+2020-06-19,150,Indian Subcontinent,18281
+2020-06-20,151,Indian Subcontinent,18764
+2020-06-21,152,Indian Subcontinent,19349
+2020-06-22,153,Indian Subcontinent,19816
+2020-06-23,154,Indian Subcontinent,20404
+2020-06-24,155,Indian Subcontinent,21028
+2020-06-25,156,Indian Subcontinent,21569
+2020-06-26,157,Indian Subcontinent,22074
+2020-06-27,158,Indian Subcontinent,22635
+2020-06-28,159,Indian Subcontinent,23119
+2020-06-29,160,Indian Subcontinent,23731
+2020-06-30,161,Indian Subcontinent,24405
+2020-07-01,162,Indian Subcontinent,24986
+2020-07-02,163,Indian Subcontinent,25510
+2020-07-03,164,Indian Subcontinent,26006
+2020-07-04,165,Indian Subcontinent,26723
+2020-07-05,166,Indian Subcontinent,27384
+2020-07-06,167,Indian Subcontinent,28005
+2020-07-07,168,Indian Subcontinent,28648
+2020-07-08,169,Indian Subcontinent,29259
+2020-07-09,170,Indian Subcontinent,29870
+2020-07-10,171,Indian Subcontinent,30505
+2020-07-11,172,Indian Subcontinent,31182
+2020-07-12,173,Indian Subcontinent,31815
+2020-07-13,174,Indian Subcontinent,32489
+2020-07-14,175,Indian Subcontinent,33194
+2020-07-15,176,Indian Subcontinent,33904
+2020-07-16,177,Indian Subcontinent,34652
+2020-07-17,178,Indian Subcontinent,35502
+2020-07-18,179,Indian Subcontinent,36142
+2020-07-19,180,Indian Subcontinent,36908
 2020-07-20,181,Indian Subcontinent,37585
-2020-07-21,182,Indian Subcontinent,38315
-2020-07-22,183,Indian Subcontinent,39522
-2020-07-23,184,Indian Subcontinent,40387
-2020-07-24,185,Indian Subcontinent,41217
-2020-07-25,186,Indian Subcontinent,42015
-2020-07-26,187,Indian Subcontinent,42791
-2020-07-27,188,Indian Subcontinent,43495
-2020-07-28,189,Indian Subcontinent,44339
-2020-07-29,190,Indian Subcontinent,45164
-2020-07-30,191,Indian Subcontinent,46007
-2020-07-31,192,Indian Subcontinent,46856
-2020-08-01,193,Indian Subcontinent,47741
-2020-08-02,194,Indian Subcontinent,48560
-2020-08-03,195,Indian Subcontinent,49420
-2020-08-04,196,Indian Subcontinent,50327
-2020-08-05,197,Indian Subcontinent,51285
-2020-08-06,198,Indian Subcontinent,52235
-2020-08-07,199,Indian Subcontinent,53221
-2020-08-08,200,Indian Subcontinent,54135
-2020-08-09,201,Indian Subcontinent,55190
-2020-08-10,202,Indian Subcontinent,56131
-2020-08-11,203,Indian Subcontinent,57029
-2020-08-12,204,Indian Subcontinent,58040
-2020-08-13,205,Indian Subcontinent,59110
-2020-08-14,206,Indian Subcontinent,60154
-2020-08-15,207,Indian Subcontinent,61148
-2020-08-16,208,Indian Subcontinent,62139
-2020-08-17,209,Indian Subcontinent,63052
-2020-08-18,210,Indian Subcontinent,64204
-2020-08-19,211,Indian Subcontinent,65234
-2020-08-20,212,Indian Subcontinent,66276
-2020-08-21,213,Indian Subcontinent,67270
-2020-08-22,214,Indian Subcontinent,68241
-2020-08-23,215,Indian Subcontinent,69126
-2020-08-24,216,Indian Subcontinent,70018
-2020-08-25,217,Indian Subcontinent,71049
-2020-08-26,218,Indian Subcontinent,72234
-2020-08-27,219,Indian Subcontinent,73343
-2020-08-28,220,Indian Subcontinent,74421
-2020-08-29,221,Indian Subcontinent,75402
-2020-08-30,222,Indian Subcontinent,76419
-2020-08-31,223,Indian Subcontinent,77277
-2020-09-01,224,Indian Subcontinent,78365
-2020-09-02,225,Indian Subcontinent,79476
-2020-09-03,226,Indian Subcontinent,80611
-2020-09-04,227,Indian Subcontinent,81734
-2020-09-05,228,Indian Subcontinent,82834
-2020-09-06,229,Indian Subcontinent,83890
-2020-09-07,230,Indian Subcontinent,85068
-2020-09-08,231,Indian Subcontinent,86231
-2020-09-09,232,Indian Subcontinent,87452
-2020-09-10,233,Indian Subcontinent,88707
-2020-09-11,234,Indian Subcontinent,89945
-2020-09-12,235,Indian Subcontinent,91099
-2020-09-13,236,Indian Subcontinent,92270
-2020-09-14,237,Indian Subcontinent,93362
-2020-09-15,238,Indian Subcontinent,94700
-2020-09-16,239,Indian Subcontinent,95869
-2020-09-17,240,Indian Subcontinent,97088
-2020-09-18,241,Indian Subcontinent,98365
-2020-09-19,242,Indian Subcontinent,99531
-2020-09-20,243,Indian Subcontinent,100695
-2020-09-21,244,Indian Subcontinent,101795
-2020-09-22,245,Indian Subcontinent,102917
-2020-09-23,246,Indian Subcontinent,104089
-2020-09-24,247,Indian Subcontinent,105270
-2020-09-25,248,Indian Subcontinent,106387
-2020-09-26,249,Indian Subcontinent,107555
-2020-09-27,250,Indian Subcontinent,108635
-2020-09-28,251,Indian Subcontinent,109453
-2020-09-29,252,Indian Subcontinent,110666
-2020-09-30,253,Indian Subcontinent,111884
-2020-10-01,254,Indian Subcontinent,113015
-2020-10-02,255,Indian Subcontinent,114125
-2020-10-03,256,Indian Subcontinent,115095
-2020-10-04,257,Indian Subcontinent,116021
-2020-10-05,258,Indian Subcontinent,116946
-2020-10-06,259,Indian Subcontinent,117975
-2020-10-07,260,Indian Subcontinent,118992
-2020-10-08,261,Indian Subcontinent,119985
-2020-10-09,262,Indian Subcontinent,120936
-2020-10-10,263,Indian Subcontinent,121890
-2020-10-11,264,Indian Subcontinent,122744
-2020-10-12,265,Indian Subcontinent,123491
-2020-10-13,266,Indian Subcontinent,124257
-2020-10-14,267,Indian Subcontinent,124967
-2020-10-15,268,Indian Subcontinent,125884
-2020-10-16,269,Indian Subcontinent,126757
-2020-10-17,270,Indian Subcontinent,127832
-2020-10-18,271,Indian Subcontinent,128434
-2020-10-19,272,Indian Subcontinent,129061
-2020-10-20,273,Indian Subcontinent,129817
-2020-10-21,274,Indian Subcontinent,130555
-2020-10-22,275,Indian Subcontinent,131287
-2020-10-23,276,Indian Subcontinent,131965
-2020-10-24,277,Indian Subcontinent,132576
-2020-10-25,278,Indian Subcontinent,133086
-2020-10-26,279,Indian Subcontinent,133599
-2020-10-27,280,Indian Subcontinent,134149
-2020-10-28,281,Indian Subcontinent,134711
-2020-10-29,282,Indian Subcontinent,135322
-2020-10-30,283,Indian Subcontinent,135904
-2020-10-31,284,Indian Subcontinent,136413
-2020-11-01,285,Indian Subcontinent,136940
-2020-11-02,286,Indian Subcontinent,137474
-2020-11-03,287,Indian Subcontinent,138028
-2020-11-04,288,Indian Subcontinent,138784
-2020-11-05,289,Indian Subcontinent,139512
-2020-11-06,290,Indian Subcontinent,140125
-2020-11-07,291,Indian Subcontinent,140728
-2020-11-08,292,Indian Subcontinent,141248
-2020-11-09,293,Indian Subcontinent,141761
-2020-11-10,294,Indian Subcontinent,142318
-2020-11-11,295,Indian Subcontinent,142930
-2020-11-12,296,Indian Subcontinent,143539
-2020-11-13,297,Indian Subcontinent,144104
-2020-11-14,298,Indian Subcontinent,144607
-2020-11-15,299,Indian Subcontinent,145099
-2020-11-16,300,Indian Subcontinent,145614
-2020-11-17,301,Indian Subcontinent,146181
-2020-11-18,302,Indian Subcontinent,146815
-2020-11-19,303,Indian Subcontinent,147751
-2020-11-20,304,Indian Subcontinent,148386
-2020-11-21,305,Indian Subcontinent,148997
-2020-11-22,306,Indian Subcontinent,149596
-2020-11-23,307,Indian Subcontinent,150163
-2020-11-24,308,Indian Subcontinent,150756
-2020-11-25,309,Indian Subcontinent,151374
+2020-07-21,182,Indian Subcontinent,38317
+2020-07-22,183,Indian Subcontinent,39524
+2020-07-23,184,Indian Subcontinent,40389
+2020-07-24,185,Indian Subcontinent,41219
+2020-07-25,186,Indian Subcontinent,42016
+2020-07-26,187,Indian Subcontinent,42793
+2020-07-27,188,Indian Subcontinent,43497
+2020-07-28,189,Indian Subcontinent,44341
+2020-07-29,190,Indian Subcontinent,45166
+2020-07-30,191,Indian Subcontinent,46019
+2020-07-31,192,Indian Subcontinent,46868
+2020-08-01,193,Indian Subcontinent,47743
+2020-08-02,194,Indian Subcontinent,48562
+2020-08-03,195,Indian Subcontinent,49422
+2020-08-04,196,Indian Subcontinent,50329
+2020-08-05,197,Indian Subcontinent,51287
+2020-08-06,198,Indian Subcontinent,52238
+2020-08-07,199,Indian Subcontinent,53224
+2020-08-08,200,Indian Subcontinent,54138
+2020-08-09,201,Indian Subcontinent,55199
+2020-08-10,202,Indian Subcontinent,56132
+2020-08-11,203,Indian Subcontinent,57031
+2020-08-12,204,Indian Subcontinent,58042
+2020-08-13,205,Indian Subcontinent,59112
+2020-08-14,206,Indian Subcontinent,60161
+2020-08-15,207,Indian Subcontinent,61149
+2020-08-16,208,Indian Subcontinent,62140
+2020-08-17,209,Indian Subcontinent,63055
+2020-08-18,210,Indian Subcontinent,64211
+2020-08-19,211,Indian Subcontinent,65243
+2020-08-20,212,Indian Subcontinent,66277
+2020-08-21,213,Indian Subcontinent,67271
+2020-08-22,214,Indian Subcontinent,68242
+2020-08-23,215,Indian Subcontinent,69127
+2020-08-24,216,Indian Subcontinent,70019
+2020-08-25,217,Indian Subcontinent,71050
+2020-08-26,218,Indian Subcontinent,72235
+2020-08-27,219,Indian Subcontinent,73344
+2020-08-28,220,Indian Subcontinent,74422
+2020-08-29,221,Indian Subcontinent,75403
+2020-08-30,222,Indian Subcontinent,76420
+2020-08-31,223,Indian Subcontinent,77278
+2020-09-01,224,Indian Subcontinent,78366
+2020-09-02,225,Indian Subcontinent,79477
+2020-09-03,226,Indian Subcontinent,80612
+2020-09-04,227,Indian Subcontinent,81735
+2020-09-05,228,Indian Subcontinent,82835
+2020-09-06,229,Indian Subcontinent,83891
+2020-09-07,230,Indian Subcontinent,85069
+2020-09-08,231,Indian Subcontinent,86232
+2020-09-09,232,Indian Subcontinent,87453
+2020-09-10,233,Indian Subcontinent,88708
+2020-09-11,234,Indian Subcontinent,89946
+2020-09-12,235,Indian Subcontinent,91100
+2020-09-13,236,Indian Subcontinent,92271
+2020-09-14,237,Indian Subcontinent,93364
+2020-09-15,238,Indian Subcontinent,94702
+2020-09-16,239,Indian Subcontinent,95871
+2020-09-17,240,Indian Subcontinent,97090
+2020-09-18,241,Indian Subcontinent,98367
+2020-09-19,242,Indian Subcontinent,99533
+2020-09-20,243,Indian Subcontinent,100697
+2020-09-21,244,Indian Subcontinent,101797
+2020-09-22,245,Indian Subcontinent,102919
+2020-09-23,246,Indian Subcontinent,104091
+2020-09-24,247,Indian Subcontinent,105272
+2020-09-25,248,Indian Subcontinent,106389
+2020-09-26,249,Indian Subcontinent,107557
+2020-09-27,250,Indian Subcontinent,108637
+2020-09-28,251,Indian Subcontinent,109456
+2020-09-29,252,Indian Subcontinent,110668
+2020-09-30,253,Indian Subcontinent,111886
+2020-10-01,254,Indian Subcontinent,113017
+2020-10-02,255,Indian Subcontinent,114127
+2020-10-03,256,Indian Subcontinent,115097
+2020-10-04,257,Indian Subcontinent,116023
+2020-10-05,258,Indian Subcontinent,116948
+2020-10-06,259,Indian Subcontinent,117977
+2020-10-07,260,Indian Subcontinent,118994
+2020-10-08,261,Indian Subcontinent,119987
+2020-10-09,262,Indian Subcontinent,120938
+2020-10-10,263,Indian Subcontinent,121892
+2020-10-11,264,Indian Subcontinent,122746
+2020-10-12,265,Indian Subcontinent,123493
+2020-10-13,266,Indian Subcontinent,124259
+2020-10-14,267,Indian Subcontinent,124969
+2020-10-15,268,Indian Subcontinent,125886
+2020-10-16,269,Indian Subcontinent,126759
+2020-10-17,270,Indian Subcontinent,127834
+2020-10-18,271,Indian Subcontinent,128436
+2020-10-19,272,Indian Subcontinent,129063
+2020-10-20,273,Indian Subcontinent,129819
+2020-10-21,274,Indian Subcontinent,130557
+2020-10-22,275,Indian Subcontinent,131289
+2020-10-23,276,Indian Subcontinent,131967
+2020-10-24,277,Indian Subcontinent,132578
+2020-10-25,278,Indian Subcontinent,133088
+2020-10-26,279,Indian Subcontinent,133601
+2020-10-27,280,Indian Subcontinent,134151
+2020-10-28,281,Indian Subcontinent,134713
+2020-10-29,282,Indian Subcontinent,135324
+2020-10-30,283,Indian Subcontinent,135906
+2020-10-31,284,Indian Subcontinent,136415
+2020-11-01,285,Indian Subcontinent,136942
+2020-11-02,286,Indian Subcontinent,137477
+2020-11-03,287,Indian Subcontinent,138031
+2020-11-04,288,Indian Subcontinent,138787
+2020-11-05,289,Indian Subcontinent,139515
+2020-11-06,290,Indian Subcontinent,140128
+2020-11-07,291,Indian Subcontinent,140731
+2020-11-08,292,Indian Subcontinent,141255
+2020-11-09,293,Indian Subcontinent,141764
+2020-11-10,294,Indian Subcontinent,142321
+2020-11-11,295,Indian Subcontinent,142933
+2020-11-12,296,Indian Subcontinent,143542
+2020-11-13,297,Indian Subcontinent,144107
+2020-11-14,298,Indian Subcontinent,144610
+2020-11-15,299,Indian Subcontinent,145102
+2020-11-16,300,Indian Subcontinent,145623
+2020-11-17,301,Indian Subcontinent,146184
+2020-11-18,302,Indian Subcontinent,146818
+2020-11-19,303,Indian Subcontinent,147754
+2020-11-20,304,Indian Subcontinent,148391
+2020-11-21,305,Indian Subcontinent,149000
+2020-11-22,306,Indian Subcontinent,149599
+2020-11-23,307,Indian Subcontinent,150170
+2020-11-24,308,Indian Subcontinent,150759
+2020-11-25,309,Indian Subcontinent,151377
 2020-11-26,310,Indian Subcontinent,151972
 2020-11-27,311,Indian Subcontinent,152533
 2020-11-28,312,Indian Subcontinent,153122
-2020-11-29,313,Indian Subcontinent,153652
-2020-11-30,314,Indian Subcontinent,154248
-2020-12-01,315,Indian Subcontinent,154381
+2020-11-29,313,Indian Subcontinent,153663
+2020-11-30,314,Indian Subcontinent,154269
+2020-12-01,315,Indian Subcontinent,154882
+2020-12-02,316,Indian Subcontinent,155512
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -2519,6 +2526,7 @@ date,time,location,count
 2020-11-29,313,Latin America,327772
 2020-11-30,314,Latin America,328617
 2020-12-01,315,Latin America,329813
+2020-12-02,316,Latin America,331020
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -2834,6 +2842,7 @@ date,time,location,count
 2020-11-29,313,Middle East,77735
 2020-11-30,314,Middle East,78255
 2020-12-01,315,Middle East,78807
+2020-12-02,316,Middle East,79323
 2020-01-22,1,North America,0.1
 2020-01-23,2,North America,0.1
 2020-01-24,3,North America,0.1
@@ -3149,6 +3158,7 @@ date,time,location,count
 2020-11-29,313,North America,278919
 2020-11-30,314,North America,280192
 2020-12-01,315,North America,282871
+2020-12-02,316,North America,285788
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -3464,6 +3474,7 @@ date,time,location,count
 2020-11-29,313,Northern Europe,69453
 2020-11-30,314,Northern Europe,69703
 2020-12-01,315,Northern Europe,70471
+2020-12-02,316,Northern Europe,71345
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -3779,6 +3790,7 @@ date,time,location,count
 2020-11-29,313,Other,1114
 2020-11-30,314,Other,1125
 2020-12-01,315,Other,1135
+2020-12-02,316,Other,1135
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -4094,3 +4106,4 @@ date,time,location,count
 2020-11-29,313,Western Europe,209308
 2020-11-30,314,Western Europe,211738
 2020-12-01,315,Western Europe,214118
+2020-12-02,316,Western Europe,216144
