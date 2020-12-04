@@ -4067,7 +4067,7 @@ date,time,location,growth
 2020-12-01,314,North America,165796
 2020-12-01,314,Northern Europe,15965
 2020-12-01,314,Other,539
-2020-12-01,314,Western Europe,77811
+2020-12-01,314,Western Europe,77697
 2020-12-02,315,Africa,10864
 2020-12-02,315,Australasia,9375
 2020-12-02,315,Central America,12349
@@ -4080,7 +4080,7 @@ date,time,location,growth
 2020-12-02,315,North America,185578
 2020-12-02,315,Northern Europe,35851
 2020-12-02,315,Other,521
-2020-12-02,315,Western Europe,71217
+2020-12-02,315,Western Europe,79074
 2020-12-03,316,Africa,16341
 2020-12-03,316,Australasia,9262
 2020-12-03,316,Central America,16024
@@ -4093,4 +4093,4 @@ date,time,location,growth
 2020-12-03,316,North America,206524
 2020-12-03,316,Northern Europe,25501
 2020-12-03,316,Other,0
-2020-12-03,316,Western Europe,77203
+2020-12-03,316,Western Europe,91176
