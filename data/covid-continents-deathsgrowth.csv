@@ -1611,7 +1611,7 @@ date,time,location,growth
 2020-05-26,125,Northern Europe,133
 2020-05-26,125,Other,1
 2020-05-26,125,Western Europe,-1647
-2020-05-27,126,Africa,113
+2020-05-27,126,Africa,112
 2020-05-27,126,Australasia,41
 2020-05-27,126,Central America,533
 2020-05-27,126,East Asia,7
@@ -4159,3 +4159,16 @@ date,time,location,growth
 2020-12-08,321,Northern Europe,236
 2020-12-08,321,Other,14
 2020-12-08,321,Western Europe,2210
+2020-12-09,322,Africa,402
+2020-12-09,322,Australasia,254
+2020-12-09,322,Central America,874
+2020-12-09,322,East Asia,62
+2020-12-09,322,Eastern Europe,2159
+2020-12-09,322,Eurasia,372
+2020-12-09,322,Indian Subcontinent,500
+2020-12-09,322,Latin America,1185
+2020-12-09,322,Middle East,418
+2020-12-09,322,North America,2637
+2020-12-09,322,Northern Europe,795
+2020-12-09,322,Other,17
+2020-12-09,322,Western Europe,2627
