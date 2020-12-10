@@ -4090,7 +4090,7 @@ date,time,location,growth
 2020-12-03,316,Indian Subcontinent,42329
 2020-12-03,316,Latin America,71856
 2020-12-03,316,Middle East,27315
-2020-12-03,316,North America,206545
+2020-12-03,316,North America,206561
 2020-12-03,316,Northern Europe,25501
 2020-12-03,316,Other,0
 2020-12-03,316,Western Europe,91176
@@ -4103,7 +4103,7 @@ date,time,location,growth
 2020-12-04,317,Indian Subcontinent,42923
 2020-12-04,317,Latin America,76245
 2020-12-04,317,Middle East,28002
-2020-12-04,317,North America,223928
+2020-12-04,317,North America,223944
 2020-12-04,317,Northern Europe,30113
 2020-12-04,317,Other,0
 2020-12-04,317,Western Europe,93370
@@ -4116,7 +4116,7 @@ date,time,location,growth
 2020-12-05,318,Indian Subcontinent,42550
 2020-12-05,318,Latin America,68105
 2020-12-05,318,Middle East,24789
-2020-12-05,318,North America,234219
+2020-12-05,318,North America,234247
 2020-12-05,318,Northern Europe,28969
 2020-12-05,318,Other,0
 2020-12-05,318,Western Europe,84731
@@ -4129,7 +4129,7 @@ date,time,location,growth
 2020-12-06,319,Indian Subcontinent,42023
 2020-12-06,319,Latin America,66938
 2020-12-06,319,Middle East,22403
-2020-12-06,319,North America,220220
+2020-12-06,319,North America,220235
 2020-12-06,319,Northern Europe,23101
 2020-12-06,319,Other,2220
 2020-12-06,319,Western Europe,80733
@@ -4142,7 +4142,7 @@ date,time,location,growth
 2020-12-07,320,Indian Subcontinent,39419
 2020-12-07,320,Latin America,44989
 2020-12-07,320,Middle East,24195
-2020-12-07,320,North America,181945
+2020-12-07,320,North America,181969
 2020-12-07,320,Northern Europe,23311
 2020-12-07,320,Other,468
 2020-12-07,320,Western Europe,57409
@@ -4155,7 +4155,7 @@ date,time,location,growth
 2020-12-08,321,Indian Subcontinent,32565
 2020-12-08,321,Latin America,35324
 2020-12-08,321,Middle East,23525
-2020-12-08,321,North America,200140
+2020-12-08,321,North America,200159
 2020-12-08,321,Northern Europe,19528
 2020-12-08,321,Other,519
 2020-12-08,321,Western Europe,66156
@@ -4168,7 +4168,20 @@ date,time,location,growth
 2020-12-09,322,Indian Subcontinent,38244
 2020-12-09,322,Latin America,66444
 2020-12-09,322,Middle East,22135
-2020-12-09,322,North America,222031
+2020-12-09,322,North America,222049
 2020-12-09,322,Northern Europe,36664
 2020-12-09,322,Other,557
 2020-12-09,322,Western Europe,77782
+2020-12-10,323,Africa,19286
+2020-12-10,323,Australasia,9840
+2020-12-10,323,Central America,17478
+2020-12-10,323,East Asia,4728
+2020-12-10,323,Eastern Europe,94395
+2020-12-10,323,Eurasia,43431
+2020-12-10,323,Indian Subcontinent,37647
+2020-12-10,323,Latin America,73276
+2020-12-10,323,Middle East,22577
+2020-12-10,323,North America,227666
+2020-12-10,323,Northern Europe,31724
+2020-12-10,323,Other,836
+2020-12-10,323,Western Europe,85989

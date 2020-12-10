@@ -321,6 +321,7 @@ date,time,location,count
 2020-12-06,320,Africa,2257409
 2020-12-07,321,Africa,2267979
 2020-12-08,322,Africa,2280985
+2020-12-09,323,Africa,2300271
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -643,6 +644,7 @@ date,time,location,count
 2020-12-06,320,Australasia,1278053
 2020-12-07,321,Australasia,1288283
 2020-12-08,322,Australasia,1297326
+2020-12-09,323,Australasia,1307166
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -965,6 +967,7 @@ date,time,location,count
 2020-12-06,320,Central America,1787565
 2020-12-07,321,Central America,1798733
 2020-12-08,322,Central America,1814482
+2020-12-09,323,Central America,1831960
 2020-01-22,1,East Asia,554
 2020-01-23,2,East Asia,650
 2020-01-24,3,East Asia,932
@@ -1287,6 +1290,7 @@ date,time,location,count
 2020-12-06,320,East Asia,554931
 2020-12-07,321,East Asia,558188
 2020-12-08,322,East Asia,562588
+2020-12-09,323,East Asia,567316
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1609,6 +1613,7 @@ date,time,location,count
 2020-12-06,320,Eastern Europe,6896455
 2020-12-07,321,Eastern Europe,6962203
 2020-12-08,322,Eastern Europe,7046266
+2020-12-09,323,Eastern Europe,7140661
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -1931,6 +1936,7 @@ date,time,location,count
 2020-12-06,320,Eurasia,1621351
 2020-12-07,321,Eurasia,1660211
 2020-12-08,322,Eurasia,1704487
+2020-12-09,323,Eurasia,1747918
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -2253,6 +2259,7 @@ date,time,location,count
 2020-12-06,320,Indian Subcontinent,10650655
 2020-12-07,321,Indian Subcontinent,10683220
 2020-12-08,322,Indian Subcontinent,10721464
+2020-12-09,323,Indian Subcontinent,10759111
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -2575,6 +2582,7 @@ date,time,location,count
 2020-12-06,320,Latin America,11718029
 2020-12-07,321,Latin America,11753353
 2020-12-08,322,Latin America,11819797
+2020-12-09,323,Latin America,11893073
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -2897,6 +2905,7 @@ date,time,location,count
 2020-12-06,320,Middle East,3467867
 2020-12-07,321,Middle East,3491392
 2020-12-08,322,Middle East,3513527
+2020-12-09,323,Middle East,3536104
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -3212,13 +3221,14 @@ date,time,location,count
 2020-11-29,313,North America,13756996
 2020-11-30,314,North America,13922742
 2020-12-01,315,North America,14108874
-2020-12-02,316,North America,14315419
-2020-12-03,317,North America,14539347
-2020-12-04,318,North America,14773566
-2020-12-05,319,North America,14993786
-2020-12-06,320,North America,15175731
-2020-12-07,321,North America,15375871
-2020-12-08,322,North America,15597902
+2020-12-02,316,North America,14315435
+2020-12-03,317,North America,14539379
+2020-12-04,318,North America,14773626
+2020-12-05,319,North America,14993861
+2020-12-06,320,North America,15175830
+2020-12-07,321,North America,15375989
+2020-12-08,322,North America,15598038
+2020-12-09,323,North America,15825704
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -3541,6 +3551,7 @@ date,time,location,count
 2020-12-06,320,Northern Europe,2354416
 2020-12-07,321,Northern Europe,2373944
 2020-12-08,322,Northern Europe,2410608
+2020-12-09,323,Northern Europe,2442332
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -3863,6 +3874,7 @@ date,time,location,count
 2020-12-06,320,Other,49300
 2020-12-07,321,Other,49819
 2020-12-08,322,Other,50376
+2020-12-09,323,Other,51212
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -4185,3 +4197,4 @@ date,time,location,count
 2020-12-06,320,Western Europe,9261817
 2020-12-07,321,Western Europe,9327973
 2020-12-08,322,Western Europe,9405755
+2020-12-09,323,Western Europe,9491744
