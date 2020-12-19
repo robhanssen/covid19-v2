@@ -913,7 +913,7 @@ date,time,location,growth
 2020-06-02,132,Mountain West,486
 2020-06-02,132,North East,3763
 2020-06-02,132,Other,66
-2020-06-02,132,Pacific West,11317
+2020-06-02,132,Pacific West,3385
 2020-06-02,132,South,4752
 2020-06-02,132,South West,1253
 2020-06-03,133,Mid West,4450
@@ -1186,7 +1186,7 @@ date,time,location,growth
 2020-07-11,171,Mountain West,3185
 2020-07-11,171,North East,3097
 2020-07-11,171,Other,190
-2020-07-11,171,Pacific West,1421
+2020-07-11,171,Pacific West,9353
 2020-07-11,171,South,29462
 2020-07-11,171,South West,13898
 2020-07-12,172,Mid West,8203
@@ -2306,6 +2306,13 @@ date,time,location,growth
 2020-12-18,331,Mountain West,11730
 2020-12-18,331,North East,38331
 2020-12-18,331,Other,1360
-2020-12-18,331,Pacific West,47248
+2020-12-18,331,Pacific West,50188
 2020-12-18,331,South,60899
 2020-12-18,331,South West,24804
+2020-12-19,332,Mid West,51849
+2020-12-19,332,Mountain West,11830
+2020-12-19,332,North East,38778
+2020-12-19,332,Other,1687
+2020-12-19,332,Pacific West,53308
+2020-12-19,332,South,65884
+2020-12-19,332,South West,26373
