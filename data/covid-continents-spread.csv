@@ -338,6 +338,7 @@ date,time,location,count
 2020-12-23,337,Africa,2564728
 2020-12-24,338,Africa,2591560
 2020-12-25,339,Africa,2617062
+2020-12-26,340,Africa,2637859
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -677,6 +678,7 @@ date,time,location,count
 2020-12-23,337,Australasia,1458534
 2020-12-24,338,Australasia,1470016
 2020-12-25,339,Australasia,1481201
+2020-12-26,340,Australasia,1492452
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1016,6 +1018,7 @@ date,time,location,count
 2020-12-23,337,Central America,2044707
 2020-12-24,338,Central America,2063258
 2020-12-25,339,Central America,2076732
+2020-12-26,340,Central America,2084299
 2020-01-22,1,East Asia,554
 2020-01-23,2,East Asia,650
 2020-01-24,3,East Asia,932
@@ -1355,6 +1358,7 @@ date,time,location,count
 2020-12-23,337,East Asia,633365
 2020-12-24,338,East Asia,639237
 2020-12-25,339,East Asia,645006
+2020-12-26,340,East Asia,650630
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1694,6 +1698,7 @@ date,time,location,count
 2020-12-23,337,Eastern Europe,8298009
 2020-12-24,338,Eastern Europe,8391500
 2020-12-25,339,Eastern Europe,8467943
+2020-12-26,340,Eastern Europe,8524945
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -2033,6 +2038,7 @@ date,time,location,count
 2020-12-23,337,Eurasia,3024434
 2020-12-24,338,Eurasia,3048158
 2020-12-25,339,Eurasia,3071453
+2020-12-26,340,Eurasia,3091584
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -2372,6 +2378,7 @@ date,time,location,count
 2020-12-23,337,Indian Subcontinent,11183307
 2020-12-24,338,Indian Subcontinent,11210574
 2020-12-25,339,Indian Subcontinent,11237033
+2020-12-26,340,Indian Subcontinent,11259147
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -2711,6 +2718,7 @@ date,time,location,count
 2020-12-23,337,Latin America,12875722
 2020-12-24,338,Latin America,12957826
 2020-12-25,339,Latin America,13017927
+2020-12-26,340,Latin America,13056607
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -3050,6 +3058,7 @@ date,time,location,count
 2020-12-23,337,Middle East,3803878
 2020-12-24,338,Middle East,3824301
 2020-12-25,339,Middle East,3843596
+2020-12-26,340,Middle East,3860280
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -3387,8 +3396,9 @@ date,time,location,count
 2020-12-21,335,North America,18554534
 2020-12-22,336,North America,18755827
 2020-12-23,337,North America,18990879
-2020-12-24,338,North America,19188637
+2020-12-24,338,North America,19194959
 2020-12-25,339,North America,19295101
+2020-12-26,340,North America,19523575
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -3728,6 +3738,7 @@ date,time,location,count
 2020-12-23,337,Northern Europe,3040361
 2020-12-24,338,Northern Europe,3089905
 2020-12-25,339,Northern Europe,3131181
+2020-12-26,340,Northern Europe,3172900
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -4067,6 +4078,7 @@ date,time,location,count
 2020-12-23,337,Other,56732
 2020-12-24,338,Other,56732
 2020-12-25,339,Other,57427
+2020-12-26,340,Other,58034
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -4406,3 +4418,4 @@ date,time,location,count
 2020-12-23,337,Western Europe,10729754
 2020-12-24,338,Western Europe,10836414
 2020-12-25,339,Western Europe,10898520
+2020-12-26,340,Western Europe,10939262
