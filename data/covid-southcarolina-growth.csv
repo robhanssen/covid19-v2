@@ -3449,3 +3449,13 @@ date,time,county,deaths,cases
 2021-01-02,346,Pickens,0,0
 2021-01-02,346,Spartanburg,0,0
 2021-01-02,346,Union,0,0
+2021-01-03,347,Abbeville,0,7
+2021-01-03,347,Anderson,10,243
+2021-01-03,347,Cherokee,1,21
+2021-01-03,347,Greenville,9,911
+2021-01-03,347,Greenwood,4,87
+2021-01-03,347,Laurens,2,48
+2021-01-03,347,Oconee,0,99
+2021-01-03,347,Pickens,2,283
+2021-01-03,347,Spartanburg,6,276
+2021-01-03,347,Union,1,12
