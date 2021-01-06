@@ -163,15 +163,21 @@ totalcases = sum(casesdeaths$cases)
 totaldeaths  = sum(casesdeaths$deaths)
 totalcasecomment = paste("Total cases: ", format(totalcases, big.mark=" "), "\nTotal deaths: ", format(totaldeaths, big.mark=" "), sep="")
 
-casesdeaths %>% ggplot + aes(date, cases) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(cases,avdays, na.pad=TRUE)), size=2, color="blue") + 
+oneyearago = today() - years(1)
+labelposition1 = oneyearago  + 0.2 * (today() - oneyearago)
+labelposition2 = oneyearago  + 0.9 * (today() - oneyearago)
+labelposition3 = oneyearago  + 0.1 * (today() - oneyearago)
+
+casesdeaths %>%   filter(date > oneyearago) %>%
+                  ggplot + aes(date, cases) + geom_line(color="blue", linetype="dotted") + geom_line(aes(y=rollmean(cases,avdays, na.pad=TRUE)), size=2, color="blue") + 
                         scale_y_continuous(sec.axis = sec_axis(~ ./correction, breaks=seq(0,6000,1000))) + #scale_y_log10(limit=c(10,100000))+ 
                         scale_x_date(date_breaks="1 month", date_labels = "%b %d") + 
                         labs(caption=capt) + xlab("Date") + ylab("Daily incremental number of confirmed cases or deaths") +
                         ggtitle(paste("US daily cases and deaths with", avdays,"days average line")) + 
                         geom_line(aes(date, correction*deaths), color="red", linetype="dotted") + geom_line(aes(y=rollmean(correction*deaths,avdays,na.pad=TRUE)), size=2, color="red") +
-                        annotate("text",x=as.Date("2020-03-15", format="%Y-%m-%d"),y=20000,label="cases\n<-----", color="blue") + 
-                        annotate("text",x=as.Date("2020-04-10", format="%Y-%m-%d"),y=10000,label="deaths\n------>", color="red") +
-                        annotate("text",x=as.Date("2020-02-28", format="%Y-%m-%d"),y=175000,label=totalcasecomment, color="black")
+                        annotate("text",x=labelposition3,y=20000,label="cases\n<-----", color="blue") + 
+                        annotate("text",x=labelposition2,y=20000,label="deaths\n------>", color="red") +
+                        annotate("text",x=labelposition,y=175000,label=totalcasecomment, color="black")
 
 ggsave("graphs/covid-us-daily-cases-and-deaths.pdf", device="pdf")
 write_csv(casesdeaths, "data/covid-us-daily-cases-and-deaths.csv")
