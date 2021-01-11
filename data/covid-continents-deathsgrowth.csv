@@ -4571,7 +4571,7 @@ date,time,location,growth
 2021-01-09,353,Indian Subcontinent,63
 2021-01-09,353,Latin America,1730
 2021-01-09,353,Middle East,204
-2021-01-09,353,North America,3596
+2021-01-09,353,North America,4079
 2021-01-09,353,Northern Europe,1620
 2021-01-09,353,Other,5
 2021-01-09,353,Western Europe,3165
@@ -4584,7 +4584,20 @@ date,time,location,growth
 2021-01-10,354,Indian Subcontinent,508
 2021-01-10,354,Latin America,1801
 2021-01-10,354,Middle East,216
-2021-01-10,354,North America,3869
+2021-01-10,354,North America,3386
 2021-01-10,354,Northern Europe,1146
 2021-01-10,354,Other,0
 2021-01-10,354,Western Europe,1630
+2021-01-11,355,Africa,594
+2021-01-11,355,Australasia,218
+2021-01-11,355,Central America,600
+2021-01-11,355,East Asia,66
+2021-01-11,355,Eastern Europe,1321
+2021-01-11,355,Eurasia,229
+2021-01-11,355,Indian Subcontinent,234
+2021-01-11,355,Latin America,997
+2021-01-11,355,Middle East,186
+2021-01-11,355,North America,1905
+2021-01-11,355,Northern Europe,665
+2021-01-11,355,Other,9
+2021-01-11,355,Western Europe,1136
