@@ -4018,7 +4018,7 @@ date,time,location,growth
 2020-11-27,310,Western Europe,2550
 2020-11-28,311,Africa,319
 2020-11-28,311,Australasia,203
-2020-11-28,311,Central America,52
+2020-11-28,311,Central America,683
 2020-11-28,311,East Asia,61
 2020-11-28,311,Eastern Europe,2230
 2020-11-28,311,Eurasia,276
@@ -4031,7 +4031,7 @@ date,time,location,growth
 2020-11-28,311,Western Europe,3007
 2020-11-29,312,Africa,235
 2020-11-29,312,Australasia,230
-2020-11-29,312,Central America,1260
+2020-11-29,312,Central America,629
 2020-11-29,312,East Asia,35
 2020-11-29,312,Eastern Europe,2072
 2020-11-29,312,Eurasia,287
@@ -4458,7 +4458,7 @@ date,time,location,growth
 2020-12-31,344,Northern Europe,1380
 2020-12-31,344,Other,0
 2020-12-31,344,Western Europe,2619
-2021-01-01,345,Africa,696
+2021-01-01,345,Africa,698
 2021-01-01,345,Australasia,234
 2021-01-01,345,Central America,1006
 2021-01-01,345,East Asia,78
@@ -4504,13 +4504,13 @@ date,time,location,growth
 2021-01-04,348,Eastern Europe,1294
 2021-01-04,348,Eurasia,271
 2021-01-04,348,Indian Subcontinent,280
-2021-01-04,348,Latin America,777
+2021-01-04,348,Latin America,778
 2021-01-04,348,Middle East,211
 2021-01-04,348,North America,1529
 2021-01-04,348,Northern Europe,535
 2021-01-04,348,Other,8
 2021-01-04,348,Western Europe,1056
-2021-01-05,349,Africa,684
+2021-01-05,349,Africa,685
 2021-01-05,349,Australasia,206
 2021-01-05,349,Central America,661
 2021-01-05,349,East Asia,79
@@ -4549,7 +4549,7 @@ date,time,location,growth
 2021-01-07,351,Northern Europe,1178
 2021-01-07,351,Other,0
 2021-01-07,351,Western Europe,2447
-2021-01-08,352,Africa,691
+2021-01-08,352,Africa,689
 2021-01-08,352,Australasia,255
 2021-01-08,352,Central America,1153
 2021-01-08,352,East Asia,106
@@ -4562,13 +4562,13 @@ date,time,location,growth
 2021-01-08,352,Northern Europe,1574
 2021-01-08,352,Other,8
 2021-01-08,352,Western Europe,2214
-2021-01-09,353,Africa,907
+2021-01-09,353,Africa,910
 2021-01-09,353,Australasia,270
 2021-01-09,353,Central America,1199
 2021-01-09,353,East Asia,98
 2021-01-09,353,Eastern Europe,1612
 2021-01-09,353,Eurasia,311
-2021-01-09,353,Indian Subcontinent,63
+2021-01-09,353,Indian Subcontinent,64
 2021-01-09,353,Latin America,1730
 2021-01-09,353,Middle East,204
 2021-01-09,353,North America,4079
@@ -4597,7 +4597,20 @@ date,time,location,growth
 2021-01-11,355,Indian Subcontinent,234
 2021-01-11,355,Latin America,997
 2021-01-11,355,Middle East,186
-2021-01-11,355,North America,1905
+2021-01-11,355,North America,1912
 2021-01-11,355,Northern Europe,665
 2021-01-11,355,Other,9
 2021-01-11,355,Western Europe,1136
+2021-01-12,356,Africa,681
+2021-01-12,356,Australasia,241
+2021-01-12,356,Central America,777
+2021-01-12,356,East Asia,84
+2021-01-12,356,Eastern Europe,1215
+2021-01-12,356,Eurasia,219
+2021-01-12,356,Indian Subcontinent,249
+2021-01-12,356,Latin America,1361
+2021-01-12,356,Middle East,204
+2021-01-12,356,North America,1867
+2021-01-12,356,Northern Europe,635
+2021-01-12,356,Other,6
+2021-01-12,356,Western Europe,2414
