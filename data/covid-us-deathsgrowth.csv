@@ -2400,7 +2400,7 @@ date,time,location,growth
 2020-12-31,344,Pacific West,489
 2020-12-31,344,South,787
 2020-12-31,344,South West,416
-2021-01-01,345,Mid West,697
+2021-01-01,345,Mid West,704
 2021-01-01,345,Mountain West,213
 2021-01-01,345,North East,716
 2021-01-01,345,Other,25
@@ -2463,7 +2463,7 @@ date,time,location,growth
 2021-01-09,353,Pacific West,616
 2021-01-09,353,South,974
 2021-01-09,353,South West,857
-2021-01-10,354,Mid West,640
+2021-01-10,354,Mid West,641
 2021-01-10,354,Mountain West,127
 2021-01-10,354,North East,690
 2021-01-10,354,Other,28
@@ -2479,8 +2479,15 @@ date,time,location,growth
 2021-01-11,355,South West,288
 2021-01-12,356,Mid West,370
 2021-01-12,356,Mountain West,53
-2021-01-12,356,North East,459
+2021-01-12,356,North East,514
 2021-01-12,356,Other,16
-2021-01-12,356,Pacific West,266
+2021-01-12,356,Pacific West,486
 2021-01-12,356,South,440
 2021-01-12,356,South West,127
+2021-01-13,357,Mid West,826
+2021-01-13,357,Mountain West,156
+2021-01-13,357,North East,821
+2021-01-13,357,Other,7
+2021-01-13,357,Pacific West,696
+2021-01-13,357,South,1146
+2021-01-13,357,South West,675
