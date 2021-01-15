@@ -126,13 +126,30 @@ ggsave("graphs-unitpopulation/covid-continents-infections-per-100k.pdf", width=1
 
 # categorize impact levels 0-2: safe; 2-5: impacted; 5-10: severe; 10-20: critical
 
-covid_growth1 <- covid_growth %>% mutate(week=week(date)) %>% group_by(continent, week) %>% summarize(date=date,per100k=mean(per100k)) %>% ungroup() %>%
-                     mutate(levels = cut(per100k, breaks=c(-1,2,5,10,1e5),labels=c("Safe","Impacted","Severe","Critical")))
+# covid_growth1 <- covid_growth %>% mutate(week=week(date)) %>% group_by(continent, week) %>% summarize(date=date,per100k=mean(per100k)) %>% ungroup() %>%
+#                      mutate(levels = cut(per100k, breaks=c(-1,2,5,10,1e5),labels=c("Safe","Impacted","Severe","Critical")))
                                  
 
+# covid_growth1 %>% ggplot()  + aes(x=continent, y=date, fill=levels) + geom_tile() + coord_flip() + 
+#                    scale_fill_manual(values = c("Safe" = "darkgreen", "Impacted" = "yellow", "Severe"="orange","Critical"="red")) + 
+#                    scale_color_manual(values = c("Safe" = "darkgreen", "Impacted" = "yellow", "Severe"="orange","Critical"="red")) + 
+#                    labs(x="Continent", y="Date", caption="Safe: 0-2 per 100k\nImpacted: 2-5 per 100k\nSevere: 5-10 per 100k\n Critical: >10 per 100k")
+
+covid_growth1 <- covid_growth %>% mutate(week=week(date)) %>% group_by(continent, week) %>% summarize(date=date,per100k=mean(per100k)) %>% ungroup() %>%
+                     mutate(levels = cut(per100k, breaks=c(-1,2,5,10,20, 1e5),labels=c("Safe: 0-2 per 100k","Impacted: 2-5 per 100k","Moderate: 5-10 per 100k","Severe: 10-20 per 100k","Critical: >20 per 100k")))
+
+colorset = c(  "Safe: 0-2 per 100k" = "darkgreen", 
+               "Impacted: 2-5 per 100k" = "lightgreen", 
+               "Moderate: 5-10 per 100k"="yellow", 
+               "Severe: 10-20 per 100k"="orange",
+               "Critical: >20 per 100k"="red")
+
+
 covid_growth1 %>% ggplot()  + aes(x=continent, y=date, fill=levels) + geom_tile() + coord_flip() + 
-                   scale_fill_manual(values = c("Safe" = "darkgreen", "Impacted" = "yellow", "Severe"="orange","Critical"="red")) + 
-                   scale_color_manual(values = c("Safe" = "darkgreen", "Impacted" = "yellow", "Severe"="orange","Critical"="red")) + 
-                   labs(x="Continent", y="Date", caption="Safe: 0-2 per 100k\nImpacted: 2-5 per 100k\nSevere: 5-10 per 100k\n Critical: >10 per 100k")
+                   scale_fill_manual(values = colorset ) + 
+                   scale_color_manual(values = colorset ) + 
+                   labs(x="Continent", y="Date") #, caption="Safe: 0-2 per 100k\nImpacted: 2-5 per 100k\nModerate: 5-10 per 100k\nSevere: 10-20 per 100k\n Critical: >20 per 100k")
+
+
 
 ggsave("graphs-unitpopulation/covid19-continent-heat-map.pdf", width=11, height=8)
