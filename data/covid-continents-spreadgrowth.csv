@@ -4818,7 +4818,7 @@ date,time,location,growth
 2021-01-28,372,Indian Subcontinent,14980
 2021-01-28,372,Latin America,100194
 2021-01-28,372,Middle East,23017
-2021-01-28,372,North America,156650
+2021-01-28,372,North America,156798
 2021-01-28,372,Northern Europe,35368
 2021-01-28,372,Other,589
 2021-01-28,372,Western Europe,126293
@@ -4831,7 +4831,7 @@ date,time,location,growth
 2021-01-29,373,Indian Subcontinent,21938
 2021-01-29,373,Latin America,103638
 2021-01-29,373,Middle East,25684
-2021-01-29,373,North America,173182
+2021-01-29,373,North America,173426
 2021-01-29,373,Northern Europe,39364
 2021-01-29,373,Other,0
 2021-01-29,373,Western Europe,93203
@@ -4844,7 +4844,7 @@ date,time,location,growth
 2021-01-30,374,Indian Subcontinent,16627
 2021-01-30,374,Latin America,98430
 2021-01-30,374,Middle East,22933
-2021-01-30,374,North America,170612
+2021-01-30,374,North America,170940
 2021-01-30,374,Northern Europe,35388
 2021-01-30,374,Other,658
 2021-01-30,374,Western Europe,136106
@@ -4857,7 +4857,7 @@ date,time,location,growth
 2021-01-31,375,Indian Subcontinent,15923
 2021-01-31,375,Latin America,102290
 2021-01-31,375,Middle East,21056
-2021-01-31,375,North America,145941
+2021-01-31,375,North America,146201
 2021-01-31,375,Northern Europe,27839
 2021-01-31,375,Other,0
 2021-01-31,375,Western Europe,76234
@@ -4870,7 +4870,7 @@ date,time,location,growth
 2021-02-01,376,Indian Subcontinent,14300
 2021-02-01,376,Latin America,57440
 2021-02-01,376,Middle East,20626
-2021-02-01,376,North America,115591
+2021-02-01,376,North America,115829
 2021-02-01,376,Northern Europe,25148
 2021-02-01,376,Other,572
 2021-02-01,376,Western Europe,48776
@@ -4883,7 +4883,7 @@ date,time,location,growth
 2021-02-02,377,Indian Subcontinent,11160
 2021-02-02,377,Latin America,49904
 2021-02-02,377,Middle East,24828
-2021-02-02,377,North America,140059
+2021-02-02,377,North America,138841
 2021-02-02,377,Northern Europe,21842
 2021-02-02,377,Other,0
 2021-02-02,377,Western Europe,115001
@@ -4961,7 +4961,20 @@ date,time,location,growth
 2021-02-08,383,Indian Subcontinent,13937
 2021-02-08,383,Latin America,110633
 2021-02-08,383,Middle East,24767
-2021-02-08,383,North America,91251
+2021-02-08,383,North America,92788
 2021-02-08,383,Northern Europe,19221
 2021-02-08,383,Other,0
 2021-02-08,383,Western Europe,49514
+2021-02-09,384,Africa,11413
+2021-02-09,384,Australasia,13232
+2021-02-09,384,Central America,7154
+2021-02-09,384,East Asia,1881
+2021-02-09,384,Eastern Europe,32842
+2021-02-09,384,Eurasia,9469
+2021-02-09,384,Indian Subcontinent,11345
+2021-02-09,384,Latin America,18003
+2021-02-09,384,Middle East,23511
+2021-02-09,384,North America,93530
+2021-02-09,384,Northern Europe,16991
+2021-02-09,384,Other,860
+2021-02-09,384,Western Europe,75279
