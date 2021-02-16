@@ -4832,7 +4832,7 @@ date,time,location,growth
 2021-01-29,373,Latin America,103638
 2021-01-29,373,Middle East,25684
 2021-01-29,373,North America,173426
-2021-01-29,373,Northern Europe,39364
+2021-01-29,373,Northern Europe,38364
 2021-01-29,373,Other,0
 2021-01-29,373,Western Europe,93203
 2021-01-30,374,Africa,19222
@@ -4845,7 +4845,7 @@ date,time,location,growth
 2021-01-30,374,Latin America,98430
 2021-01-30,374,Middle East,22933
 2021-01-30,374,North America,170940
-2021-01-30,374,Northern Europe,35388
+2021-01-30,374,Northern Europe,36388
 2021-01-30,374,Other,658
 2021-01-30,374,Western Europe,136106
 2021-01-31,375,Africa,17862
@@ -5014,7 +5014,7 @@ date,time,location,growth
 2021-02-12,387,Latin America,87128
 2021-02-12,387,Middle East,27167
 2021-02-12,387,North America,108530
-2021-02-12,387,Northern Europe,21355
+2021-02-12,387,Northern Europe,22422
 2021-02-12,387,Other,0
 2021-02-12,387,Western Europe,78763
 2021-02-13,388,Africa,13857
@@ -5027,7 +5027,7 @@ date,time,location,growth
 2021-02-13,388,Latin America,83977
 2021-02-13,388,Middle East,25010
 2021-02-13,388,North America,102190
-2021-02-13,388,Northern Europe,22739
+2021-02-13,388,Northern Europe,23346
 2021-02-13,388,Other,781
 2021-02-13,388,Western Europe,52528
 2021-02-14,389,Africa,10914
@@ -5040,19 +5040,32 @@ date,time,location,growth
 2021-02-14,389,Latin America,75114
 2021-02-14,389,Middle East,22273
 2021-02-14,389,North America,87118
-2021-02-14,389,Northern Europe,16825
+2021-02-14,389,Northern Europe,17401
 2021-02-14,389,Other,0
 2021-02-14,389,Western Europe,32324
 2021-02-15,390,Africa,10325
 2021-02-15,390,Australasia,11222
 2021-02-15,390,Central America,5177
 2021-02-15,390,East Asia,2130
-2021-02-15,390,Eastern Europe,37220
+2021-02-15,390,Eastern Europe,38668
 2021-02-15,390,Eurasia,7854
 2021-02-15,390,Indian Subcontinent,13845
 2021-02-15,390,Latin America,58283
 2021-02-15,390,Middle East,23632
 2021-02-15,390,North America,67142
-2021-02-15,390,Northern Europe,13584
+2021-02-15,390,Northern Europe,14067
 2021-02-15,390,Other,0
 2021-02-15,390,Western Europe,25508
+2021-02-16,391,Africa,9893
+2021-02-16,391,Australasia,10414
+2021-02-16,391,Central America,5976
+2021-02-16,391,East Asia,1877
+2021-02-16,391,Eastern Europe,31374
+2021-02-16,391,Eurasia,9031
+2021-02-16,391,Indian Subcontinent,10365
+2021-02-16,391,Latin America,50318
+2021-02-16,391,Middle East,27687
+2021-02-16,391,North America,55646
+2021-02-16,391,Northern Europe,12637
+2021-02-16,391,Other,814
+2021-02-16,391,Western Europe,113807
