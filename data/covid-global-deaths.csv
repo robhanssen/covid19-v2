@@ -392,6 +392,7 @@ date,time,location,count
 2021-02-15,391,China,4829
 2021-02-16,392,China,4831
 2021-02-17,393,China,4833
+2021-02-18,394,China,4833
 2020-01-22,1,India,0.1
 2020-01-23,2,India,0.1
 2020-01-24,3,India,0.1
@@ -785,6 +786,7 @@ date,time,location,count
 2021-02-15,391,India,155813
 2021-02-16,392,India,155913
 2021-02-17,393,India,156014
+2021-02-18,394,India,156111
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -1178,6 +1180,7 @@ date,time,location,count
 2021-02-15,391,Other,747430
 2021-02-16,392,Other,750607
 2021-02-17,393,Other,753769
+2021-02-18,394,Other,757293
 2020-01-22,1,USA,0.1
 2020-01-23,2,USA,0.1
 2020-01-24,3,USA,0.1
@@ -1571,6 +1574,7 @@ date,time,location,count
 2021-02-15,391,USA,486325
 2021-02-16,392,USA,488081
 2021-02-17,393,USA,490540
+2021-02-18,394,USA,493098
 2020-01-22,1,Wave 3,0.1
 2020-01-23,2,Wave 3,0.1
 2020-01-24,3,Wave 3,0.1
@@ -1964,6 +1968,7 @@ date,time,location,count
 2021-02-15,391,Wave 3,552243
 2021-02-16,392,Wave 3,555204
 2021-02-17,393,Wave 3,558084
+2021-02-18,394,Wave 3,561239
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -2289,7 +2294,7 @@ date,time,location,count
 2020-12-09,323,Western Europe,276155
 2020-12-10,324,Western Europe,278934
 2020-12-11,325,Western Europe,281596
-2020-12-12,326,Western Europe,283250
+2020-12-12,326,Western Europe,283444
 2020-12-13,327,Western Europe,284617
 2020-12-14,328,Western Europe,286771
 2020-12-15,329,Western Europe,290422
@@ -2315,7 +2320,7 @@ date,time,location,count
 2021-01-04,349,Western Europe,335122
 2021-01-05,350,Western Europe,339110
 2021-01-06,351,Western Europe,342290
-2021-01-07,352,Western Europe,345403
+2021-01-07,352,Western Europe,345678
 2021-01-08,353,Western Europe,349599
 2021-01-09,354,Western Europe,352043
 2021-01-10,355,Western Europe,353556
@@ -2323,8 +2328,8 @@ date,time,location,count
 2021-01-12,357,Western Europe,360530
 2021-01-13,358,Western Europe,364414
 2021-01-14,359,Western Europe,367918
-2021-01-15,360,Western Europe,371203
-2021-01-16,361,Western Europe,373880
+2021-01-15,360,Western Europe,371201
+2021-01-16,361,Western Europe,374068
 2021-01-17,362,Western Europe,375785
 2021-01-18,363,Western Europe,378072
 2021-01-19,364,Western Europe,383270
@@ -2336,7 +2341,7 @@ date,time,location,count
 2021-01-25,370,Western Europe,402075
 2021-01-26,371,Western Europe,406095
 2021-01-27,372,Western Europe,410137
-2021-01-28,373,Western Europe,413902
+2021-01-28,373,Western Europe,414245
 2021-01-29,374,Western Europe,417799
 2021-01-30,375,Western Europe,420621
 2021-01-31,376,Western Europe,421766
@@ -2351,9 +2356,10 @@ date,time,location,count
 2021-02-09,385,Western Europe,448531
 2021-02-10,386,Western Europe,451595
 2021-02-11,387,Western Europe,454202
-2021-02-12,388,Western Europe,456470
-2021-02-13,389,Western Europe,457723
-2021-02-14,390,Western Europe,458377
+2021-02-12,388,Western Europe,457112
+2021-02-13,389,Western Europe,458563
+2021-02-14,390,Western Europe,459378
 2021-02-15,391,Western Europe,461233
 2021-02-16,392,Western Europe,464161
 2021-02-17,393,Western Europe,466949
+2021-02-18,394,Western Europe,469024
