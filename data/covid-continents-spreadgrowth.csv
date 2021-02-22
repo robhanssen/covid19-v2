@@ -5039,7 +5039,7 @@ date,time,location,growth
 2021-02-14,389,Indian Subcontinent,14713
 2021-02-14,389,Latin America,75114
 2021-02-14,389,Middle East,22273
-2021-02-14,389,North America,87119
+2021-02-14,389,North America,90781
 2021-02-14,389,Northern Europe,17401
 2021-02-14,389,Other,0
 2021-02-14,389,Western Europe,53133
@@ -5052,7 +5052,7 @@ date,time,location,growth
 2021-02-15,390,Indian Subcontinent,13845
 2021-02-15,390,Latin America,58283
 2021-02-15,390,Middle East,23632
-2021-02-15,390,North America,67150
+2021-02-15,390,North America,67160
 2021-02-15,390,Northern Europe,14067
 2021-02-15,390,Other,0
 2021-02-15,390,Western Europe,41221
@@ -5065,7 +5065,7 @@ date,time,location,growth
 2021-02-16,391,Indian Subcontinent,10365
 2021-02-16,391,Latin America,50318
 2021-02-16,391,Middle East,27687
-2021-02-16,391,North America,55733
+2021-02-16,391,North America,55740
 2021-02-16,391,Northern Europe,12637
 2021-02-16,391,Other,814
 2021-02-16,391,Western Europe,57241
@@ -5078,7 +5078,7 @@ date,time,location,growth
 2021-02-17,392,Indian Subcontinent,14678
 2021-02-17,392,Latin America,70795
 2021-02-17,392,Middle East,27742
-2021-02-17,392,North America,66678
+2021-02-17,392,North America,66689
 2021-02-17,392,Northern Europe,23518
 2021-02-17,392,Other,249
 2021-02-17,392,Western Europe,55822
@@ -5091,7 +5091,7 @@ date,time,location,growth
 2021-02-18,393,Indian Subcontinent,15340
 2021-02-18,393,Latin America,81316
 2021-02-18,393,Middle East,28359
-2021-02-18,393,North America,72376
+2021-02-18,393,North America,72390
 2021-02-18,393,Northern Europe,21315
 2021-02-18,393,Other,0
 2021-02-18,393,Western Europe,70504
@@ -5104,7 +5104,7 @@ date,time,location,growth
 2021-02-19,394,Indian Subcontinent,15360
 2021-02-19,394,Latin America,83226
 2021-02-19,394,Middle East,26307
-2021-02-19,394,North America,72690
+2021-02-19,394,North America,72701
 2021-02-19,394,Northern Europe,21394
 2021-02-19,394,Other,297
 2021-02-19,394,Western Europe,74705
@@ -5117,7 +5117,7 @@ date,time,location,growth
 2021-02-20,395,Indian Subcontinent,16274
 2021-02-20,395,Latin America,86041
 2021-02-20,395,Middle East,24052
-2021-02-20,395,North America,113153
+2021-02-20,395,North America,109438
 2021-02-20,395,Northern Europe,20709
 2021-02-20,395,Other,285
 2021-02-20,395,Western Europe,50919
@@ -5134,3 +5134,16 @@ date,time,location,growth
 2021-02-21,396,Northern Europe,15167
 2021-02-21,396,Other,0
 2021-02-21,396,Western Europe,35510
+2021-02-22,397,Africa,9314
+2021-02-22,397,Australasia,12530
+2021-02-22,397,Central America,4427
+2021-02-22,397,East Asia,1907
+2021-02-22,397,Eastern Europe,45242
+2021-02-22,397,Eurasia,7960
+2021-02-22,397,Indian Subcontinent,16229
+2021-02-22,397,Latin America,61375
+2021-02-22,397,Middle East,28866
+2021-02-22,397,North America,58902
+2021-02-22,397,Northern Europe,13166
+2021-02-22,397,Other,1236
+2021-02-22,397,Western Europe,30920
