@@ -5120,7 +5120,7 @@ date,time,location,growth
 2021-02-20,395,North America,2761
 2021-02-20,395,Northern Europe,651
 2021-02-20,395,Other,5
-2021-02-20,395,Western Europe,1472
+2021-02-20,395,Western Europe,2043
 2021-02-21,396,Africa,290
 2021-02-21,396,Australasia,413
 2021-02-21,396,Central America,901
@@ -5133,7 +5133,7 @@ date,time,location,growth
 2021-02-21,396,North America,1871
 2021-02-21,396,Northern Europe,511
 2021-02-21,396,Other,0
-2021-02-21,396,Western Europe,610
+2021-02-21,396,Western Europe,764
 2021-02-22,397,Africa,333
 2021-02-22,397,Australasia,198
 2021-02-22,397,Central America,369
@@ -5146,4 +5146,17 @@ date,time,location,growth
 2021-02-22,397,North America,1293
 2021-02-22,397,Northern Europe,243
 2021-02-22,397,Other,18
-2021-02-22,397,Western Europe,438
+2021-02-22,397,Western Europe,597
+2021-02-23,398,Africa,336
+2021-02-23,398,Australasia,215
+2021-02-23,398,Central America,522
+2021-02-23,398,East Asia,67
+2021-02-23,398,Eastern Europe,913
+2021-02-23,398,Eurasia,98
+2021-02-23,398,Indian Subcontinent,132
+2021-02-23,398,Latin America,1112
+2021-02-23,398,Middle East,242
+2021-02-23,398,North America,1458
+2021-02-23,398,Northern Europe,208
+2021-02-23,398,Other,0
+2021-02-23,398,Western Europe,1736

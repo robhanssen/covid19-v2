@@ -4791,7 +4791,7 @@ date,time,location,growth
 2021-01-26,370,Eurasia,7551
 2021-01-26,370,Indian Subcontinent,12392
 2021-01-26,370,Latin America,56445
-2021-01-26,370,Middle East,32290
+2021-01-26,370,Middle East,20019
 2021-01-26,370,North America,156679
 2021-01-26,370,Northern Europe,25695
 2021-01-26,370,Other,1175
@@ -4804,7 +4804,7 @@ date,time,location,growth
 2021-01-27,371,Eurasia,10249
 2021-01-27,371,Indian Subcontinent,15600
 2021-01-27,371,Latin America,110048
-2021-01-27,371,Middle East,21316
+2021-01-27,371,Middle East,26075
 2021-01-27,371,North America,150711
 2021-01-27,371,Northern Europe,33240
 2021-01-27,371,Other,0
@@ -4817,7 +4817,7 @@ date,time,location,growth
 2021-01-28,372,Eurasia,10315
 2021-01-28,372,Indian Subcontinent,14980
 2021-01-28,372,Latin America,100194
-2021-01-28,372,Middle East,23017
+2021-01-28,372,Middle East,30529
 2021-01-28,372,North America,156926
 2021-01-28,372,Northern Europe,35368
 2021-01-28,372,Other,589
@@ -5120,7 +5120,7 @@ date,time,location,growth
 2021-02-20,395,North America,109438
 2021-02-20,395,Northern Europe,20709
 2021-02-20,395,Other,285
-2021-02-20,395,Western Europe,50919
+2021-02-20,395,Western Europe,75035
 2021-02-21,396,Africa,9559
 2021-02-21,396,Australasia,12791
 2021-02-21,396,Central America,9574
@@ -5133,7 +5133,7 @@ date,time,location,growth
 2021-02-21,396,North America,74167
 2021-02-21,396,Northern Europe,15167
 2021-02-21,396,Other,0
-2021-02-21,396,Western Europe,35510
+2021-02-21,396,Western Europe,56935
 2021-02-22,397,Africa,9314
 2021-02-22,397,Australasia,12530
 2021-02-22,397,Central America,4427
@@ -5146,4 +5146,17 @@ date,time,location,growth
 2021-02-22,397,North America,58902
 2021-02-22,397,Northern Europe,13166
 2021-02-22,397,Other,1236
-2021-02-22,397,Western Europe,30920
+2021-02-22,397,Western Europe,52539
+2021-02-23,398,Africa,9017
+2021-02-23,398,Australasia,14788
+2021-02-23,398,Central America,5275
+2021-02-23,398,East Asia,1461
+2021-02-23,398,Eastern Europe,38326
+2021-02-23,398,Eurasia,9154
+2021-02-23,398,Indian Subcontinent,12531
+2021-02-23,398,Latin America,44204
+2021-02-23,398,Middle East,29414
+2021-02-23,398,North America,59497
+2021-02-23,398,Northern Europe,13800
+2021-02-23,398,Other,0
+2021-02-23,398,Western Europe,51320
