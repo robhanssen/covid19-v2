@@ -397,6 +397,8 @@ date,time,location,count
 2021-02-20,396,China,4833
 2021-02-21,397,China,4833
 2021-02-22,398,China,4833
+2021-02-23,399,China,4833
+2021-02-24,400,China,4834
 2020-01-22,1,India,0.1
 2020-01-23,2,India,0.1
 2020-01-24,3,India,0.1
@@ -795,6 +797,8 @@ date,time,location,count
 2021-02-20,396,India,156302
 2021-02-21,397,India,156385
 2021-02-22,398,India,156463
+2021-02-23,399,India,156567
+2021-02-24,400,India,156705
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -1193,6 +1197,8 @@ date,time,location,count
 2021-02-20,396,Other,763152
 2021-02-21,397,Other,765332
 2021-02-22,398,Other,767681
+2021-02-23,399,Other,770898
+2021-02-24,400,Other,774629
 2020-01-22,1,USA,0.1
 2020-01-23,2,USA,0.1
 2020-01-24,3,USA,0.1
@@ -1591,6 +1597,8 @@ date,time,location,count
 2021-02-20,396,USA,497648
 2021-02-21,397,USA,498897
 2021-02-22,398,USA,500310
+2021-02-23,399,USA,502660
+2021-02-24,400,USA,505890
 2020-01-22,1,Wave 3,0.1
 2020-01-23,2,Wave 3,0.1
 2020-01-24,3,Wave 3,0.1
@@ -1989,6 +1997,8 @@ date,time,location,count
 2021-02-20,396,Wave 3,566780
 2021-02-21,397,Wave 3,568444
 2021-02-22,398,Wave 3,569853
+2021-02-23,399,Wave 3,573111
+2021-02-24,400,Wave 3,576157
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -2045,10 +2055,10 @@ date,time,location,count
 2020-03-15,54,Western Europe,2267
 2020-03-16,55,Western Europe,2761
 2020-03-17,56,Western Europe,3345
-2020-03-18,57,Western Europe,3967
-2020-03-19,58,Western Europe,4784
-2020-03-20,59,Western Europe,5932
-2020-03-21,60,Western Europe,7304
+2020-03-18,57,Western Europe,3968
+2020-03-19,58,Western Europe,4785
+2020-03-20,59,Western Europe,5933
+2020-03-21,60,Western Europe,7305
 2020-03-22,61,Western Europe,8562
 2020-03-23,62,Western Europe,10040
 2020-03-24,63,Western Europe,11799
@@ -2387,3 +2397,5 @@ date,time,location,count
 2021-02-20,396,Western Europe,472544
 2021-02-21,397,Western Europe,473248
 2021-02-22,398,Western Europe,475038
+2021-02-23,399,Western Europe,477365
+2021-02-24,400,Western Europe,479272

@@ -724,7 +724,7 @@ date,time,location,growth
 2020-03-19,57,Latin America,3
 2020-03-19,57,Middle East,148
 2020-03-19,57,North America,65
-2020-03-19,57,Northern Europe,44
+2020-03-19,57,Northern Europe,45
 2020-03-19,57,Other,0
 2020-03-19,57,Western Europe,596
 2020-03-20,58,Africa,3
@@ -776,7 +776,7 @@ date,time,location,growth
 2020-03-23,61,Latin America,21
 2020-03-23,61,Middle East,133
 2020-03-23,61,North America,116
-2020-03-23,61,Northern Europe,48
+2020-03-23,61,Northern Europe,47
 2020-03-23,61,Other,0
 2020-03-23,61,Western Europe,1258
 2020-03-24,62,Africa,9
@@ -5160,3 +5160,29 @@ date,time,location,growth
 2021-02-23,398,Northern Europe,208
 2021-02-23,398,Other,0
 2021-02-23,398,Western Europe,1736
+2021-02-24,399,Africa,470
+2021-02-24,399,Australasia,350
+2021-02-24,399,Central America,1326
+2021-02-24,399,East Asia,61
+2021-02-24,399,Eastern Europe,1510
+2021-02-24,399,Eurasia,95
+2021-02-24,399,Indian Subcontinent,177
+2021-02-24,399,Latin America,1982
+2021-02-24,399,Middle East,258
+2021-02-24,399,North America,2391
+2021-02-24,399,Northern Europe,705
+2021-02-24,399,Other,3
+2021-02-24,399,Western Europe,1928
+2021-02-25,400,Africa,325
+2021-02-25,400,Australasia,275
+2021-02-25,400,Central America,1088
+2021-02-25,400,East Asia,694
+2021-02-25,400,Eastern Europe,1509
+2021-02-25,400,Eurasia,88
+2021-02-25,400,Indian Subcontinent,212
+2021-02-25,400,Latin America,2108
+2021-02-25,400,Middle East,243
+2021-02-25,400,North America,3279
+2021-02-25,400,Northern Europe,627
+2021-02-25,400,Other,8
+2021-02-25,400,Western Europe,1597

@@ -724,7 +724,7 @@ date,time,location,growth
 2020-03-19,57,Latin America,247
 2020-03-19,57,Middle East,1394
 2020-03-19,57,North America,2836
-2020-03-19,57,Northern Europe,1505
+2020-03-19,57,Northern Europe,1506
 2020-03-19,57,Other,9
 2020-03-19,57,Western Europe,12208
 2020-03-20,58,Africa,178
@@ -776,7 +776,7 @@ date,time,location,growth
 2020-03-23,61,Latin America,1254
 2020-03-23,61,Middle East,1553
 2020-03-23,61,North America,9065
-2020-03-23,61,Northern Europe,2264
+2020-03-23,61,Northern Europe,2263
 2020-03-23,61,Other,7
 2020-03-23,61,Western Europe,17352
 2020-03-24,62,Africa,380
@@ -2973,7 +2973,7 @@ date,time,location,growth
 2020-09-08,230,Latin America,28575
 2020-09-08,230,Middle East,14246
 2020-09-08,230,North America,23873
-2020-09-08,230,Northern Europe,4061
+2020-09-08,230,Northern Europe,4063
 2020-09-08,230,Other,348
 2020-09-08,230,Western Europe,36044
 2020-09-09,231,Africa,7679
@@ -3883,7 +3883,7 @@ date,time,location,growth
 2020-11-17,300,Latin America,33402
 2020-11-17,300,Middle East,26854
 2020-11-17,300,North America,168533
-2020-11-17,300,Northern Europe,24631
+2020-11-17,300,Northern Europe,24632
 2020-11-17,300,Other,688
 2020-11-17,300,Western Europe,126708
 2020-11-18,301,Africa,12868
@@ -4377,7 +4377,7 @@ date,time,location,growth
 2020-12-25,338,Latin America,82145
 2020-12-25,338,Middle East,20423
 2020-12-25,338,North America,200598
-2020-12-25,338,Northern Europe,49715
+2020-12-25,338,Northern Europe,49716
 2020-12-25,338,Other,0
 2020-12-25,338,Western Europe,106660
 2020-12-26,339,Africa,25785
@@ -5160,3 +5160,29 @@ date,time,location,growth
 2021-02-23,398,Northern Europe,13800
 2021-02-23,398,Other,0
 2021-02-23,398,Western Europe,51320
+2021-02-24,399,Africa,7740
+2021-02-24,399,Australasia,13752
+2021-02-24,399,Central America,11424
+2021-02-24,399,East Asia,2043
+2021-02-24,399,Eastern Europe,51681
+2021-02-24,399,Eurasia,10906
+2021-02-24,399,Indian Subcontinent,15859
+2021-02-24,399,Latin America,85588
+2021-02-24,399,Middle East,31200
+2021-02-24,399,North America,74649
+2021-02-24,399,Northern Europe,23463
+2021-02-24,399,Other,260
+2021-02-24,399,Western Europe,59299
+2021-02-25,400,Africa,10334
+2021-02-25,400,Australasia,12724
+2021-02-25,400,Central America,11583
+2021-02-25,400,East Asia,1657
+2021-02-25,400,Eastern Europe,68197
+2021-02-25,400,Eurasia,11422
+2021-02-25,400,Indian Subcontinent,19003
+2021-02-25,400,Latin America,96559
+2021-02-25,400,Middle East,31662
+2021-02-25,400,North America,77447
+2021-02-25,400,Northern Europe,20006
+2021-02-25,400,Other,1024
+2021-02-25,400,Western Europe,82925
