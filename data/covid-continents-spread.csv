@@ -399,6 +399,7 @@ date,time,location,count
 2021-02-22,398,Africa,3829794
 2021-02-23,399,Africa,3837534
 2021-02-24,400,Africa,3847868
+2021-02-25,401,Africa,3860139
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -799,6 +800,7 @@ date,time,location,count
 2021-02-22,398,Australasia,2374782
 2021-02-23,399,Australasia,2388534
 2021-02-24,400,Australasia,2401258
+2021-02-25,401,Australasia,2414082
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1199,6 +1201,7 @@ date,time,location,count
 2021-02-22,398,Central America,2998307
 2021-02-23,399,Central America,3009731
 2021-02-24,400,Central America,3021314
+2021-02-25,401,Central America,3032012
 2020-01-22,1,East Asia,556
 2020-01-23,2,East Asia,651
 2020-01-24,3,East Asia,932
@@ -1599,6 +1602,7 @@ date,time,location,count
 2021-02-22,398,East Asia,936483
 2021-02-23,399,East Asia,938526
 2021-02-24,400,East Asia,940183
+2021-02-25,401,East Asia,942139
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -1999,6 +2003,7 @@ date,time,location,count
 2021-02-22,398,Eastern Europe,11737139
 2021-02-23,399,Eastern Europe,11788820
 2021-02-24,400,Eastern Europe,11857017
+2021-02-25,401,Eastern Europe,11925625
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -2399,6 +2404,7 @@ date,time,location,count
 2021-02-22,398,Eurasia,3755453
 2021-02-23,399,Eurasia,3766359
 2021-02-24,400,Eurasia,3777781
+2021-02-25,401,Eurasia,3789119
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -2799,6 +2805,7 @@ date,time,location,count
 2021-02-22,398,Indian Subcontinent,12270535
 2021-02-23,399,Indian Subcontinent,12286394
 2021-02-24,400,Indian Subcontinent,12305397
+2021-02-25,401,Indian Subcontinent,12324407
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -3199,6 +3206,7 @@ date,time,location,count
 2021-02-22,398,Latin America,17798595
 2021-02-23,399,Latin America,17884183
 2021-02-24,400,Latin America,17980742
+2021-02-25,401,Latin America,18078262
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -3599,6 +3607,7 @@ date,time,location,count
 2021-02-22,398,Middle East,5278304
 2021-02-23,399,Middle East,5309504
 2021-02-24,400,Middle East,5341166
+2021-02-25,401,Middle East,5372123
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -3999,6 +4008,7 @@ date,time,location,count
 2021-02-22,398,North America,29044349
 2021-02-23,399,North America,29118998
 2021-02-24,400,North America,29196445
+2021-02-25,401,North America,29276883
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -4398,7 +4408,8 @@ date,time,location,count
 2021-02-21,397,Northern Europe,5643571
 2021-02-22,398,Northern Europe,5657371
 2021-02-23,399,Northern Europe,5680834
-2021-02-24,400,Northern Europe,5700840
+2021-02-24,400,Northern Europe,5700845
+2021-02-25,401,Northern Europe,5720750
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -4799,6 +4810,7 @@ date,time,location,count
 2021-02-22,398,Other,75826
 2021-02-23,399,Other,76086
 2021-02-24,400,Other,77110
+2021-02-25,401,Other,77547
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -5199,3 +5211,4 @@ date,time,location,count
 2021-02-22,398,Western Europe,15964924
 2021-02-23,399,Western Europe,16024223
 2021-02-24,400,Western Europe,16107148
+2021-02-25,401,Western Europe,16188297
