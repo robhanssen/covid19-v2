@@ -5211,7 +5211,7 @@ date,time,location,growth
 2021-02-27,402,North America,79963
 2021-02-27,402,Northern Europe,18548
 2021-02-27,402,Other,445
-2021-02-27,402,Western Europe,53188
+2021-02-27,402,Western Europe,78172
 2021-02-28,403,Africa,7831
 2021-02-28,403,Australasia,11583
 2021-02-28,403,Central America,9274
@@ -5224,7 +5224,7 @@ date,time,location,growth
 2021-02-28,403,North America,66966
 2021-02-28,403,Northern Europe,12662
 2021-02-28,403,Other,0
-2021-02-28,403,Western Europe,40561
+2021-02-28,403,Western Europe,64001
 2021-03-01,404,Africa,9414
 2021-03-01,404,Australasia,10147
 2021-03-01,404,Central America,4037
@@ -5237,4 +5237,17 @@ date,time,location,growth
 2021-03-01,404,North America,53551
 2021-03-01,404,Northern Europe,11309
 2021-03-01,404,Other,0
-2021-03-01,404,Western Europe,35004
+2021-03-01,404,Western Europe,54956
+2021-03-02,405,Africa,8833
+2021-03-02,405,Australasia,10671
+2021-03-02,405,Central America,4405
+2021-03-02,405,East Asia,1385
+2021-03-02,405,Eastern Europe,42292
+2021-03-02,405,Eurasia,11072
+2021-03-02,405,Indian Subcontinent,14511
+2021-03-02,405,Latin America,59745
+2021-03-02,405,Middle East,31471
+2021-03-02,405,North America,62506
+2021-03-02,405,Northern Europe,9319
+2021-03-02,405,Other,0
+2021-03-02,405,Western Europe,50081
