@@ -5432,7 +5432,7 @@ date,time,location,growth
 2021-03-16,419,North America,60460
 2021-03-16,419,Northern Europe,9374
 2021-03-16,419,Other,1717
-2021-03-16,419,Western Europe,47835
+2021-03-16,419,Western Europe,54076
 2021-03-17,420,Africa,8983
 2021-03-17,420,Australasia,11042
 2021-03-17,420,Central America,4823
@@ -5442,10 +5442,10 @@ date,time,location,growth
 2021-03-17,420,Indian Subcontinent,33137
 2021-03-17,420,Latin America,113716
 2021-03-17,420,Middle East,35615
-2021-03-17,420,North America,56436
+2021-03-17,420,North America,56668
 2021-03-17,420,Northern Europe,23665
 2021-03-17,420,Other,553
-2021-03-17,420,Western Europe,94354
+2021-03-17,420,Western Europe,88113
 2021-03-18,421,Africa,11121
 2021-03-18,421,Australasia,12487
 2021-03-18,421,Central America,8607
@@ -5455,7 +5455,46 @@ date,time,location,growth
 2021-03-18,421,Indian Subcontinent,41722
 2021-03-18,421,Latin America,133767
 2021-03-18,421,Middle East,36153
-2021-03-18,421,North America,61887
+2021-03-18,421,North America,62378
 2021-03-18,421,Northern Europe,19021
 2021-03-18,421,Other,0
-2021-03-18,421,Western Europe,59222
+2021-03-18,421,Western Europe,96860
+2021-03-19,422,Africa,11097
+2021-03-19,422,Australasia,13278
+2021-03-19,422,Central America,8637
+2021-03-19,422,East Asia,2442
+2021-03-19,422,Eastern Europe,97535
+2021-03-19,422,Eurasia,23802
+2021-03-19,422,Indian Subcontinent,45552
+2021-03-19,422,Latin America,117482
+2021-03-19,422,Middle East,35215
+2021-03-19,422,North America,63994
+2021-03-19,422,Northern Europe,18768
+2021-03-19,422,Other,235
+2021-03-19,422,Western Europe,115275
+2021-03-20,423,Africa,12661
+2021-03-20,423,Australasia,15164
+2021-03-20,423,Central America,9363
+2021-03-20,423,East Asia,2462
+2021-03-20,423,Eastern Europe,98512
+2021-03-20,423,Eurasia,24736
+2021-03-20,423,Indian Subcontinent,47226
+2021-03-20,423,Latin America,136073
+2021-03-20,423,Middle East,32259
+2021-03-20,423,North America,65645
+2021-03-20,423,Northern Europe,16675
+2021-03-20,423,Other,1955
+2021-03-20,423,Western Europe,63542
+2021-03-21,424,Africa,9204
+2021-03-21,424,Australasia,15796
+2021-03-21,424,Central America,7667
+2021-03-21,424,East Asia,2233
+2021-03-21,424,Eastern Europe,94912
+2021-03-21,424,Eurasia,25357
+2021-03-21,424,Indian Subcontinent,49564
+2021-03-21,424,Latin America,108480
+2021-03-21,424,Middle East,27053
+2021-03-21,424,North America,57139
+2021-03-21,424,Northern Europe,10905
+2021-03-21,424,Other,0
+2021-03-21,424,Western Europe,88267
