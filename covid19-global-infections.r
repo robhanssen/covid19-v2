@@ -139,7 +139,7 @@ covid_growth <- covid_growth %>% pivot_longer(!c("time","date"),
 
 covid_growth %>% mutate(date=as.Date("2020-01-22")+time) -> covid_growth
 
-covid_growth %>%  filter(location !="Other") %>%
+covid_growth %>%  filter(location !="Other") %>% filter(growth < 5e5) %>%
                   ggplot + aes(date, growth, color=location) + geom_line(linetype="longdash") + #geom_smooth(method="loess") +
                         #scale_x_continuous() + 
                         labs(caption=capt) + 
