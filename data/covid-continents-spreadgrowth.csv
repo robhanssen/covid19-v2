@@ -5484,7 +5484,7 @@ date,time,location,growth
 2021-03-20,423,North America,65759
 2021-03-20,423,Northern Europe,16675
 2021-03-20,423,Other,1955
-2021-03-20,423,Western Europe,63542
+2021-03-20,423,Western Europe,98568
 2021-03-21,424,Africa,9204
 2021-03-21,424,Australasia,15796
 2021-03-21,424,Central America,7667
@@ -5497,7 +5497,7 @@ date,time,location,growth
 2021-03-21,424,North America,58866
 2021-03-21,424,Northern Europe,10905
 2021-03-21,424,Other,0
-2021-03-21,424,Western Europe,88267
+2021-03-21,424,Western Europe,88568
 2021-03-22,425,Africa,9094
 2021-03-22,425,Australasia,13548
 2021-03-22,425,Central America,4002
@@ -5510,7 +5510,7 @@ date,time,location,growth
 2021-03-22,425,North America,36891
 2021-03-22,425,Northern Europe,9872
 2021-03-22,425,Other,0
-2021-03-22,425,Western Europe,42882
+2021-03-22,425,Western Europe,72866
 2021-03-23,426,Africa,9587
 2021-03-23,426,Australasia,15195
 2021-03-23,426,Central America,2696
@@ -5523,7 +5523,7 @@ date,time,location,growth
 2021-03-23,426,North America,56430
 2021-03-23,426,Northern Europe,10246
 2021-03-23,426,Other,0
-2021-03-23,426,Western Europe,148122
+2021-03-23,426,Western Europe,82811
 2021-03-24,427,Africa,8586
 2021-03-24,427,Australasia,13006
 2021-03-24,427,Central America,9619
@@ -5549,7 +5549,7 @@ date,time,location,growth
 2021-03-25,428,North America,90896
 2021-03-25,428,Northern Europe,19764
 2021-03-25,428,Other,3994
-2021-03-25,428,Western Europe,70051
+2021-03-25,428,Western Europe,134276
 2021-03-26,429,Africa,12490
 2021-03-26,429,Australasia,16281
 2021-03-26,429,Central America,7947
@@ -5562,4 +5562,17 @@ date,time,location,growth
 2021-03-26,429,North America,72547
 2021-03-26,429,Northern Europe,18976
 2021-03-26,429,Other,0
-2021-03-26,429,Western Europe,191068
+2021-03-26,429,Western Europe,126843
+2021-03-27,430,Africa,18544
+2021-03-27,430,Australasia,16733
+2021-03-27,430,Central America,9264
+2021-03-27,430,East Asia,3399
+2021-03-27,430,Eastern Europe,103851
+2021-03-27,430,Eurasia,34137
+2021-03-27,430,Indian Subcontinent,70763
+2021-03-27,430,Latin America,134988
+2021-03-27,430,Middle East,31919
+2021-03-27,430,North America,85741
+2021-03-27,430,Northern Europe,16120
+2021-03-27,430,Other,0
+2021-03-27,430,Western Europe,117098

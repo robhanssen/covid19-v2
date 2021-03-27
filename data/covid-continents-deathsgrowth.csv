@@ -5484,7 +5484,7 @@ date,time,location,growth
 2021-03-20,423,North America,1122
 2021-03-20,423,Northern Europe,167
 2021-03-20,423,Other,29
-2021-03-20,423,Western Europe,813
+2021-03-20,423,Western Europe,1098
 2021-03-21,424,Africa,197
 2021-03-21,424,Australasia,142
 2021-03-21,424,Central America,649
@@ -5497,7 +5497,7 @@ date,time,location,growth
 2021-03-21,424,North America,806
 2021-03-21,424,Northern Europe,140
 2021-03-21,424,Other,0
-2021-03-21,424,Western Europe,903
+2021-03-21,424,Western Europe,794
 2021-03-22,425,Africa,229
 2021-03-22,425,Australasia,145
 2021-03-22,425,Central America,243
@@ -5510,7 +5510,7 @@ date,time,location,growth
 2021-03-22,425,North America,464
 2021-03-22,425,Northern Europe,61
 2021-03-22,425,Other,0
-2021-03-22,425,Western Europe,506
+2021-03-22,425,Western Europe,644
 2021-03-23,426,Africa,260
 2021-03-23,426,Australasia,170
 2021-03-23,426,Central America,251
@@ -5523,7 +5523,7 @@ date,time,location,growth
 2021-03-23,426,North America,598
 2021-03-23,426,Northern Europe,47
 2021-03-23,426,Other,0
-2021-03-23,426,Western Europe,2099
+2021-03-23,426,Western Europe,1785
 2021-03-24,427,Africa,322
 2021-03-24,427,Australasia,181
 2021-03-24,427,Central America,873
@@ -5549,7 +5549,7 @@ date,time,location,growth
 2021-03-25,428,North America,1478
 2021-03-25,428,Northern Europe,202
 2021-03-25,428,Other,60
-2021-03-25,428,Western Europe,912
+2021-03-25,428,Western Europe,1139
 2021-03-26,429,Africa,386
 2021-03-26,429,Australasia,156
 2021-03-26,429,Central America,629
@@ -5562,4 +5562,17 @@ date,time,location,growth
 2021-03-26,429,North America,1590
 2021-03-26,429,Northern Europe,125
 2021-03-26,429,Other,0
-2021-03-26,429,Western Europe,1934
+2021-03-26,429,Western Europe,1707
+2021-03-27,430,Africa,344
+2021-03-27,430,Australasia,141
+2021-03-27,430,Central America,713
+2021-03-27,430,East Asia,46
+2021-03-27,430,Eastern Europe,2104
+2021-03-27,430,Eurasia,206
+2021-03-27,430,Indian Subcontinent,394
+2021-03-27,430,Latin America,4345
+2021-03-27,430,Middle East,324
+2021-03-27,430,North America,1303
+2021-03-27,430,Northern Europe,150
+2021-03-27,430,Other,0
+2021-03-27,430,Western Europe,2266
