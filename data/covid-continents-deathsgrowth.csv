@@ -3284,7 +3284,7 @@ date,time,location,growth
 2020-10-02,254,Indian Subcontinent,1131
 2020-10-02,254,Latin America,4570
 2020-10-02,254,Middle East,364
-2020-10-02,254,North America,882
+2020-10-02,254,North America,883
 2020-10-02,254,Northern Europe,63
 2020-10-02,254,Other,2
 2020-10-02,254,Western Europe,309
@@ -3466,7 +3466,7 @@ date,time,location,growth
 2020-10-16,268,Indian Subcontinent,917
 2020-10-16,268,Latin America,1577
 2020-10-16,268,Middle East,434
-2020-10-16,268,North America,878
+2020-10-16,268,North America,877
 2020-10-16,268,Northern Europe,147
 2020-10-16,268,Other,0
 2020-10-16,268,Western Europe,445
@@ -3687,7 +3687,7 @@ date,time,location,growth
 2020-11-02,285,Indian Subcontinent,527
 2020-11-02,285,Latin America,681
 2020-11-02,285,Middle East,623
-2020-11-02,285,North America,531
+2020-11-02,285,North America,533
 2020-11-02,285,Northern Europe,172
 2020-11-02,285,Other,0
 2020-11-02,285,Western Europe,718
@@ -4012,7 +4012,7 @@ date,time,location,growth
 2020-11-27,310,Indian Subcontinent,595
 2020-11-27,310,Latin America,1231
 2020-11-27,310,Middle East,662
-2020-11-27,310,North America,1468
+2020-11-27,310,North America,1467
 2020-11-27,310,Northern Europe,610
 2020-11-27,310,Other,15
 2020-11-27,310,Western Europe,2550
@@ -4116,7 +4116,7 @@ date,time,location,growth
 2020-12-05,318,Indian Subcontinent,580
 2020-12-05,318,Latin America,1221
 2020-12-05,318,Middle East,471
-2020-12-05,318,North America,2781
+2020-12-05,318,North America,2780
 2020-12-05,318,Northern Europe,627
 2020-12-05,318,Other,0
 2020-12-05,318,Western Europe,2719
@@ -5654,3 +5654,16 @@ date,time,location,growth
 2021-04-02,436,Northern Europe,137
 2021-04-02,436,Other,26
 2021-04-02,436,Western Europe,1307
+2021-04-03,437,Africa,247
+2021-04-03,437,Australasia,119
+2021-04-03,437,Central America,223
+2021-04-03,437,East Asia,25
+2021-04-03,437,Eastern Europe,2423
+2021-04-03,437,Eurasia,237
+2021-04-03,437,Indian Subcontinent,770
+2021-04-03,437,Latin America,3596
+2021-04-03,437,Middle East,372
+2021-04-03,437,North America,980
+2021-04-03,437,Northern Europe,95
+2021-04-03,437,Other,0
+2021-04-03,437,Western Europe,1102
