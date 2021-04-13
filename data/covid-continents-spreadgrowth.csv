@@ -5660,7 +5660,7 @@ date,time,location,growth
 2021-04-03,437,East Asia,4537
 2021-04-03,437,Eastern Europe,101330
 2021-04-03,437,Eurasia,48857
-2021-04-03,437,Indian Subcontinent,96228
+2021-04-03,437,Indian Subcontinent,100951
 2021-04-03,437,Latin America,115571
 2021-04-03,437,Middle East,34081
 2021-04-03,437,North America,73481
@@ -5673,7 +5673,7 @@ date,time,location,growth
 2021-04-04,438,East Asia,3780
 2021-04-04,438,Eastern Europe,90518
 2021-04-04,438,Eurasia,50822
-2021-04-04,438,Indian Subcontinent,108867
+2021-04-04,438,Indian Subcontinent,104144
 2021-04-04,438,Latin America,85797
 2021-04-04,438,Middle East,31367
 2021-04-04,438,North America,70062
@@ -5784,3 +5784,16 @@ date,time,location,growth
 2021-04-12,446,Northern Europe,5387
 2021-04-12,446,Other,0
 2021-04-12,446,Western Europe,152846
+2021-04-13,447,Africa,10189
+2021-04-13,447,Australasia,17833
+2021-04-13,447,Central America,2370
+2021-04-13,447,East Asia,5833
+2021-04-13,447,Eastern Europe,48207
+2021-04-13,447,Eurasia,58946
+2021-04-13,447,Indian Subcontinent,173603
+2021-04-13,447,Latin America,92626
+2021-04-13,447,Middle East,47105
+2021-04-13,447,North America,80952
+2021-04-13,447,Northern Europe,6556
+2021-04-13,447,Other,0
+2021-04-13,447,Western Europe,72409
