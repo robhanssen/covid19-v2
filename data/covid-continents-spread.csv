@@ -466,6 +466,7 @@ date,time,location,count
 2021-04-30,465,Africa,4547021
 2021-05-01,466,Africa,4554870
 2021-05-02,467,Africa,4560919
+2021-05-03,468,Africa,4567836
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -933,6 +934,7 @@ date,time,location,count
 2021-04-30,465,Australasia,3367469
 2021-05-01,466,Australasia,3384262
 2021-05-02,467,Australasia,3400743
+2021-05-03,468,Australasia,3415410
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1400,6 +1402,7 @@ date,time,location,count
 2021-04-30,465,Central America,3489090
 2021-05-01,466,Central America,3494023
 2021-05-02,467,Central America,3495583
+2021-05-03,468,Central America,3504520
 2020-01-22,1,East Asia,556
 2020-01-23,2,East Asia,651
 2020-01-24,3,East Asia,932
@@ -1867,6 +1870,7 @@ date,time,location,count
 2021-04-30,465,East Asia,1289139
 2021-05-01,466,East Asia,1304212
 2021-05-02,467,East Asia,1323138
+2021-05-03,468,East Asia,1340084
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -2334,6 +2338,7 @@ date,time,location,count
 2021-04-30,465,Eastern Europe,16383070
 2021-05-01,466,Eastern Europe,16420217
 2021-05-02,467,Eastern Europe,16447069
+2021-05-03,468,Eastern Europe,16466904
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -2801,6 +2806,7 @@ date,time,location,count
 2021-04-30,465,Eurasia,6241004
 2021-05-01,466,Eurasia,6276534
 2021-05-02,467,Eurasia,6308165
+2021-05-03,468,Eurasia,6336696
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -3258,8 +3264,8 @@ date,time,location,count
 2021-04-20,455,Indian Subcontinent,17272766
 2021-04-21,456,Indian Subcontinent,17598322
 2021-04-22,457,Indian Subcontinent,17941903
-2021-04-23,458,Indian Subcontinent,18293360
-2021-04-24,459,Indian Subcontinent,18652922
+2021-04-23,458,Indian Subcontinent,18299268
+2021-04-24,459,Indian Subcontinent,18658533
 2021-04-25,460,Indian Subcontinent,19020181
 2021-04-26,461,Indian Subcontinent,19352170
 2021-04-27,462,Indian Subcontinent,19722768
@@ -3268,6 +3274,7 @@ date,time,location,count
 2021-04-30,465,Indian Subcontinent,20918585
 2021-05-01,466,Indian Subcontinent,21318881
 2021-05-02,467,Indian Subcontinent,21694592
+2021-05-03,468,Indian Subcontinent,22059133
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -3735,6 +3742,7 @@ date,time,location,count
 2021-04-30,465,Latin America,25343276
 2021-05-01,466,Latin America,25463269
 2021-05-02,467,Latin America,25547537
+2021-05-03,468,Latin America,25616965
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -4202,6 +4210,7 @@ date,time,location,count
 2021-04-30,465,Middle East,7753649
 2021-05-01,466,Middle East,7783375
 2021-05-02,467,Middle East,7818106
+2021-05-03,468,Middle East,7853033
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -4669,6 +4678,7 @@ date,time,location,count
 2021-04-30,465,North America,33575338
 2021-05-01,466,North America,33627186
 2021-05-02,467,North America,33662519
+2021-05-03,468,North America,33723373
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -5136,6 +5146,7 @@ date,time,location,count
 2021-04-30,465,Northern Europe,6600065
 2021-05-01,466,Northern Europe,6607240
 2021-05-02,467,Northern Europe,6612164
+2021-05-03,468,Northern Europe,6616780
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -5603,6 +5614,7 @@ date,time,location,count
 2021-04-30,465,Other,115037
 2021-05-01,466,Other,115037
 2021-05-02,467,Other,115037
+2021-05-03,468,Other,115375
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -6070,3 +6082,4 @@ date,time,location,count
 2021-04-30,465,Western Europe,21776705
 2021-05-01,466,Western Europe,21847021
 2021-05-02,467,Western Europe,21884903
+2021-05-03,468,Western Europe,21935317
