@@ -1392,14 +1392,14 @@ date,time,location,growth
 2020-08-09,200,Pacific West,194
 2020-08-09,200,South,406
 2020-08-09,200,South West,271
-2020-08-10,201,Mid West,61
+2020-08-10,201,Mid West,62
 2020-08-10,201,Mountain West,12
 2020-08-10,201,North East,30
 2020-08-10,201,Other,6
 2020-08-10,201,Pacific West,45
 2020-08-10,201,South,243
 2020-08-10,201,South West,126
-2020-08-11,202,Mid West,80
+2020-08-11,202,Mid West,79
 2020-08-11,202,Mountain West,21
 2020-08-11,202,North East,32
 2020-08-11,202,Other,0
@@ -1518,7 +1518,7 @@ date,time,location,growth
 2020-08-27,218,Pacific West,155
 2020-08-27,218,South,474
 2020-08-27,218,South West,299
-2020-08-28,219,Mid West,146
+2020-08-28,219,Mid West,148
 2020-08-28,219,Mountain West,33
 2020-08-28,219,North East,48
 2020-08-28,219,Other,9
@@ -1553,7 +1553,7 @@ date,time,location,growth
 2020-09-01,223,Pacific West,101
 2020-09-01,223,South,225
 2020-09-01,223,South West,49
-2020-09-02,224,Mid West,134
+2020-09-02,224,Mid West,132
 2020-09-02,224,Mountain West,18
 2020-09-02,224,North East,49
 2020-09-02,224,Other,5
@@ -1588,21 +1588,21 @@ date,time,location,growth
 2020-09-06,228,Pacific West,70
 2020-09-06,228,South,264
 2020-09-06,228,South West,186
-2020-09-07,229,Mid West,76
+2020-09-07,229,Mid West,77
 2020-09-07,229,Mountain West,6
 2020-09-07,229,North East,19
 2020-09-07,229,Other,14
 2020-09-07,229,Pacific West,55
 2020-09-07,229,South,205
 2020-09-07,229,South West,94
-2020-09-08,230,Mid West,62
+2020-09-08,230,Mid West,63
 2020-09-08,230,Mountain West,7
 2020-09-08,230,North East,54
 2020-09-08,230,Other,0
 2020-09-08,230,Pacific West,31
 2020-09-08,230,South,92
 2020-09-08,230,South West,49
-2020-09-09,231,Mid West,70
+2020-09-09,231,Mid West,69
 2020-09-09,231,Mountain West,6
 2020-09-09,231,North East,48
 2020-09-09,231,Other,10
@@ -1749,7 +1749,7 @@ date,time,location,growth
 2020-09-29,251,Pacific West,38
 2020-09-29,251,South,106
 2020-09-29,251,South West,67
-2020-09-30,252,Mid West,160
+2020-09-30,252,Mid West,161
 2020-09-30,252,Mountain West,21
 2020-09-30,252,North East,54
 2020-09-30,252,Other,9
@@ -1777,7 +1777,7 @@ date,time,location,growth
 2020-10-03,255,Pacific West,99
 2020-10-03,255,South,290
 2020-10-03,255,South West,123
-2020-10-04,256,Mid West,158
+2020-10-04,256,Mid West,159
 2020-10-04,256,Mountain West,22
 2020-10-04,256,North East,54
 2020-10-04,256,Other,9
@@ -1791,7 +1791,7 @@ date,time,location,growth
 2020-10-05,257,Pacific West,38
 2020-10-05,257,South,165
 2020-10-05,257,South West,33
-2020-10-06,258,Mid West,103
+2020-10-06,258,Mid West,102
 2020-10-06,258,Mountain West,13
 2020-10-06,258,North East,60
 2020-10-06,258,Other,13
@@ -1896,7 +1896,7 @@ date,time,location,growth
 2020-10-20,272,Pacific West,21
 2020-10-20,272,South,161
 2020-10-20,272,South West,28
-2020-10-21,273,Mid West,280
+2020-10-21,273,Mid West,281
 2020-10-21,273,Mountain West,41
 2020-10-21,273,North East,87
 2020-10-21,273,Other,3
@@ -1910,7 +1910,7 @@ date,time,location,growth
 2020-10-22,274,Pacific West,111
 2020-10-22,274,South,338
 2020-10-22,274,South West,118
-2020-10-23,275,Mid West,287
+2020-10-23,275,Mid West,286
 2020-10-23,275,Mountain West,31
 2020-10-23,275,North East,123
 2020-10-23,275,Other,9
@@ -2127,7 +2127,7 @@ date,time,location,growth
 2020-11-22,305,Pacific West,99
 2020-11-22,305,South,259
 2020-11-22,305,South West,208
-2020-11-23,306,Mid West,429
+2020-11-23,306,Mid West,430
 2020-11-23,306,Mountain West,36
 2020-11-23,306,North East,144
 2020-11-23,306,Other,7
@@ -2197,14 +2197,14 @@ date,time,location,growth
 2020-12-02,315,Pacific West,160
 2020-12-02,315,South,450
 2020-12-02,315,South West,271
-2020-12-03,316,Mid West,1181
+2020-12-03,316,Mid West,1182
 2020-12-03,316,Mountain West,184
 2020-12-03,316,North East,464
 2020-12-03,316,Other,27
 2020-12-03,316,Pacific West,148
 2020-12-03,316,South,505
 2020-12-03,316,South West,303
-2020-12-04,317,Mid West,1071
+2020-12-04,317,Mid West,1072
 2020-12-04,317,Mountain West,245
 2020-12-04,317,North East,472
 2020-12-04,317,Other,13
@@ -2218,7 +2218,7 @@ date,time,location,growth
 2020-12-05,318,Pacific West,303
 2020-12-05,318,South,574
 2020-12-05,318,South West,329
-2020-12-06,319,Mid West,1022
+2020-12-06,319,Mid West,1023
 2020-12-06,319,Mountain West,69
 2020-12-06,319,North East,365
 2020-12-06,319,Other,14
@@ -2239,7 +2239,7 @@ date,time,location,growth
 2020-12-08,321,Pacific West,143
 2020-12-08,321,South,346
 2020-12-08,321,South West,65
-2020-12-09,322,Mid West,960
+2020-12-09,322,Mid West,961
 2020-12-09,322,Mountain West,117
 2020-12-09,322,North East,532
 2020-12-09,322,Other,3
@@ -2274,7 +2274,7 @@ date,time,location,growth
 2020-12-13,326,Pacific West,153
 2020-12-13,326,South,443
 2020-12-13,326,South West,284
-2020-12-14,327,Mid West,529
+2020-12-14,327,Mid West,530
 2020-12-14,327,Mountain West,131
 2020-12-14,327,North East,359
 2020-12-14,327,Other,8
@@ -2302,14 +2302,14 @@ date,time,location,growth
 2020-12-17,330,Pacific West,490
 2020-12-17,330,South,685
 2020-12-17,330,South West,417
-2020-12-18,331,Mid West,1077
+2020-12-18,331,Mid West,1079
 2020-12-18,331,Mountain West,184
 2020-12-18,331,North East,599
 2020-12-18,331,Other,16
 2020-12-18,331,Pacific West,421
 2020-12-18,331,South,755
 2020-12-18,331,South West,447
-2020-12-19,332,Mid West,938
+2020-12-19,332,Mid West,940
 2020-12-19,332,Mountain West,103
 2020-12-19,332,North East,554
 2020-12-19,332,Other,13
@@ -2323,14 +2323,14 @@ date,time,location,growth
 2020-12-20,333,Pacific West,195
 2020-12-20,333,South,487
 2020-12-20,333,South West,329
-2020-12-21,334,Mid West,575
+2020-12-21,334,Mid West,576
 2020-12-21,334,Mountain West,72
 2020-12-21,334,North East,347
 2020-12-21,334,Other,33
 2020-12-21,334,Pacific West,83
 2020-12-21,334,South,440
 2020-12-21,334,South West,164
-2020-12-22,335,Mid West,699
+2020-12-22,335,Mid West,701
 2020-12-22,335,Mountain West,59
 2020-12-22,335,North East,401
 2020-12-22,335,Other,20
@@ -2344,28 +2344,28 @@ date,time,location,growth
 2020-12-23,336,Pacific West,453
 2020-12-23,336,South,693
 2020-12-23,336,South West,354
-2020-12-24,337,Mid West,900
+2020-12-24,337,Mid West,897
 2020-12-24,337,Mountain West,192
 2020-12-24,337,North East,753
 2020-12-24,337,Other,24
 2020-12-24,337,Pacific West,407
 2020-12-24,337,South,796
 2020-12-24,337,South West,352
-2020-12-25,338,Mid West,712
+2020-12-25,338,Mid West,714
 2020-12-25,338,Mountain West,168
 2020-12-25,338,North East,735
 2020-12-25,338,Other,20
 2020-12-25,338,Pacific West,336
 2020-12-25,338,South,503
 2020-12-25,338,South West,432
-2020-12-26,339,Mid West,444
+2020-12-26,339,Mid West,446
 2020-12-26,339,Mountain West,63
 2020-12-26,339,North East,377
 2020-12-26,339,Other,9
 2020-12-26,339,Pacific West,60
 2020-12-26,339,South,139
 2020-12-26,339,South West,333
-2020-12-27,340,Mid West,737
+2020-12-27,340,Mid West,738
 2020-12-27,340,Mountain West,23
 2020-12-27,340,North East,266
 2020-12-27,340,Other,6
@@ -2379,14 +2379,14 @@ date,time,location,growth
 2020-12-28,341,Pacific West,66
 2020-12-28,341,South,347
 2020-12-28,341,South West,88
-2020-12-29,342,Mid West,607
+2020-12-29,342,Mid West,608
 2020-12-29,342,Mountain West,105
 2020-12-29,342,North East,468
 2020-12-29,342,Other,14
 2020-12-29,342,Pacific West,274
 2020-12-29,342,South,382
 2020-12-29,342,South West,153
-2020-12-30,343,Mid West,983
+2020-12-30,343,Mid West,984
 2020-12-30,343,Mountain West,145
 2020-12-30,343,North East,747
 2020-12-30,343,Other,8
@@ -2407,14 +2407,14 @@ date,time,location,growth
 2021-01-01,345,Pacific West,656
 2021-01-01,345,South,618
 2021-01-01,345,South West,512
-2021-01-02,346,Mid West,433
+2021-01-02,346,Mid West,434
 2021-01-02,346,Mountain West,80
 2021-01-02,346,North East,568
 2021-01-02,346,Other,21
 2021-01-02,346,Pacific West,373
 2021-01-02,346,South,205
 2021-01-02,346,South West,469
-2021-01-03,347,Mid West,934
+2021-01-03,347,Mid West,935
 2021-01-03,347,Mountain West,91
 2021-01-03,347,North East,416
 2021-01-03,347,Other,9
@@ -2449,14 +2449,14 @@ date,time,location,growth
 2021-01-07,351,Pacific West,640
 2021-01-07,351,South,863
 2021-01-07,351,South West,484
-2021-01-08,352,Mid West,853
+2021-01-08,352,Mid West,854
 2021-01-08,352,Mountain West,202
 2021-01-08,352,North East,806
 2021-01-08,352,Other,21
 2021-01-08,352,Pacific West,548
 2021-01-08,352,South,839
 2021-01-08,352,South West,716
-2021-01-09,353,Mid West,794
+2021-01-09,353,Mid West,795
 2021-01-09,353,Mountain West,130
 2021-01-09,353,North East,711
 2021-01-09,353,Other,5
@@ -2470,28 +2470,28 @@ date,time,location,growth
 2021-01-10,354,Pacific West,617
 2021-01-10,354,South,829
 2021-01-10,354,South West,305
-2021-01-11,355,Mid West,413
+2021-01-11,355,Mid West,414
 2021-01-11,355,Mountain West,45
 2021-01-11,355,North East,383
 2021-01-11,355,Other,18
 2021-01-11,355,Pacific West,299
 2021-01-11,355,South,553
 2021-01-11,355,South West,288
-2021-01-12,356,Mid West,475
+2021-01-12,356,Mid West,476
 2021-01-12,356,Mountain West,53
 2021-01-12,356,North East,499
 2021-01-12,356,Other,16
 2021-01-12,356,Pacific West,493
 2021-01-12,356,South,440
 2021-01-12,356,South West,127
-2021-01-13,357,Mid West,843
+2021-01-13,357,Mid West,844
 2021-01-13,357,Mountain West,156
 2021-01-13,357,North East,827
 2021-01-13,357,Other,7
 2021-01-13,357,Pacific West,820
 2021-01-13,357,South,1146
 2021-01-13,357,South West,675
-2021-01-14,358,Mid West,673
+2021-01-14,358,Mid West,675
 2021-01-14,358,Mountain West,130
 2021-01-14,358,North East,902
 2021-01-14,358,Other,20
@@ -2519,7 +2519,7 @@ date,time,location,growth
 2021-01-17,361,Pacific West,425
 2021-01-17,361,South,855
 2021-01-17,361,South West,586
-2021-01-18,362,Mid West,322
+2021-01-18,362,Mid West,323
 2021-01-18,362,Mountain West,48
 2021-01-18,362,North East,449
 2021-01-18,362,Other,3
@@ -2575,14 +2575,14 @@ date,time,location,growth
 2021-01-25,369,Pacific West,284
 2021-01-25,369,South,555
 2021-01-25,369,South West,284
-2021-01-26,370,Mid West,318
+2021-01-26,370,Mid West,321
 2021-01-26,370,Mountain West,24
 2021-01-26,370,North East,497
 2021-01-26,370,Other,13
 2021-01-26,370,Pacific West,460
 2021-01-26,370,South,469
 2021-01-26,370,South West,192
-2021-01-27,371,Mid West,581
+2021-01-27,371,Mid West,582
 2021-01-27,371,Mountain West,146
 2021-01-27,371,North East,699
 2021-01-27,371,Other,14
@@ -2596,14 +2596,14 @@ date,time,location,growth
 2021-01-28,372,Pacific West,622
 2021-01-28,372,South,1295
 2021-01-28,372,South West,679
-2021-01-29,373,Mid West,504
+2021-01-29,373,Mid West,505
 2021-01-29,373,Mountain West,80
 2021-01-29,373,North East,692
 2021-01-29,373,Other,14
 2021-01-29,373,Pacific West,808
 2021-01-29,373,South,1320
 2021-01-29,373,South West,619
-2021-01-30,374,Mid West,462
+2021-01-30,374,Mid West,463
 2021-01-30,374,Mountain West,118
 2021-01-30,374,North East,632
 2021-01-30,374,Other,16
@@ -2617,7 +2617,7 @@ date,time,location,growth
 2021-01-31,375,Pacific West,498
 2021-01-31,375,South,798
 2021-01-31,375,South West,367
-2021-02-01,376,Mid West,460
+2021-02-01,376,Mid West,462
 2021-02-01,376,Mountain West,29
 2021-02-01,376,North East,359
 2021-02-01,376,Other,10
@@ -2666,7 +2666,7 @@ date,time,location,growth
 2021-02-07,382,Pacific West,360
 2021-02-07,382,South,803
 2021-02-07,382,South West,360
-2021-02-08,383,Mid West,256
+2021-02-08,383,Mid West,257
 2021-02-08,383,Mountain West,38
 2021-02-08,383,North East,387
 2021-02-08,383,Other,16
@@ -3267,4 +3267,11 @@ date,time,location,growth
 2021-05-04,468,Other,8
 2021-05-04,468,Pacific West,39
 2021-05-04,468,South,153
-2021-05-04,468,South West,41
+2021-05-04,468,South West,47
+2021-05-05,469,Mid West,315
+2021-05-05,469,Mountain West,41
+2021-05-05,469,North East,182
+2021-05-05,469,Other,15
+2021-05-05,469,Pacific West,89
+2021-05-05,469,South,190
+2021-05-05,469,South West,101
