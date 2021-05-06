@@ -3244,14 +3244,14 @@ date,time,location,growth
 2021-05-01,465,Mountain West,23
 2021-05-01,465,North East,168
 2021-05-01,465,Other,7
-2021-05-01,465,Pacific West,422
+2021-05-01,465,Pacific West,112
 2021-05-01,465,South,191
 2021-05-01,465,South West,83
 2021-05-02,466,Mid West,226
 2021-05-02,466,Mountain West,11
 2021-05-02,466,North East,147
 2021-05-02,466,Other,3
-2021-05-02,466,Pacific West,-209
+2021-05-02,466,Pacific West,101
 2021-05-02,466,South,147
 2021-05-02,466,South West,69
 2021-05-03,467,Mid West,53
@@ -3275,3 +3275,10 @@ date,time,location,growth
 2021-05-05,469,Pacific West,89
 2021-05-05,469,South,190
 2021-05-05,469,South West,101
+2021-05-06,470,Mid West,192
+2021-05-06,470,Mountain West,26
+2021-05-06,470,North East,190
+2021-05-06,470,Other,15
+2021-05-06,470,Pacific West,54
+2021-05-06,470,South,232
+2021-05-06,470,South West,67
