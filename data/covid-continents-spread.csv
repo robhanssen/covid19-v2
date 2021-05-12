@@ -474,6 +474,7 @@ date,time,location,count
 2021-05-08,473,Africa,4611857
 2021-05-09,474,Africa,4621359
 2021-05-10,475,Africa,4629706
+2021-05-11,476,Africa,4636773
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -949,6 +950,7 @@ date,time,location,count
 2021-05-08,473,Australasia,3496736
 2021-05-09,474,Australasia,3511870
 2021-05-10,475,Australasia,3528106
+2021-05-11,476,Australasia,3542505
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1424,6 +1426,7 @@ date,time,location,count
 2021-05-08,473,Central America,3541474
 2021-05-09,474,Central America,3543375
 2021-05-10,475,Central America,3551440
+2021-05-11,476,Central America,3559029
 2020-01-22,1,East Asia,556
 2020-01-23,2,East Asia,651
 2020-01-24,3,East Asia,932
@@ -1899,6 +1902,7 @@ date,time,location,count
 2021-05-08,473,East Asia,1433331
 2021-05-09,474,East Asia,1453582
 2021-05-10,475,East Asia,1471952
+2021-05-11,476,East Asia,1492739
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -2374,6 +2378,7 @@ date,time,location,count
 2021-05-08,473,Eastern Europe,16616997
 2021-05-09,474,Eastern Europe,16642171
 2021-05-10,475,Eastern Europe,16661452
+2021-05-11,476,Eastern Europe,16683287
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -2849,6 +2854,7 @@ date,time,location,count
 2021-05-08,473,Eurasia,6483614
 2021-05-09,474,Eurasia,6503614
 2021-05-10,475,Eurasia,6518860
+2021-05-11,476,Eurasia,6540191
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -3324,6 +3330,7 @@ date,time,location,count
 2021-05-08,473,Indian Subcontinent,24112425
 2021-05-09,474,Indian Subcontinent,24483083
 2021-05-10,475,Indian Subcontinent,24823935
+2021-05-11,476,Indian Subcontinent,25179381
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -3799,6 +3806,7 @@ date,time,location,count
 2021-05-08,473,Latin America,26299221
 2021-05-09,474,Latin America,26386354
 2021-05-10,475,Latin America,26457239
+2021-05-11,476,Latin America,26589986
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -4274,6 +4282,7 @@ date,time,location,count
 2021-05-08,473,Middle East,8012649
 2021-05-09,474,Middle East,8039281
 2021-05-10,475,Middle East,8071599
+2021-05-11,476,Middle East,8103464
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -4743,12 +4752,13 @@ date,time,location,count
 2021-05-02,467,North America,33662519
 2021-05-03,468,North America,33724012
 2021-05-04,469,North America,33771383
-2021-05-05,470,North America,33823693
-2021-05-06,471,North America,33879016
-2021-05-07,472,North America,33933711
-2021-05-08,473,North America,33974290
-2021-05-09,474,North America,34001375
-2021-05-10,475,North America,34046470
+2021-05-05,470,North America,33823918
+2021-05-06,471,North America,33879389
+2021-05-07,472,North America,33934318
+2021-05-08,473,North America,33974897
+2021-05-09,474,North America,34001982
+2021-05-10,475,North America,34047744
+2021-05-11,476,North America,34086769
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -5224,6 +5234,7 @@ date,time,location,count
 2021-05-08,473,Northern Europe,6684123
 2021-05-09,474,Northern Europe,6689444
 2021-05-10,475,Northern Europe,6695292
+2021-05-11,476,Northern Europe,6715755
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -5699,6 +5710,7 @@ date,time,location,count
 2021-05-08,473,Other,117652
 2021-05-09,474,Other,117652
 2021-05-10,475,Other,117848
+2021-05-11,476,Other,118194
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -6174,3 +6186,4 @@ date,time,location,count
 2021-05-08,473,Western Europe,22303825
 2021-05-09,474,Western Europe,22333126
 2021-05-10,475,Western Europe,22377096
+2021-05-11,476,Western Europe,22442669
