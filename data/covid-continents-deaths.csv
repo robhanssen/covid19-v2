@@ -475,6 +475,7 @@ date,time,location,count
 2021-05-09,474,Africa,124246
 2021-05-10,475,Africa,124597
 2021-05-11,476,Africa,124911
+2021-05-12,477,Africa,125215
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,0.1
 2020-01-24,3,Australasia,0.1
@@ -951,6 +952,7 @@ date,time,location,count
 2021-05-09,474,Australasia,71510
 2021-05-10,475,Australasia,71824
 2021-05-11,476,Australasia,72160
+2021-05-12,477,Australasia,72446
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1427,6 +1429,7 @@ date,time,location,count
 2021-05-09,474,Central America,244631
 2021-05-10,475,Central America,244861
 2021-05-11,476,Central America,245297
+2021-05-12,477,Central America,245700
 2020-01-22,1,East Asia,17
 2020-01-23,2,East Asia,18
 2020-01-24,3,East Asia,26
@@ -1903,6 +1906,7 @@ date,time,location,count
 2021-05-09,474,East Asia,22087
 2021-05-10,475,East Asia,22341
 2021-05-11,476,East Asia,22726
+2021-05-12,477,East Asia,23052
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -2379,6 +2383,7 @@ date,time,location,count
 2021-05-09,474,Eastern Europe,390780
 2021-05-10,475,Eastern Europe,391763
 2021-05-11,476,Eastern Europe,393006
+2021-05-12,477,Eastern Europe,394489
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -2855,6 +2860,7 @@ date,time,location,count
 2021-05-09,474,Eurasia,62002
 2021-05-10,475,Eurasia,62347
 2021-05-11,476,Eurasia,62697
+2021-05-12,477,Eurasia,63000
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -3328,9 +3334,10 @@ date,time,location,count
 2021-05-06,471,Indian Subcontinent,267966
 2021-05-07,472,Indian Subcontinent,272338
 2021-05-08,473,Indian Subcontinent,276610
-2021-05-09,474,Indian Subcontinent,280453
+2021-05-09,474,Indian Subcontinent,280531
 2021-05-10,475,Indian Subcontinent,284596
 2021-05-11,476,Indian Subcontinent,288973
+2021-05-12,477,Indian Subcontinent,293262
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -3807,6 +3814,7 @@ date,time,location,count
 2021-05-09,474,Latin America,710271
 2021-05-10,475,Latin America,712459
 2021-05-11,476,Latin America,716244
+2021-05-12,477,Latin America,720563
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -4283,6 +4291,7 @@ date,time,location,count
 2021-05-09,474,Middle East,133549
 2021-05-10,475,Middle East,134081
 2021-05-11,476,Middle East,134533
+2021-05-12,477,Middle East,134993
 2020-01-22,1,North America,0.1
 2020-01-23,2,North America,0.1
 2020-01-24,3,North America,0.1
@@ -4759,6 +4768,7 @@ date,time,location,count
 2021-05-09,474,North America,606331
 2021-05-10,475,North America,606813
 2021-05-11,476,North America,607530
+2021-05-12,477,North America,608440
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -5235,6 +5245,7 @@ date,time,location,count
 2021-05-09,474,Northern Europe,158622
 2021-05-10,475,Northern Europe,158642
 2021-05-11,476,Northern Europe,158735
+2021-05-12,477,Northern Europe,158830
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -5711,6 +5722,7 @@ date,time,location,count
 2021-05-09,474,Other,2370
 2021-05-10,475,Other,2370
 2021-05-11,476,Other,2381
+2021-05-12,477,Other,2385
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -6187,3 +6199,4 @@ date,time,location,count
 2021-05-09,474,Western Europe,485998
 2021-05-10,475,Western Europe,487001
 2021-05-11,476,Western Europe,488131
+2021-05-12,477,Western Europe,488883
