@@ -6356,7 +6356,7 @@ date,time,location,growth
 2021-05-26,490,Northern Europe,77
 2021-05-26,490,Other,5
 2021-05-26,490,Western Europe,850
-2021-05-27,491,Africa,202
+2021-05-27,491,Africa,303
 2021-05-27,491,Australasia,362
 2021-05-27,491,Central America,378
 2021-05-27,491,East Asia,328
@@ -6369,7 +6369,7 @@ date,time,location,growth
 2021-05-27,491,Northern Europe,73
 2021-05-27,491,Other,0
 2021-05-27,491,Western Europe,677
-2021-05-28,492,Africa,300
+2021-05-28,492,Africa,292
 2021-05-28,492,Australasia,410
 2021-05-28,492,Central America,489
 2021-05-28,492,East Asia,299
@@ -6382,7 +6382,7 @@ date,time,location,growth
 2021-05-28,492,Northern Europe,43
 2021-05-28,492,Other,1
 2021-05-28,492,Western Europe,623
-2021-05-29,493,Africa,393
+2021-05-29,493,Africa,300
 2021-05-29,493,Australasia,442
 2021-05-29,493,Central America,502
 2021-05-29,493,East Asia,261
@@ -6395,3 +6395,16 @@ date,time,location,growth
 2021-05-29,493,Northern Europe,26
 2021-05-29,493,Other,0
 2021-05-29,493,Western Europe,522
+2021-05-30,494,Africa,253
+2021-05-30,494,Australasia,417
+2021-05-30,494,Central America,430
+2021-05-30,494,East Asia,277
+2021-05-30,494,Eastern Europe,850
+2021-05-30,494,Eurasia,178
+2021-05-30,494,Indian Subcontinent,3572
+2021-05-30,494,Latin America,3607
+2021-05-30,494,Middle East,255
+2021-05-30,494,North America,370
+2021-05-30,494,Northern Europe,35
+2021-05-30,494,Other,0
+2021-05-30,494,Western Europe,258
