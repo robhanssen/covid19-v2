@@ -6447,7 +6447,7 @@ date,time,location,growth
 2021-06-02,497,Northern Europe,19
 2021-06-02,497,Other,0
 2021-06-02,497,Western Europe,517
-2021-06-03,498,Africa,200
+2021-06-03,498,Africa,310
 2021-06-03,498,Australasia,459
 2021-06-03,498,Central America,392
 2021-06-03,498,East Asia,279
@@ -6460,7 +6460,7 @@ date,time,location,growth
 2021-06-03,498,Northern Europe,32
 2021-06-03,498,Other,1
 2021-06-03,498,Western Europe,367
-2021-06-04,499,Africa,195
+2021-06-04,499,Africa,249
 2021-06-04,499,Australasia,492
 2021-06-04,499,Central America,290
 2021-06-04,499,East Asia,266
@@ -6473,3 +6473,16 @@ date,time,location,growth
 2021-06-04,499,Northern Europe,93
 2021-06-04,499,Other,0
 2021-06-04,499,Western Europe,372
+2021-06-05,500,Africa,277
+2021-06-05,500,Australasia,470
+2021-06-05,500,Central America,295
+2021-06-05,500,East Asia,257
+2021-06-05,500,Eastern Europe,758
+2021-06-05,500,Eurasia,135
+2021-06-05,500,Indian Subcontinent,3580
+2021-06-05,500,Latin America,3831
+2021-06-05,500,Middle East,246
+2021-06-05,500,North America,608
+2021-06-05,500,Northern Europe,40
+2021-06-05,500,Other,2
+2021-06-05,500,Western Europe,497
