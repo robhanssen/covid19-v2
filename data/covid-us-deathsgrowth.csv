@@ -3490,7 +3490,7 @@ date,time,location,growth
 2021-06-05,500,North East,127
 2021-06-05,500,Other,1
 2021-06-05,500,Pacific West,76
-2021-06-05,500,South,117
+2021-06-05,500,South,129
 2021-06-05,500,South West,70
 2021-06-06,501,Mid West,155
 2021-06-06,501,Mountain West,2
@@ -3539,5 +3539,12 @@ date,time,location,growth
 2021-06-12,507,North East,58
 2021-06-12,507,Other,5
 2021-06-12,507,Pacific West,57
-2021-06-12,507,South,125
+2021-06-12,507,South,405
 2021-06-12,507,South West,43
+2021-06-13,508,Mid West,116
+2021-06-13,508,Mountain West,15
+2021-06-13,508,North East,34
+2021-06-13,508,Other,0
+2021-06-13,508,Pacific West,-66
+2021-06-13,508,South,49
+2021-06-13,508,South West,44
