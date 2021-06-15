@@ -6454,7 +6454,7 @@ date,time,location,growth
 2021-06-03,498,Eastern Europe,15164
 2021-06-03,498,Eurasia,10357
 2021-06-03,498,Indian Subcontinent,142532
-2021-06-03,498,Latin America,189555
+2021-06-03,498,Latin America,189556
 2021-06-03,498,Middle East,25525
 2021-06-03,498,North America,19097
 2021-06-03,498,Northern Europe,7008
@@ -6467,7 +6467,7 @@ date,time,location,growth
 2021-06-04,499,Eastern Europe,15120
 2021-06-04,499,Eurasia,9826
 2021-06-04,499,Indian Subcontinent,140349
-2021-06-04,499,Latin America,166948
+2021-06-04,499,Latin America,167042
 2021-06-04,499,Middle East,23065
 2021-06-04,499,North America,21247
 2021-06-04,499,Northern Europe,16382
@@ -6480,7 +6480,7 @@ date,time,location,growth
 2021-06-05,500,Eastern Europe,14645
 2021-06-05,500,Eurasia,9030
 2021-06-05,500,Indian Subcontinent,129273
-2021-06-05,500,Latin America,134116
+2021-06-05,500,Latin America,134204
 2021-06-05,500,Middle East,20653
 2021-06-05,500,North America,18894
 2021-06-05,500,Northern Europe,9818
@@ -6493,7 +6493,7 @@ date,time,location,growth
 2021-06-06,501,Eastern Europe,14014
 2021-06-06,501,Eurasia,9090
 2021-06-06,501,Indian Subcontinent,121987
-2021-06-06,501,Latin America,146720
+2021-06-06,501,Latin America,146628
 2021-06-06,501,Middle East,16641
 2021-06-06,501,North America,15257
 2021-06-06,501,Northern Europe,7616
@@ -6506,7 +6506,7 @@ date,time,location,growth
 2021-06-07,502,Eastern Europe,12397
 2021-06-07,502,Eurasia,7628
 2021-06-07,502,Indian Subcontinent,108044
-2021-06-07,502,Latin America,100736
+2021-06-07,502,Latin America,100786
 2021-06-07,502,Middle East,18793
 2021-06-07,502,North America,6769
 2021-06-07,502,Northern Europe,6972
@@ -6519,7 +6519,7 @@ date,time,location,growth
 2021-06-08,503,Eastern Europe,11672
 2021-06-08,503,Eurasia,7395
 2021-06-08,503,Indian Subcontinent,94130
-2021-06-08,503,Latin America,101386
+2021-06-08,503,Latin America,101418
 2021-06-08,503,Middle East,16684
 2021-06-08,503,North America,17315
 2021-06-08,503,Northern Europe,6941
@@ -6532,7 +6532,7 @@ date,time,location,growth
 2021-06-09,504,Eastern Europe,14311
 2021-06-09,504,Eurasia,9504
 2021-06-09,504,Indian Subcontinent,100224
-2021-06-09,504,Latin America,127932
+2021-06-09,504,Latin America,127980
 2021-06-09,504,Middle East,21748
 2021-06-09,504,North America,14082
 2021-06-09,504,Northern Europe,10122
@@ -6545,7 +6545,7 @@ date,time,location,growth
 2021-06-10,505,Eastern Europe,15087
 2021-06-10,505,Eurasia,9315
 2021-06-10,505,Indian Subcontinent,101777
-2021-06-10,505,Latin America,158123
+2021-06-10,505,Latin America,158182
 2021-06-10,505,Middle East,23359
 2021-06-10,505,North America,20106
 2021-06-10,505,Northern Europe,10516
@@ -6558,7 +6558,7 @@ date,time,location,growth
 2021-06-11,506,Eastern Europe,16421
 2021-06-11,506,Eurasia,9191
 2021-06-11,506,Indian Subcontinent,100780
-2021-06-11,506,Latin America,182121
+2021-06-11,506,Latin America,182141
 2021-06-11,506,Middle East,22151
 2021-06-11,506,North America,16006
 2021-06-11,506,Northern Europe,9718
@@ -6571,7 +6571,7 @@ date,time,location,growth
 2021-06-12,507,Eastern Europe,16747
 2021-06-12,507,Eurasia,9118
 2021-06-12,507,Indian Subcontinent,92056
-2021-06-12,507,Latin America,163825
+2021-06-12,507,Latin America,163894
 2021-06-12,507,Middle East,24529
 2021-06-12,507,North America,26302
 2021-06-12,507,Northern Europe,10058
@@ -6584,7 +6584,7 @@ date,time,location,growth
 2021-06-13,508,Eastern Europe,16859
 2021-06-13,508,Eurasia,9010
 2021-06-13,508,Indian Subcontinent,87664
-2021-06-13,508,Latin America,150831
+2021-06-13,508,Latin America,150462
 2021-06-13,508,Middle East,17021
 2021-06-13,508,North America,9393
 2021-06-13,508,Northern Europe,9125
@@ -6603,3 +6603,16 @@ date,time,location,growth
 2021-06-14,509,Northern Europe,8322
 2021-06-14,509,Other,45
 2021-06-14,509,Western Europe,8178
+2021-06-15,510,Africa,16222
+2021-06-15,510,Australasia,20206
+2021-06-15,510,Central America,6069
+2021-06-15,510,East Asia,10116
+2021-06-15,510,Eastern Europe,15789
+2021-06-15,510,Eurasia,8503
+2021-06-15,510,Indian Subcontinent,68253
+2021-06-15,510,Latin America,103001
+2021-06-15,510,Middle East,23520
+2021-06-15,510,North America,14042
+2021-06-15,510,Northern Europe,8489
+2021-06-15,510,Other,5
+2021-06-15,510,Western Europe,13737
