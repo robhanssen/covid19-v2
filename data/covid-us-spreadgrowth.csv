@@ -3544,7 +3544,7 @@ date,time,location,growth
 2021-06-13,508,Mid West,2154
 2021-06-13,508,Mountain West,961
 2021-06-13,508,North East,1033
-2021-06-13,508,Other,41
+2021-06-13,508,Other,62
 2021-06-13,508,Pacific West,1604
 2021-06-13,508,South,1053
 2021-06-13,508,South West,1361
@@ -3558,7 +3558,7 @@ date,time,location,growth
 2021-06-15,510,Mid West,2647
 2021-06-15,510,Mountain West,1282
 2021-06-15,510,North East,1362
-2021-06-15,510,Other,88
+2021-06-15,510,Other,67
 2021-06-15,510,Pacific West,2167
 2021-06-15,510,South,3607
 2021-06-15,510,South West,1599
@@ -3569,3 +3569,10 @@ date,time,location,growth
 2021-06-16,511,Pacific West,2036
 2021-06-16,511,South,2769
 2021-06-16,511,South West,1882
+2021-06-17,512,Mid West,2965
+2021-06-17,512,Mountain West,1455
+2021-06-17,512,North East,1155
+2021-06-17,512,Other,66
+2021-06-17,512,Pacific West,1596
+2021-06-17,512,South,2540
+2021-06-17,512,South West,2653
