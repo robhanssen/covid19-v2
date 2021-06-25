@@ -6721,7 +6721,7 @@ date,time,location,growth
 2021-06-23,518,Other,3
 2021-06-23,518,Western Europe,220
 2021-06-24,519,Africa,516
-2021-06-24,519,Australasia,510
+2021-06-24,519,Australasia,512
 2021-06-24,519,Central America,462
 2021-06-24,519,East Asia,254
 2021-06-24,519,Eastern Europe,857
@@ -6733,3 +6733,16 @@ date,time,location,growth
 2021-06-24,519,Northern Europe,41
 2021-06-24,519,Other,0
 2021-06-24,519,Western Europe,188
+2021-06-25,520,Africa,534
+2021-06-25,520,Australasia,556
+2021-06-25,520,Central America,333
+2021-06-25,520,East Asia,133
+2021-06-25,520,Eastern Europe,833
+2021-06-25,520,Eurasia,89
+2021-06-25,520,Indian Subcontinent,1585
+2021-06-25,520,Latin America,3724
+2021-06-25,520,Middle East,256
+2021-06-25,520,North America,359
+2021-06-25,520,Northern Europe,31
+2021-06-25,520,Other,4
+2021-06-25,520,Western Europe,175
