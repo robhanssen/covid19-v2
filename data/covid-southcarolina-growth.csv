@@ -5189,3 +5189,13 @@ date,time,county,deaths,cases
 2021-06-25,520,Pickens,0,0
 2021-06-25,520,Spartanburg,0,8
 2021-06-25,520,Union,0,0
+2021-06-26,521,Abbeville,0,0
+2021-06-26,521,Anderson,0,2
+2021-06-26,521,Cherokee,0,7
+2021-06-26,521,Greenville,2,10
+2021-06-26,521,Greenwood,0,2
+2021-06-26,521,Laurens,0,3
+2021-06-26,521,Oconee,1,0
+2021-06-26,521,Pickens,0,-1
+2021-06-26,521,Spartanburg,4,11
+2021-06-26,521,Union,0,1
