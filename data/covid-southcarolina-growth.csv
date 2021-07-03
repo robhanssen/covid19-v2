@@ -5259,3 +5259,13 @@ date,time,county,deaths,cases
 2021-07-02,527,Pickens,0,1
 2021-07-02,527,Spartanburg,1,11
 2021-07-02,527,Union,0,0
+2021-07-03,528,Abbeville,0,0
+2021-07-03,528,Anderson,0,-1
+2021-07-03,528,Cherokee,0,4
+2021-07-03,528,Greenville,1,16
+2021-07-03,528,Greenwood,0,-1
+2021-07-03,528,Laurens,0,4
+2021-07-03,528,Oconee,0,3
+2021-07-03,528,Pickens,0,0
+2021-07-03,528,Spartanburg,0,10
+2021-07-03,528,Union,0,1
