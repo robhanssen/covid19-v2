@@ -6846,7 +6846,7 @@ date,time,location,growth
 2021-07-03,528,Indian Subcontinent,941
 2021-07-03,528,Latin America,3549
 2021-07-03,528,Middle East,250
-2021-07-03,528,North America,538
+2021-07-03,528,North America,427
 2021-07-03,528,Northern Europe,38
 2021-07-03,528,Other,0
 2021-07-03,528,Western Europe,130
@@ -6859,7 +6859,20 @@ date,time,location,growth
 2021-07-04,529,Indian Subcontinent,1152
 2021-07-04,529,Latin America,2865
 2021-07-04,529,Middle East,185
-2021-07-04,529,North America,-25
+2021-07-04,529,North America,86
 2021-07-04,529,Northern Europe,21
 2021-07-04,529,Other,0
 2021-07-04,529,Western Europe,61
+2021-07-05,530,Africa,626
+2021-07-05,530,Australasia,744
+2021-07-05,530,Central America,105
+2021-07-05,530,East Asia,116
+2021-07-05,530,Eastern Europe,695
+2021-07-05,530,Eurasia,19
+2021-07-05,530,Indian Subcontinent,940
+2021-07-05,530,Latin America,2617
+2021-07-05,530,Middle East,391
+2021-07-05,530,North America,37
+2021-07-05,530,Northern Europe,18
+2021-07-05,530,Other,0
+2021-07-05,530,Western Europe,31

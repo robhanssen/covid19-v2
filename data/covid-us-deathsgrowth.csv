@@ -3685,13 +3685,20 @@ date,time,location,growth
 2021-07-03,528,Mountain West,16
 2021-07-03,528,North East,22
 2021-07-03,528,Other,2
-2021-07-03,528,Pacific West,54
+2021-07-03,528,Pacific West,-57
 2021-07-03,528,South,270
 2021-07-03,528,South West,66
 2021-07-04,529,Mid West,17
 2021-07-04,529,Mountain West,12
 2021-07-04,529,North East,17
 2021-07-04,529,Other,0
-2021-07-04,529,Pacific West,-111
+2021-07-04,529,Pacific West,0
 2021-07-04,529,South,0
 2021-07-04,529,South West,34
+2021-07-05,530,Mid West,2
+2021-07-05,530,Mountain West,3
+2021-07-05,530,North East,12
+2021-07-05,530,Other,0
+2021-07-05,530,Pacific West,-1
+2021-07-05,530,South,4
+2021-07-05,530,South West,13
