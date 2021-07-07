@@ -3664,14 +3664,14 @@ date,time,location,growth
 2021-06-30,525,Mountain West,37
 2021-06-30,525,North East,25
 2021-06-30,525,Other,2
-2021-06-30,525,Pacific West,39
+2021-06-30,525,Pacific West,32
 2021-06-30,525,South,72
 2021-06-30,525,South West,48
 2021-07-01,526,Mid West,47
 2021-07-01,526,Mountain West,15
 2021-07-01,526,North East,31
 2021-07-01,526,Other,0
-2021-07-01,526,Pacific West,44
+2021-07-01,526,Pacific West,51
 2021-07-01,526,South,66
 2021-07-01,526,South West,37
 2021-07-02,527,Mid West,50
@@ -3709,3 +3709,10 @@ date,time,location,growth
 2021-07-06,531,Pacific West,0
 2021-07-06,531,South,22
 2021-07-06,531,South West,0
+2021-07-07,532,Mid West,77
+2021-07-07,532,Mountain West,19
+2021-07-07,532,North East,20
+2021-07-07,532,Other,1
+2021-07-07,532,Pacific West,94
+2021-07-07,532,South,80
+2021-07-07,532,South West,47

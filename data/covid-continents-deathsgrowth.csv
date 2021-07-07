@@ -6807,7 +6807,7 @@ date,time,location,growth
 2021-06-30,525,Indian Subcontinent,1065
 2021-06-30,525,Latin America,3382
 2021-06-30,525,Middle East,273
-2021-06-30,525,North America,362
+2021-06-30,525,North America,355
 2021-06-30,525,Northern Europe,36
 2021-06-30,525,Other,0
 2021-06-30,525,Western Europe,221
@@ -6820,7 +6820,7 @@ date,time,location,growth
 2021-07-01,526,Indian Subcontinent,1284
 2021-07-01,526,Latin America,4159
 2021-07-01,526,Middle East,241
-2021-07-01,526,North America,267
+2021-07-01,526,North America,274
 2021-07-01,526,Northern Europe,35
 2021-07-01,526,Other,0
 2021-07-01,526,Western Europe,170
@@ -6836,7 +6836,7 @@ date,time,location,growth
 2021-07-02,527,North America,305
 2021-07-02,527,Northern Europe,38
 2021-07-02,527,Other,1
-2021-07-02,527,Western Europe,153
+2021-07-02,527,Western Europe,178
 2021-07-03,528,Africa,689
 2021-07-03,528,Australasia,809
 2021-07-03,528,Central America,304
@@ -6868,7 +6868,7 @@ date,time,location,growth
 2021-07-05,530,Central America,105
 2021-07-05,530,East Asia,116
 2021-07-05,530,Eastern Europe,695
-2021-07-05,530,Eurasia,19
+2021-07-05,530,Eurasia,69
 2021-07-05,530,Indian Subcontinent,940
 2021-07-05,530,Latin America,2617
 2021-07-05,530,Middle East,391
@@ -6881,7 +6881,7 @@ date,time,location,growth
 2021-07-06,531,Central America,199
 2021-07-06,531,East Asia,126
 2021-07-06,531,Eastern Europe,777
-2021-07-06,531,Eurasia,44
+2021-07-06,531,Eurasia,79
 2021-07-06,531,Indian Subcontinent,1095
 2021-07-06,531,Latin America,2456
 2021-07-06,531,Middle East,265
@@ -6889,3 +6889,16 @@ date,time,location,growth
 2021-07-06,531,Northern Europe,11
 2021-07-06,531,Other,4
 2021-07-06,531,Western Europe,143
+2021-07-07,532,Africa,833
+2021-07-07,532,Australasia,1000
+2021-07-07,532,Central America,367
+2021-07-07,532,East Asia,160
+2021-07-07,532,Eastern Europe,839
+2021-07-07,532,Eurasia,65
+2021-07-07,532,Indian Subcontinent,1232
+2021-07-07,532,Latin America,3271
+2021-07-07,532,Middle East,262
+2021-07-07,532,North America,347
+2021-07-07,532,Northern Europe,47
+2021-07-07,532,Other,0
+2021-07-07,532,Western Europe,146

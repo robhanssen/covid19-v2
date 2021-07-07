@@ -530,6 +530,7 @@ date,time,location,count
 2021-07-03,529,Africa,144747
 2021-07-04,530,Africa,145373
 2021-07-05,531,Africa,146886
+2021-07-06,532,Africa,147719
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,0.1
 2020-01-24,3,Australasia,0.1
@@ -1061,6 +1062,7 @@ date,time,location,count
 2021-07-03,529,Australasia,95191
 2021-07-04,530,Australasia,95935
 2021-07-05,531,Australasia,96663
+2021-07-06,532,Australasia,97663
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1592,6 +1594,7 @@ date,time,location,count
 2021-07-03,529,Central America,264251
 2021-07-04,530,Central America,264356
 2021-07-05,531,Central America,264555
+2021-07-06,532,Central America,264922
 2020-01-22,1,East Asia,17
 2020-01-23,2,East Asia,18
 2020-01-24,3,East Asia,26
@@ -2123,6 +2126,7 @@ date,time,location,count
 2021-07-03,529,East Asia,35256
 2021-07-04,530,East Asia,35372
 2021-07-05,531,East Asia,35498
+2021-07-06,532,East Asia,35658
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -2654,6 +2658,7 @@ date,time,location,count
 2021-07-03,529,Eastern Europe,438038
 2021-07-04,530,Eastern Europe,438733
 2021-07-05,531,Eastern Europe,439510
+2021-07-06,532,Eastern Europe,440349
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -3183,8 +3188,9 @@ date,time,location,count
 2021-07-01,527,Eurasia,70965
 2021-07-02,528,Eurasia,71049
 2021-07-03,529,Eurasia,71127
-2021-07-04,530,Eurasia,71146
-2021-07-05,531,Eurasia,71190
+2021-07-04,530,Eurasia,71196
+2021-07-05,531,Eurasia,71275
+2021-07-06,532,Eurasia,71340
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -3716,6 +3722,7 @@ date,time,location,count
 2021-07-03,529,Indian Subcontinent,447479
 2021-07-04,530,Indian Subcontinent,448419
 2021-07-05,531,Indian Subcontinent,449514
+2021-07-06,532,Indian Subcontinent,450746
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -4247,6 +4254,7 @@ date,time,location,count
 2021-07-03,529,Latin America,1022846
 2021-07-04,530,Latin America,1025463
 2021-07-05,531,Latin America,1027919
+2021-07-06,532,Latin America,1031190
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -4778,6 +4786,7 @@ date,time,location,count
 2021-07-03,529,Middle East,149570
 2021-07-04,530,Middle East,149961
 2021-07-05,531,Middle East,150226
+2021-07-06,532,Middle East,150488
 2020-01-22,1,North America,0.1
 2020-01-23,2,North America,0.1
 2020-01-24,3,North America,0.1
@@ -5302,13 +5311,14 @@ date,time,location,count
 2021-06-26,522,North America,630138
 2021-06-27,523,North America,630215
 2021-06-28,524,North America,630393
-2021-06-29,525,North America,630755
+2021-06-29,525,North America,630748
 2021-06-30,526,North America,631022
 2021-07-01,527,North America,631327
 2021-07-02,528,North America,631719
 2021-07-03,529,North America,631805
 2021-07-04,530,North America,631842
 2021-07-05,531,North America,631903
+2021-07-06,532,North America,632250
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -5840,6 +5850,7 @@ date,time,location,count
 2021-07-03,529,Northern Europe,160620
 2021-07-04,530,Northern Europe,160638
 2021-07-05,531,Northern Europe,160649
+2021-07-06,532,Northern Europe,160696
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -6371,6 +6382,7 @@ date,time,location,count
 2021-07-03,529,Other,2443
 2021-07-04,530,Other,2443
 2021-07-05,531,Other,2447
+2021-07-06,532,Other,2447
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,0.1
@@ -6897,8 +6909,9 @@ date,time,location,count
 2021-06-28,524,Western Europe,506610
 2021-06-29,525,Western Europe,506831
 2021-06-30,526,Western Europe,507001
-2021-07-01,527,Western Europe,507154
-2021-07-02,528,Western Europe,507284
-2021-07-03,529,Western Europe,507345
-2021-07-04,530,Western Europe,507376
-2021-07-05,531,Western Europe,507519
+2021-07-01,527,Western Europe,507179
+2021-07-02,528,Western Europe,507309
+2021-07-03,529,Western Europe,507370
+2021-07-04,530,Western Europe,507401
+2021-07-05,531,Western Europe,507544
+2021-07-06,532,Western Europe,507690
