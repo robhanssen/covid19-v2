@@ -544,6 +544,7 @@ date,time,location,count
 2021-07-17,543,Africa,6183312
 2021-07-18,544,Africa,6219438
 2021-07-19,545,Africa,6249769
+2021-07-20,546,Africa,6283244
 2020-01-22,1,Australasia,0.1
 2020-01-23,2,Australasia,3
 2020-01-24,3,Australasia,5
@@ -1089,6 +1090,7 @@ date,time,location,count
 2021-07-17,543,Australasia,5658092
 2021-07-18,544,Australasia,5730330
 2021-07-19,545,Australasia,5791930
+2021-07-20,546,Australasia,5859918
 2020-01-22,1,Central America,0.1
 2020-01-23,2,Central America,0.1
 2020-01-24,3,Central America,0.1
@@ -1634,6 +1636,7 @@ date,time,location,count
 2021-07-17,543,Central America,4182856
 2021-07-18,544,Central America,4188716
 2021-07-19,545,Central America,4198331
+2021-07-20,546,Central America,4219724
 2020-01-22,1,East Asia,556
 2020-01-23,2,East Asia,651
 2020-01-24,3,East Asia,932
@@ -2179,6 +2182,7 @@ date,time,location,count
 2021-07-17,543,East Asia,2487126
 2021-07-18,544,East Asia,2506324
 2021-07-19,545,East Asia,2524526
+2021-07-20,546,East Asia,2546157
 2020-01-22,1,Eastern Europe,0.1
 2020-01-23,2,Eastern Europe,0.1
 2020-01-24,3,Eastern Europe,0.1
@@ -2724,6 +2728,7 @@ date,time,location,count
 2021-07-17,543,Eastern Europe,18072946
 2021-07-18,544,Eastern Europe,18100012
 2021-07-19,545,Eastern Europe,18126449
+2021-07-20,546,Eastern Europe,18152714
 2020-01-22,1,Eurasia,0.1
 2020-01-23,2,Eurasia,0.1
 2020-01-24,3,Eurasia,0.1
@@ -3269,6 +3274,7 @@ date,time,location,count
 2021-07-17,543,Eurasia,7301675
 2021-07-18,544,Eurasia,7305393
 2021-07-19,545,Eurasia,7323799
+2021-07-20,546,Eurasia,7353303
 2020-01-22,1,Indian Subcontinent,0.1
 2020-01-23,2,Indian Subcontinent,0.1
 2020-01-24,3,Indian Subcontinent,0.1
@@ -3814,6 +3820,7 @@ date,time,location,count
 2021-07-17,543,Indian Subcontinent,33611527
 2021-07-18,544,Indian Subcontinent,33665151
 2021-07-19,545,Indian Subcontinent,33715839
+2021-07-20,546,Indian Subcontinent,33774519
 2020-01-22,1,Latin America,0.1
 2020-01-23,2,Latin America,0.1
 2020-01-24,3,Latin America,0.1
@@ -4359,6 +4366,7 @@ date,time,location,count
 2021-07-17,543,Latin America,35247874
 2021-07-18,544,Latin America,35318696
 2021-07-19,545,Latin America,35376835
+2021-07-20,546,Latin America,35442857
 2020-01-22,1,Middle East,0.1
 2020-01-23,2,Middle East,0.1
 2020-01-24,3,Middle East,0.1
@@ -4904,6 +4912,7 @@ date,time,location,count
 2021-07-17,543,Middle East,9826991
 2021-07-18,544,Middle East,9862686
 2021-07-19,545,Middle East,9902383
+2021-07-20,546,Middle East,9944847
 2020-01-22,1,North America,1
 2020-01-23,2,North America,1
 2020-01-24,3,North America,2
@@ -5449,6 +5458,7 @@ date,time,location,count
 2021-07-17,543,North America,35498349
 2021-07-18,544,North America,35510700
 2021-07-19,545,North America,35563449
+2021-07-20,546,North America,35606465
 2020-01-22,1,Northern Europe,0.1
 2020-01-23,2,Northern Europe,0.1
 2020-01-24,3,Northern Europe,0.1
@@ -5936,64 +5946,65 @@ date,time,location,count
 2021-05-20,485,Northern Europe,6799805
 2021-05-21,486,Northern Europe,6809872
 2021-05-22,487,Northern Europe,6815867
-2021-05-23,488,Northern Europe,6820626
-2021-05-24,489,Northern Europe,6825103
-2021-05-25,490,Northern Europe,6836486
-2021-05-26,491,Northern Europe,6845579
-2021-05-27,492,Northern Europe,6853480
-2021-05-28,493,Northern Europe,6860508
-2021-05-29,494,Northern Europe,6866447
-2021-05-30,495,Northern Europe,6871818
-2021-05-31,496,Northern Europe,6877017
-2021-06-01,497,Northern Europe,6882823
-2021-06-02,498,Northern Europe,6889831
-2021-06-03,499,Northern Europe,6906213
-2021-06-04,500,Northern Europe,6916031
-2021-06-05,501,Northern Europe,6923647
-2021-06-06,502,Northern Europe,6930619
-2021-06-07,503,Northern Europe,6937560
-2021-06-08,504,Northern Europe,6947682
-2021-06-09,505,Northern Europe,6958198
-2021-06-10,506,Northern Europe,6967916
-2021-06-11,507,Northern Europe,6977974
-2021-06-12,508,Northern Europe,6987099
-2021-06-13,509,Northern Europe,6995421
-2021-06-14,510,Northern Europe,7003910
-2021-06-15,511,Northern Europe,7013823
-2021-06-16,512,Northern Europe,7023902
-2021-06-17,513,Northern Europe,7035987
-2021-06-18,514,Northern Europe,7047292
-2021-06-19,515,Northern Europe,7058438
-2021-06-20,516,Northern Europe,7068425
-2021-06-21,517,Northern Europe,7079665
-2021-06-22,518,Northern Europe,7095433
-2021-06-23,519,Northern Europe,7112874
-2021-06-24,520,Northern Europe,7130998
-2021-06-25,521,Northern Europe,7147094
-2021-06-26,522,Northern Europe,7166217
-2021-06-27,523,Northern Europe,7181644
-2021-06-28,524,Northern Europe,7205147
-2021-06-29,525,Northern Europe,7227526
-2021-06-30,526,Northern Europe,7254574
-2021-07-01,527,Northern Europe,7284683
-2021-07-02,528,Northern Europe,7313262
-2021-07-03,529,Northern Europe,7339064
-2021-07-04,530,Northern Europe,7364176
-2021-07-05,531,Northern Europe,7392310
-2021-07-06,532,Northern Europe,7423326
-2021-07-07,533,Northern Europe,7457565
-2021-07-08,534,Northern Europe,7491638
-2021-07-09,535,Northern Europe,7529683
-2021-07-10,536,Northern Europe,7563236
-2021-07-11,537,Northern Europe,7596152
-2021-07-12,538,Northern Europe,7632761
-2021-07-13,539,Northern Europe,7672258
-2021-07-14,540,Northern Europe,7717478
-2021-07-15,541,Northern Europe,7769295
-2021-07-16,542,Northern Europe,7824539
-2021-07-17,543,Northern Europe,7881854
-2021-07-18,544,Northern Europe,7931978
-2021-07-19,545,Northern Europe,7975053
+2021-05-23,488,Northern Europe,6820627
+2021-05-24,489,Northern Europe,6825104
+2021-05-25,490,Northern Europe,6836487
+2021-05-26,491,Northern Europe,6845584
+2021-05-27,492,Northern Europe,6853489
+2021-05-28,493,Northern Europe,6860517
+2021-05-29,494,Northern Europe,6866468
+2021-05-30,495,Northern Europe,6871839
+2021-05-31,496,Northern Europe,6877038
+2021-06-01,497,Northern Europe,6882844
+2021-06-02,498,Northern Europe,6889862
+2021-06-03,499,Northern Europe,6906248
+2021-06-04,500,Northern Europe,6916071
+2021-06-05,501,Northern Europe,6923689
+2021-06-06,502,Northern Europe,6930668
+2021-06-07,503,Northern Europe,6937609
+2021-06-08,504,Northern Europe,6947731
+2021-06-09,505,Northern Europe,6958255
+2021-06-10,506,Northern Europe,6967973
+2021-06-11,507,Northern Europe,6978035
+2021-06-12,508,Northern Europe,6987160
+2021-06-13,509,Northern Europe,6995482
+2021-06-14,510,Northern Europe,7003971
+2021-06-15,511,Northern Europe,7013889
+2021-06-16,512,Northern Europe,7023968
+2021-06-17,513,Northern Europe,7036054
+2021-06-18,514,Northern Europe,7047359
+2021-06-19,515,Northern Europe,7058510
+2021-06-20,516,Northern Europe,7068497
+2021-06-21,517,Northern Europe,7079737
+2021-06-22,518,Northern Europe,7095508
+2021-06-23,519,Northern Europe,7112949
+2021-06-24,520,Northern Europe,7131073
+2021-06-25,521,Northern Europe,7147169
+2021-06-26,522,Northern Europe,7166299
+2021-06-27,523,Northern Europe,7181726
+2021-06-28,524,Northern Europe,7205229
+2021-06-29,525,Northern Europe,7227620
+2021-06-30,526,Northern Europe,7254668
+2021-07-01,527,Northern Europe,7284777
+2021-07-02,528,Northern Europe,7313356
+2021-07-03,529,Northern Europe,7339163
+2021-07-04,530,Northern Europe,7364275
+2021-07-05,531,Northern Europe,7392409
+2021-07-06,532,Northern Europe,7423425
+2021-07-07,533,Northern Europe,7457674
+2021-07-08,534,Northern Europe,7491747
+2021-07-09,535,Northern Europe,7529792
+2021-07-10,536,Northern Europe,7563356
+2021-07-11,537,Northern Europe,7596272
+2021-07-12,538,Northern Europe,7632881
+2021-07-13,539,Northern Europe,7672378
+2021-07-14,540,Northern Europe,7717598
+2021-07-15,541,Northern Europe,7769415
+2021-07-16,542,Northern Europe,7824659
+2021-07-17,543,Northern Europe,7882017
+2021-07-18,544,Northern Europe,7932141
+2021-07-19,545,Northern Europe,7975216
+2021-07-20,546,Northern Europe,8025893
 2020-01-22,1,Other,0.1
 2020-01-23,2,Other,0.1
 2020-01-24,3,Other,0.1
@@ -6539,6 +6550,7 @@ date,time,location,count
 2021-07-17,543,Other,121550
 2021-07-18,544,Other,121557
 2021-07-19,545,Other,121625
+2021-07-20,546,Other,121692
 2020-01-22,1,Western Europe,0.1
 2020-01-23,2,Western Europe,0.1
 2020-01-24,3,Western Europe,2
@@ -7084,3 +7096,4 @@ date,time,location,count
 2021-07-17,543,Western Europe,23924106
 2021-07-18,544,Western Europe,23957171
 2021-07-19,545,Western Europe,24045730
+2021-07-20,546,Western Europe,24114074

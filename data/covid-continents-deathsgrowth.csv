@@ -6366,7 +6366,7 @@ date,time,location,growth
 2021-05-27,491,Latin America,4077
 2021-05-27,491,Middle East,259
 2021-05-27,491,North America,1013
-2021-05-27,491,Northern Europe,73
+2021-05-27,491,Northern Europe,74
 2021-05-27,491,Other,0
 2021-05-27,491,Western Europe,677
 2021-05-28,492,Africa,292
@@ -7071,3 +7071,16 @@ date,time,location,growth
 2021-07-20,545,Northern Europe,20
 2021-07-20,545,Other,2
 2021-07-20,545,Western Europe,113
+2021-07-21,546,Africa,1042
+2021-07-21,546,Australasia,1733
+2021-07-21,546,Central America,482
+2021-07-21,546,East Asia,157
+2021-07-21,546,Eastern Europe,852
+2021-07-21,546,Eurasia,1595
+2021-07-21,546,Indian Subcontinent,4334
+2021-07-21,546,Latin America,11186
+2021-07-21,546,Middle East,346
+2021-07-21,546,North America,300
+2021-07-21,546,Northern Europe,109
+2021-07-21,546,Other,2
+2021-07-21,546,Western Europe,111
