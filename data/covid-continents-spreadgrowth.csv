@@ -7052,7 +7052,7 @@ date,time,location,growth
 2021-07-19,544,Eastern Europe,27066
 2021-07-19,544,Eurasia,3718
 2021-07-19,544,Indian Subcontinent,53624
-2021-07-19,544,Latin America,70822
+2021-07-19,544,Latin America,72451
 2021-07-19,544,Middle East,35695
 2021-07-19,544,North America,12351
 2021-07-19,544,Northern Europe,50124
@@ -7065,7 +7065,7 @@ date,time,location,growth
 2021-07-20,545,Eastern Europe,26437
 2021-07-20,545,Eurasia,18406
 2021-07-20,545,Indian Subcontinent,50688
-2021-07-20,545,Latin America,58224
+2021-07-20,545,Latin America,56595
 2021-07-20,545,Middle East,39697
 2021-07-20,545,North America,52749
 2021-07-20,545,Northern Europe,43075
@@ -7078,7 +7078,7 @@ date,time,location,growth
 2021-07-21,546,Eastern Europe,26265
 2021-07-21,546,Eurasia,29504
 2021-07-21,546,Indian Subcontinent,58680
-2021-07-21,546,Latin America,65937
+2021-07-21,546,Latin America,67505
 2021-07-21,546,Middle East,42464
 2021-07-21,546,North America,43016
 2021-07-21,546,Northern Europe,50677
@@ -7091,7 +7091,7 @@ date,time,location,growth
 2021-07-22,547,Eastern Europe,26850
 2021-07-22,547,Eurasia,18616
 2021-07-22,547,Indian Subcontinent,52760
-2021-07-22,547,Latin America,94724
+2021-07-22,547,Latin America,96522
 2021-07-22,547,Middle East,46295
 2021-07-22,547,North America,52549
 2021-07-22,547,Northern Europe,47723
@@ -7104,7 +7104,7 @@ date,time,location,growth
 2021-07-23,548,Eastern Europe,27783
 2021-07-23,548,Eurasia,20592
 2021-07-23,548,Indian Subcontinent,42956
-2021-07-23,548,Latin America,90886
+2021-07-23,548,Latin America,92597
 2021-07-23,548,Middle East,33667
 2021-07-23,548,North America,55475
 2021-07-23,548,Northern Europe,43722
@@ -7117,7 +7117,7 @@ date,time,location,growth
 2021-07-24,549,Eastern Europe,27111
 2021-07-24,549,Eurasia,82200
 2021-07-24,549,Indian Subcontinent,7942
-2021-07-24,549,Latin America,150919
+2021-07-24,549,Latin America,152536
 2021-07-24,549,Middle East,35558
 2021-07-24,549,North America,119391
 2021-07-24,549,Northern Europe,39738
@@ -7130,7 +7130,7 @@ date,time,location,growth
 2021-07-25,550,Eastern Europe,27076
 2021-07-25,550,Eurasia,-41717
 2021-07-25,550,Indian Subcontinent,92533
-2021-07-25,550,Latin America,73585
+2021-07-25,550,Latin America,75350
 2021-07-25,550,Middle East,31739
 2021-07-25,550,North America,27720
 2021-07-25,550,Northern Europe,34948
@@ -7143,7 +7143,7 @@ date,time,location,growth
 2021-07-26,551,Eastern Europe,26156
 2021-07-26,551,Eurasia,32220
 2021-07-26,551,Indian Subcontinent,56074
-2021-07-26,551,Latin America,49993
+2021-07-26,551,Latin America,51483
 2021-07-26,551,Middle East,51977
 2021-07-26,551,North America,16275
 2021-07-26,551,Northern Europe,31629
@@ -7156,7 +7156,7 @@ date,time,location,growth
 2021-07-27,552,Eastern Europe,25392
 2021-07-27,552,Eurasia,27036
 2021-07-27,552,Indian Subcontinent,50657
-2021-07-27,552,Latin America,62170
+2021-07-27,552,Latin America,52832
 2021-07-27,552,Middle East,50918
 2021-07-27,552,North America,90170
 2021-07-27,552,Northern Europe,27834
@@ -7169,7 +7169,7 @@ date,time,location,growth
 2021-07-28,553,Eastern Europe,25993
 2021-07-28,553,Eurasia,33170
 2021-07-28,553,Indian Subcontinent,65143
-2021-07-28,553,Latin America,82439
+2021-07-28,553,Latin America,83805
 2021-07-28,553,Middle East,55390
 2021-07-28,553,North America,71277
 2021-07-28,553,Northern Europe,27929
@@ -7182,9 +7182,22 @@ date,time,location,growth
 2021-07-29,554,Eastern Europe,26053
 2021-07-29,554,Eurasia,36126
 2021-07-29,554,Indian Subcontinent,66721
-2021-07-29,554,Latin America,90793
+2021-07-29,554,Latin America,88816
 2021-07-29,554,Middle East,59393
 2021-07-29,554,North America,69567
 2021-07-29,554,Northern Europe,30485
 2021-07-29,554,Other,58
 2021-07-29,554,Western Europe,85798
+2021-07-30,555,Africa,65100
+2021-07-30,555,Australasia,83051
+2021-07-30,555,Central America,26913
+2021-07-30,555,East Asia,33595
+2021-07-30,555,Eastern Europe,27154
+2021-07-30,555,Eurasia,35476
+2021-07-30,555,Indian Subcontinent,66857
+2021-07-30,555,Latin America,85548
+2021-07-30,555,Middle East,54824
+2021-07-30,555,North America,79082
+2021-07-30,555,Northern Europe,35887
+2021-07-30,555,Other,72
+2021-07-30,555,Western Europe,64648
