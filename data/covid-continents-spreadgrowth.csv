@@ -7106,7 +7106,7 @@ date,time,location,growth
 2021-07-23,548,Indian Subcontinent,42956
 2021-07-23,548,Latin America,92597
 2021-07-23,548,Middle East,34829
-2021-07-23,548,North America,55475
+2021-07-23,548,North America,57240
 2021-07-23,548,Northern Europe,43722
 2021-07-23,548,Other,28
 2021-07-23,548,Western Europe,77354
@@ -7119,7 +7119,7 @@ date,time,location,growth
 2021-07-24,549,Indian Subcontinent,7942
 2021-07-24,549,Latin America,152536
 2021-07-24,549,Middle East,36805
-2021-07-24,549,North America,119391
+2021-07-24,549,North America,119752
 2021-07-24,549,Northern Europe,39738
 2021-07-24,549,Other,86
 2021-07-24,549,Western Europe,73125
@@ -7132,7 +7132,7 @@ date,time,location,growth
 2021-07-25,550,Indian Subcontinent,92533
 2021-07-25,550,Latin America,75350
 2021-07-25,550,Middle East,32995
-2021-07-25,550,North America,27720
+2021-07-25,550,North America,28127
 2021-07-25,550,Northern Europe,34948
 2021-07-25,550,Other,19
 2021-07-25,550,Western Europe,46288
@@ -7145,7 +7145,7 @@ date,time,location,growth
 2021-07-26,551,Indian Subcontinent,56074
 2021-07-26,551,Latin America,51483
 2021-07-26,551,Middle East,48312
-2021-07-26,551,North America,16275
+2021-07-26,551,North America,13480
 2021-07-26,551,Northern Europe,31629
 2021-07-26,551,Other,25
 2021-07-26,551,Western Europe,31151
@@ -7158,7 +7158,7 @@ date,time,location,growth
 2021-07-27,552,Indian Subcontinent,50657
 2021-07-27,552,Latin America,52832
 2021-07-27,552,Middle East,52170
-2021-07-27,552,North America,90170
+2021-07-27,552,North America,90432
 2021-07-27,552,Northern Europe,27834
 2021-07-27,552,Other,53
 2021-07-27,552,Western Europe,86598
@@ -7266,3 +7266,16 @@ date,time,location,growth
 2021-08-04,560,Northern Europe,27426
 2021-08-04,560,Other,110
 2021-08-04,560,Western Europe,64494
+2021-08-05,561,Africa,45105
+2021-08-05,561,Australasia,75945
+2021-08-05,561,Central America,30778
+2021-08-05,561,East Asia,41627
+2021-08-05,561,Eastern Europe,27582
+2021-08-05,561,Eurasia,42192
+2021-08-05,561,Indian Subcontinent,65385
+2021-08-05,561,Latin America,78426
+2021-08-05,561,Middle East,60594
+2021-08-05,561,North America,93694
+2021-08-05,561,Northern Europe,34574
+2021-08-05,561,Other,221
+2021-08-05,561,Western Europe,74986
