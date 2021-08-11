@@ -7332,7 +7332,7 @@ date,time,location,growth
 2021-08-09,565,Other,269
 2021-08-09,565,Western Europe,35706
 2021-08-10,566,Africa,33518
-2021-08-10,566,Australasia,60684
+2021-08-10,566,Australasia,60864
 2021-08-10,566,Central America,11486
 2021-08-10,566,East Asia,37601
 2021-08-10,566,Eastern Europe,26149
@@ -7344,3 +7344,16 @@ date,time,location,growth
 2021-08-10,566,Northern Europe,28955
 2021-08-10,566,Other,340
 2021-08-10,566,Western Europe,64729
+2021-08-11,567,Africa,34584
+2021-08-11,567,Australasia,73796
+2021-08-11,567,Central America,29161
+2021-08-11,567,East Asia,37838
+2021-08-11,567,Eastern Europe,27099
+2021-08-11,567,Eurasia,44022
+2021-08-11,567,Indian Subcontinent,57516
+2021-08-11,567,Latin America,64815
+2021-08-11,567,Middle East,58248
+2021-08-11,567,North America,108205
+2021-08-11,567,Northern Europe,30722
+2021-08-11,567,Other,562
+2021-08-11,567,Western Europe,70808
